@@ -1,0 +1,25 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: system tools
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: python packages
+        run: pip install numpy scipy pillow soundfile faster-whisper "av<16"
+      - name: json manifests
+        run: |
+          python -c "import json,glob;[json.load(open(f)) for f in ['package.json','core/package.json','hooks/hooks.json','.claude-plugin/plugin.json','.claude-plugin/marketplace.json']];print('json ok')"
+      - name: skills have frontmatter
+        run: |
+          for f in skills/*/SKILL.md; do head -1 "$f" | grep -q '^---$' || { echo "missing frontmatter: $f"; exit 1; }; grep -q '^name:' "$f" || { echo "missing name: $f"; exit 1; }; grep -q '^description:' "$f" || { echo "missing description: $f"; exit 1; }; done
+      - name: engine install + typecheck
+        run: cd core && npm ci --no-audit --no-fund && npx tsc --noEmit
+      - name: smoke test (renders a video, a template and runs the measuring tool)
+        run: node core/tools/smoke.mjs

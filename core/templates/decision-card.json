@@ -1,0 +1,17 @@
+{
+  "_help": "Every field: {value, source, evidence}. source = USER (the user said it) | RULE (derived from a knowledge rule; cite it) | UNRESOLVED. Nothing is built while any source is UNRESOLVED. User-owned fields may only be USER.",
+  "video": { "value": "my-video", "source": "USER", "evidence": "" },
+  "language": { "value": "UNRESOLVED", "source": "UNRESOLVED", "evidence": "" },
+  "topic": { "value": "UNRESOLVED", "source": "UNRESOLVED", "evidence": "" },
+  "category": { "value": "evergreen|cash_cow|trend|hype", "source": "UNRESOLVED", "evidence": "" },
+  "audience": { "value": "age / device / country", "source": "UNRESOLVED", "evidence": "" },
+  "length_minutes": { "value": 8, "source": "UNRESOLVED", "evidence": "" },
+  "voice": { "value": "engine + voice description", "source": "UNRESOLVED", "evidence": "sample approved on <date>" },
+  "style_reference": { "value": "archetype name from knowledge/channel-style-library.md | a reference link/file | own", "source": "UNRESOLVED", "evidence": "" },
+  "title": { "value": "UNRESOLVED", "source": "UNRESOLVED", "evidence": "3 options offered, user chose #" },
+  "thumbnail_concept": { "value": "UNRESOLVED", "source": "UNRESOLVED", "evidence": "" },
+  "hook_seconds": { "value": 8, "source": "RULE", "evidence": "metrics-rules.hook_rules.evergreen_intro_seconds" },
+  "pacing_preset": { "value": "fast explainer", "source": "RULE", "evidence": "channel-style-library.md pacing presets" },
+  "loudness": { "value": "-16 LUFS / TP -1.5", "source": "RULE", "evidence": "CLAUDE.md section 8" },
+  "stock_keys": { "value": "pexels:no pixabay:no", "source": "UNRESOLVED", "evidence": "doctor.mjs output; asked the user" }
+}

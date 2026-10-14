@@ -1,0 +1,21 @@
+node_modules
+**/node_modules
+dist/
+out/
+.DS_Store
+core/.env
+core/.gpu.lock
+.vidbucks/
+__pycache__/
+*.pyc
+*.log
+# generated media and run data (never commit other people's media or your own renders)
+core/public/audio-lib/
+core/public/videos/
+core/public/stock/
+core/public/_voice-test/
+core/models/
+core/data/
+knowledge/references/
+core/videos/*/takes/
+core/videos/_*/

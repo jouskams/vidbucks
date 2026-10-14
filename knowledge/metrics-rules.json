@@ -1,0 +1,224 @@
+{
+  "_about": "Machine-readable metrics rules for judging a video's early performance. GUIDANCE, NOT LAW: thresholds are rules of thumb, not guarantees; shift them for format, audience and niche, state when you deviate, and treat doubtful claims (listed below) with care.",
+  "reading_order": [
+    "CTR (packaging problem)",
+    "first_30s_retention (hook problem)",
+    "avg_view_pct (content problem)"
+  ],
+  "all_three_bad": "concept / audience mismatch [s66]",
+  "tolerance_pct": 10,
+  "categories": {
+    "evergreen": {
+      "meaning": "People SEARCH for it; lasts years. Direct, search-word titles; no intro/outro/branding; start the first item by ~second 4-10.",
+      "lifetime": "very long",
+      "ctr": {
+        "expect": "5-7",
+        "intervene_below": 4,
+        "abandon_below": 3
+      },
+      "avg_view_pct": {
+        "expect": "35+",
+        "intervene_below": 28,
+        "abandon_below": 21
+      },
+      "first30_pct": {
+        "expect": "75+",
+        "intervene_below": 60,
+        "abandon_below": 45
+      },
+      "window_days": "60-90 (30 if very popular topic)",
+      "traffic_hint": "search should be top-3 source; no search = titles are not searchable [s19]",
+      "retention_priority": "intro + outro [s46]"
+    },
+    "cash_cow": {
+      "meaning": "Browse/suggested driven, can be 'YouTuber-less' (voiceover) and stays 1-3 years. Curiosity titles, scale, documentary tone.",
+      "lifetime": "1-3 years",
+      "ctr": {
+        "expect": "8-10",
+        "intervene_below": 6.4,
+        "abandon_below": 4.8
+      },
+      "avg_view_pct": {
+        "expect": "30+",
+        "intervene_below": 24,
+        "abandon_below": 18
+      },
+      "first30_pct": {
+        "expect": "65-70",
+        "intervene_below": 52,
+        "abandon_below": 39
+      },
+      "window_days": 45,
+      "retention_priority": "body [s48]"
+    },
+    "trend": {
+      "meaning": "Rides a current topic ~1 year; zero-restart when the trend ends unless the channel has lasting content.",
+      "lifetime": "~1 year",
+      "ctr": {
+        "expect": "10-12",
+        "intervene_below": 7,
+        "abandon_below": 6
+      },
+      "avg_view_pct": {
+        "expect": "30-35",
+        "intervene_below": 21,
+        "abandon_below": 18
+      },
+      "first30_pct": {
+        "expect": "70-75",
+        "intervene_below": 49,
+        "abandon_below": 42
+      },
+      "window_days": "3-4 videos",
+      "retention_priority": "intro + body"
+    },
+    "hype": {
+      "meaning": "News-driven spike; days to 2-3 weeks (max ~2 months). Never START a channel with it; only add it if the channel already serves that audience.",
+      "lifetime": "days",
+      "ctr": {
+        "expect": "15+",
+        "intervene_below": 10.5,
+        "abandon_below": 7.5
+      },
+      "avg_view_pct": {
+        "expect": "25-30",
+        "intervene_below": 17.5,
+        "abandon_below": 12.5
+      },
+      "first30_pct": {
+        "expect": "70+",
+        "intervene_below": 49,
+        "abandon_below": 35
+      },
+      "window_days": "4 videos in 3-4 days; no views in first 4 videos = stop"
+    }
+  },
+  "audience_adjustments": {
+    "story_65_plus_avg_view_pct": "40-50 instead of 30-35 [s7,s24]",
+    "story_young_avg_view_pct": "30-35",
+    "older_audience_thumbnail": "no dark/low-contrast thumbnails for 60+ [s52]",
+    "duration_effect": "Every +15 minutes of video length ~ -3 to -4 points of avg view % (10 min at 35% ~ 45 min at 25%) [s26-27]",
+    "min_length_note": "Under 8 minutes loses mid-roll ad slots (earnings drop) [s27]"
+  },
+  "combination_diagnosis": [
+    {
+      "if": "CTR high + first30 good + avg low",
+      "then": "clickbait signal: promise not delivered in body [s28]"
+    },
+    {
+      "if": "CTR high + first30 weak + avg recovers later",
+      "then": "hook is bad: cut/fix the intro [s28]"
+    },
+    {
+      "if": "CTR low + first30 and avg high",
+      "then": "audience too narrow to distribute: fix packaging first [s28]"
+    },
+    {
+      "if": "all three inside the ranges",
+      "then": "do not touch it [s28]"
+    }
+  ],
+  "data_discipline": {
+    "signal": "30-40 views (~300-500 impressions) = a signal exists [s35]; 0-1 views = technical problem",
+    "studio_delay_hours": 48,
+    "first_48h": "CTR is noisy: no decisions, never change thumbnail/title [s25]",
+    "publish_frequency_to_window": "daily: 7-10 videos / 1-2 weeks; 2 per week: 4 videos / 2 weeks; 1 per week: 4 videos / 4 weeks",
+    "analysis_cadence": "daily upload -> channel analysis weekly; 2/week -> every 2 weeks; 1/week -> monthly; tracking daily but no decisions [s3]",
+    "reference_video": "the video that hits the ratios best, not the most-viewed one [s4,s73]",
+    "one_change_at_a_time": true,
+    "never_decide_on_one_video": true,
+    "ninety_day_plan": [
+      "month 1: observe (no interventions)",
+      "month 2: measure (ledger)",
+      "month 3: decide (decision date set in advance)"
+    ]
+  },
+  "decision_flow": [
+    "1. Metrics inside ranges (+-10%)? -> CONTINUE, do not touch",
+    "2. Window (days / videos) not finished? -> WAIT",
+    "3. Distribution signal present (30-40 views)? -> EXTEND the window",
+    "4. In the intervention zone (20% below expectation)? -> INTERVENE (one rung of the ladder)",
+    "5. Three interventions tried, nothing? -> ABANDON the concept"
+  ],
+  "intervention_ladder": [
+    "1 change thumbnail (no risk)",
+    "2 rebuild the intro/hook",
+    "3 length / format / pacing",
+    "4 title pattern (can reset distribution)",
+    "5 concept (no way back)"
+  ],
+  "abandon_rule": "at least 3 of 4: most metrics in the abandon zone; interventions failed; window over; problem is the concept. A single metric is never a reason [s38,s67]",
+  "retention_actions": {
+    "intro_drop": "remove/shorten the intro; get to item 1 by second ~4 [s43-45]",
+    "body_early_drop": "return to the audience definition; move the answer forward",
+    "body_late_drop": "shorten",
+    "outro_drop": "cut ending at <=10 s after the last value; end on the strongest moment, no summary/thanks [s46]"
+  },
+  "packaging": {
+    "title_patterns": [
+      "number/money/extreme scale first",
+      "must be askable as how/why",
+      "known topic + unknown detail (most viral ideas)",
+      "gap (withhold the answer) / contradiction / cost (concrete number)"
+    ],
+    "title_rules": [
+      "never describe the video, leave something to close",
+      "finalise BEFORE publishing; never change the title of a video that gets distribution (thumbnail may change)",
+      "evergreen: clear, direct, search words; cash cow/trend: curiosity + scale"
+    ],
+    "thumbnail_rules": [
+      "one subject, max two words, high contrast",
+      "half-second test at small size",
+      "text never covers the face",
+      "same background in before/after panels",
+      "keep one thumbnail language for >=5 videos",
+      "evergreen shows the searched result; cash cow shows curiosity"
+    ],
+    "description": "[interpretation, not in PDF] put the title's search words in the first lines (esp. evergreen) and repeat the promise"
+  },
+  "hook_rules": {
+    "evergreen_intro_seconds": "0-10",
+    "first_15s_full": true,
+    "open_loops": "3 in the first 30 s: 1 promise + 2 curiosities, closing at different times [s53]",
+    "between_items": "short curiosity sentence",
+    "ask_the_viewer": "ask a question; call-to-action in the middle and at the end",
+    "no_reconvincing": "the viewer already clicked: do not sell the video again, start the answer [s44,s62]"
+  },
+  "copy_doctrine": {
+    "copy": [
+      "title pattern",
+      "length/tempo",
+      "intro structure",
+      "number and place of open loops",
+      "transition rhythm",
+      "number of thumbnail elements",
+      "upload cadence/time"
+    ],
+    "change": [
+      "topic/material",
+      "examples",
+      "narrator voice",
+      "thumbnail object"
+    ],
+    "never_copy": [
+      "the topic title itself",
+      "the channel's history",
+      "timing advantage"
+    ],
+    "formula_extraction": "take the top 10-15 videos of the reference channel; title / thumbnail / length / intro in separate columns; what repeats in ~9 of 10 is the formula; ask 'how is it built', not 'what is it about' [s49-50]"
+  },
+  "doubtful_claims_do_not_rely_on": [
+    "'title carries half of CTR' [s50] unmeasured",
+    "'30% AVD rule is about ad placement' [s27] PDF admits it is observation",
+    "'first 60 minutes decide the audience' and notification mechanics [s16]",
+    "RPM depends on viewer not category [s8-9]: mechanism plausible, no numbers",
+    "'chance of flopping 1 in 1000' [s39]",
+    "'second channel is 3-4x faster' [s39] anecdote",
+    "'title change stops distribution' [s37]: practical warning only"
+  ],
+  "inconsistencies_in_pdf": [
+    "Trend/Hype table values vs written percentages do not match exactly; use the table",
+    "s45 says 80% of loss is in the body, s47 says most is in the first 30 s",
+    "case B (s64) is titled 'targeted intervention' but the decision line says 'abandon - focus on CTR'"
+  ]
+}

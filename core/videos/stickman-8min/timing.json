@@ -1,0 +1,8345 @@
+{
+ "duration": 482.02,
+ "paras": [
+  {
+   "start": 0.0,
+   "end": 5.42
+  },
+  {
+   "start": 5.92,
+   "end": 9.98
+  },
+  {
+   "start": 10.48,
+   "end": 14.58
+  },
+  {
+   "start": 15.08,
+   "end": 19.99
+  },
+  {
+   "start": 20.49,
+   "end": 25.22
+  },
+  {
+   "start": 25.72,
+   "end": 30.77
+  },
+  {
+   "start": 31.27,
+   "end": 36.07
+  },
+  {
+   "start": 36.57,
+   "end": 41.75
+  },
+  {
+   "start": 42.25,
+   "end": 47.49
+  },
+  {
+   "start": 47.99,
+   "end": 51.6
+  },
+  {
+   "start": 52.1,
+   "end": 55.37
+  },
+  {
+   "start": 55.87,
+   "end": 61.17
+  },
+  {
+   "start": 61.67,
+   "end": 64.98
+  },
+  {
+   "start": 65.48,
+   "end": 69.2
+  },
+  {
+   "start": 69.7,
+   "end": 75.95
+  },
+  {
+   "start": 76.45,
+   "end": 83.62
+  },
+  {
+   "start": 84.12,
+   "end": 88.45
+  },
+  {
+   "start": 88.95,
+   "end": 94.74
+  },
+  {
+   "start": 95.24,
+   "end": 100.39
+  },
+  {
+   "start": 100.89,
+   "end": 103.19
+  },
+  {
+   "start": 103.69,
+   "end": 108.47
+  },
+  {
+   "start": 108.97,
+   "end": 114.62
+  },
+  {
+   "start": 115.12,
+   "end": 121.03
+  },
+  {
+   "start": 121.53,
+   "end": 125.86
+  },
+  {
+   "start": 126.36,
+   "end": 131.15
+  },
+  {
+   "start": 131.65,
+   "end": 138.27
+  },
+  {
+   "start": 138.77,
+   "end": 143.09
+  },
+  {
+   "start": 143.59,
+   "end": 150.76
+  },
+  {
+   "start": 151.26,
+   "end": 154.13
+  },
+  {
+   "start": 154.63,
+   "end": 158.64
+  },
+  {
+   "start": 159.14,
+   "end": 166.41
+  },
+  {
+   "start": 166.91,
+   "end": 169.22
+  },
+  {
+   "start": 169.72,
+   "end": 175.08
+  },
+  {
+   "start": 175.58,
+   "end": 183.09
+  },
+  {
+   "start": 183.59,
+   "end": 187.83
+  },
+  {
+   "start": 188.33,
+   "end": 193.17
+  },
+  {
+   "start": 193.67,
+   "end": 197.11
+  },
+  {
+   "start": 197.61,
+   "end": 206.13
+  },
+  {
+   "start": 206.63,
+   "end": 214.06
+  },
+  {
+   "start": 214.56,
+   "end": 216.54
+  },
+  {
+   "start": 217.04,
+   "end": 222.95
+  },
+  {
+   "start": 223.45,
+   "end": 227.84
+  },
+  {
+   "start": 228.34,
+   "end": 232.58
+  },
+  {
+   "start": 233.08,
+   "end": 238.26
+  },
+  {
+   "start": 238.76,
+   "end": 243.3
+  },
+  {
+   "start": 243.8,
+   "end": 248.66
+  },
+  {
+   "start": 249.16,
+   "end": 253.94
+  },
+  {
+   "start": 254.44,
+   "end": 260.42
+  },
+  {
+   "start": 260.92,
+   "end": 264.61
+  },
+  {
+   "start": 265.11,
+   "end": 269.58
+  },
+  {
+   "start": 270.08,
+   "end": 276.68
+  },
+  {
+   "start": 277.18,
+   "end": 278.95
+  },
+  {
+   "start": 279.45,
+   "end": 285.58
+  },
+  {
+   "start": 286.08,
+   "end": 290.04
+  },
+  {
+   "start": 290.54,
+   "end": 293.76
+  },
+  {
+   "start": 294.26,
+   "end": 301.02
+  },
+  {
+   "start": 301.52,
+   "end": 307.63
+  },
+  {
+   "start": 308.13,
+   "end": 313.88
+  },
+  {
+   "start": 314.38,
+   "end": 321.13
+  },
+  {
+   "start": 321.63,
+   "end": 326.36
+  },
+  {
+   "start": 326.86,
+   "end": 329.26
+  },
+  {
+   "start": 329.76,
+   "end": 334.28
+  },
+  {
+   "start": 334.78,
+   "end": 340.75
+  },
+  {
+   "start": 341.25,
+   "end": 346.62
+  },
+  {
+   "start": 347.12,
+   "end": 352.08
+  },
+  {
+   "start": 352.58,
+   "end": 356.6
+  },
+  {
+   "start": 357.1,
+   "end": 361.93
+  },
+  {
+   "start": 362.43,
+   "end": 365.91
+  },
+  {
+   "start": 366.41,
+   "end": 370.12
+  },
+  {
+   "start": 370.62,
+   "end": 374.42
+  },
+  {
+   "start": 374.92,
+   "end": 377.06
+  },
+  {
+   "start": 377.56,
+   "end": 382.43
+  },
+  {
+   "start": 382.93,
+   "end": 388.17
+  },
+  {
+   "start": 388.67,
+   "end": 395.0
+  },
+  {
+   "start": 395.5,
+   "end": 400.49
+  },
+  {
+   "start": 400.99,
+   "end": 405.82
+  },
+  {
+   "start": 406.32,
+   "end": 411.33
+  },
+  {
+   "start": 415.83,
+   "end": 420.72
+  },
+  {
+   "start": 421.22,
+   "end": 425.41
+  },
+  {
+   "start": 425.91,
+   "end": 429.0
+  },
+  {
+   "start": 429.5,
+   "end": 432.76
+  },
+  {
+   "start": 433.26,
+   "end": 437.07
+  },
+  {
+   "start": 437.57,
+   "end": 444.4
+  },
+  {
+   "start": 444.9,
+   "end": 451.41
+  },
+  {
+   "start": 451.91,
+   "end": 456.91
+  },
+  {
+   "start": 457.41,
+   "end": 462.15
+  },
+  {
+   "start": 462.65,
+   "end": 470.61
+  },
+  {
+   "start": 471.11,
+   "end": 474.94
+  },
+  {
+   "start": 475.44,
+   "end": 481.52
+  }
+ ],
+ "sentences": [
+  {
+   "text": "You studied for hours, you read every page, and a week later, almost none of it is still in your head.",
+   "start": 0.0,
+   "end": 5.1
+  },
+  {
+   "text": "This is not because you are lazy, and it is not because your memory is broken.",
+   "start": 6.04,
+   "end": 9.5
+  },
+  {
+   "text": "It is because most of us study in the exact way that brains forget fastest.",
+   "start": 10.62,
+   "end": 14.08
+  },
+  {
+   "text": "Meet Sam.",
+   "start": 14.98,
+   "end": 15.66
+  },
+  {
+   "text": "Sam reads a chapter three times, highlights half of it, and feels great about it.",
+   "start": 16.1,
+   "end": 19.78
+  },
+  {
+   "text": "Two weeks later, Sam stares at an exam question and thinks, I have never seen this before.",
+   "start": 20.52,
+   "end": 24.82
+  },
+  {
+   "text": "In the next eight minutes, I will show you why that happens and six fixes that actually work.",
+   "start": 25.54,
+   "end": 30.48
+  },
+  {
+   "text": "One of them feels almost unfair because it works so well, I will save it for number two.",
+   "start": 31.38,
+   "end": 35.86
+  },
+  {
+   "text": "In 1885, a German psychologist named Herman Ebbinghaus decided to test his own memory.",
+   "start": 36.76,
+   "end": 41.4
+  },
+  {
+   "text": "He memorized lists of meaningless syllables, then checked how many he could still recall later.",
+   "start": 42.34,
+   "end": 47.14
+  },
+  {
+   "text": "He repeated this again and again for years with nobody to help him.",
+   "start": 48.1,
+   "end": 51.3
+  },
+  {
+   "text": "What he found became famous, we call it the forgetting curve.",
+   "start": 52.0,
+   "end": 55.08
+  },
+  {
+   "text": "Right after learning, you remember a lot, then memory drops quickly and later the loss slows down.",
+   "start": 55.72,
+   "end": 60.88
+  },
+  {
+   "text": "Most of the loss happens early in the first hours and days.",
+   "start": 61.76,
+   "end": 64.56
+  },
+  {
+   "text": "So if you never go back to what you learned, the curve simply takes it.",
+   "start": 65.62,
+   "end": 68.98
+  },
+  {
+   "text": "Notice what this means.",
+   "start": 69.72,
+   "end": 70.66
+  },
+  {
+   "text": "Forgetting is not a bug.",
+   "start": 71.3,
+   "end": 72.22
+  },
+  {
+   "text": "Your brain forgets on purpose because it cannot keep everything.",
+   "start": 72.74,
+   "end": 75.44
+  },
+  {
+   "text": "It keeps what you use and let's go of what you do not.",
+   "start": 76.58,
+   "end": 79.06
+  },
+  {
+   "text": "So the real question is how to prove to your brain that something is worth keeping.",
+   "start": 79.74,
+   "end": 83.14
+  },
+  {
+   "text": "Here is the good news.",
+   "start": 83.96,
+   "end": 85.12
+  },
+  {
+   "text": "Every time you bring a memory back, the curve gets flatter.",
+   "start": 85.8,
+   "end": 88.18
+  },
+  {
+   "text": "Think of a path in a forest.",
+   "start": 89.02,
+   "end": 90.14
+  },
+  {
+   "text": "Walk it once and the grass grows back.",
+   "start": 90.72,
+   "end": 92.26
+  },
+  {
+   "text": "Walk it every week and it becomes a road.",
+   "start": 92.76,
+   "end": 94.44
+  },
+  {
+   "text": "That is the secret behind everything that follows.",
+   "start": 95.38,
+   "end": 97.5
+  },
+  {
+   "text": "Let's start with the biggest trap of all.",
+   "start": 98.44,
+   "end": 100.14
+  },
+  {
+   "text": "Fix number one.",
+   "start": 100.96,
+   "end": 101.7
+  },
+  {
+   "text": "Stop rereading your notes.",
+   "start": 102.04,
+   "end": 102.9
+  },
+  {
+   "text": "Rereading feels productive.",
+   "start": 103.8,
+   "end": 104.98
+  },
+  {
+   "text": "The words look familiar and familiar feels like knowing.",
+   "start": 105.5,
+   "end": 108.06
+  },
+  {
+   "text": "Psychologists call this the illusion of knowing.",
+   "start": 109.18,
+   "end": 111.12
+  },
+  {
+   "text": "You recognize the page, but you could not produce the answer.",
+   "start": 111.64,
+   "end": 114.28
+  },
+  {
+   "text": "Highlighting has the same problem.",
+   "start": 115.24,
+   "end": 116.52
+  },
+  {
+   "text": "A large review of study techniques rated both of them as low and usefulness.",
+   "start": 117.1,
+   "end": 120.32
+  },
+  {
+   "text": "That does not mean they are useless.",
+   "start": 121.38,
+   "end": 123.22
+  },
+  {
+   "text": "It means they are a weak use of your time.",
+   "start": 123.7,
+   "end": 125.48
+  },
+  {
+   "text": "A better question to ask yourself is not, do I recognize this?",
+   "start": 126.52,
+   "end": 129.3
+  },
+  {
+   "text": "It is, can I produce this?",
+   "start": 129.68,
+   "end": 130.86
+  },
+  {
+   "text": "Here is something strange you will notice as we go.",
+   "start": 131.62,
+   "end": 133.86
+  },
+  {
+   "text": "The methods that work feel harder and the methods that fail feel easier.",
+   "start": 134.36,
+   "end": 137.8
+  },
+  {
+   "text": "Sam's problem was never effort.",
+   "start": 138.82,
+   "end": 140.34
+  },
+  {
+   "text": "Sam worked hard, but on the wrong kind of work.",
+   "start": 140.74,
+   "end": 142.86
+  },
+  {
+   "text": "Imagine reading a recipe 10 times.",
+   "start": 143.64,
+   "end": 145.56
+  },
+  {
+   "text": "You still could not cook the dish without looking.",
+   "start": 146.14,
+   "end": 148.0
+  },
+  {
+   "text": "Cooking it once from memory teaches you more.",
+   "start": 148.5,
+   "end": 150.42
+  },
+  {
+   "text": "Fix number two.",
+   "start": 151.3,
+   "end": 152.04
+  },
+  {
+   "text": "Test yourself before you feel ready.",
+   "start": 152.34,
+   "end": 153.8
+  },
+  {
+   "text": "Close the book.",
+   "start": 154.7,
+   "end": 155.32
+  },
+  {
+   "text": "Take a blank page.",
+   "start": 155.74,
+   "end": 156.46
+  },
+  {
+   "text": "Write down everything you can remember.",
+   "start": 156.9,
+   "end": 158.28
+  },
+  {
+   "text": "Studying biology instead of rereading the chapter on the heart, cover it up, draw the heart from memory and label every part you can.",
+   "start": 159.28,
+   "end": 166.06
+  },
+  {
+   "text": "Then open the book and check what you missed.",
+   "start": 167.02,
+   "end": 168.76
+  },
+  {
+   "text": "This is called retrieval practice, and it is one of the best studied effects in learning research.",
+   "start": 169.84,
+   "end": 174.64
+  },
+  {
+   "text": "In classic experiments, students who practiced recalling material often remembered more a week later than students who simply reread it.",
+   "start": 175.66,
+   "end": 182.88
+  },
+  {
+   "text": "Even a wrong guess helps because the right answer sticks better afterwards.",
+   "start": 183.64,
+   "end": 187.3
+  },
+  {
+   "text": "Flashcards work for exactly this reason, but only if you answer before you flip the card.",
+   "start": 188.42,
+   "end": 192.82
+  },
+  {
+   "text": "If it feels a little hard good, that feeling is the learning.",
+   "start": 193.84,
+   "end": 196.7
+  },
+  {
+   "text": "Researchers have a name for this.",
+   "start": 197.58,
+   "end": 199.18
+  },
+  {
+   "text": "They call it a desirable difficulty.",
+   "start": 199.54,
+   "end": 200.8
+  },
+  {
+   "text": "The effort you feel is not a warning sign.",
+   "start": 201.62,
+   "end": 203.62
+  },
+  {
+   "text": "It is the signal that learning is happening.",
+   "start": 204.1,
+   "end": 205.74
+  },
+  {
+   "text": "Sam tries it.",
+   "start": 206.68,
+   "end": 207.5
+  },
+  {
+   "text": "On the first attempt, Sam remembers four things out of 20.",
+   "start": 207.76,
+   "end": 210.46
+  },
+  {
+   "text": "That feels terrible, but now Sam knows exactly what to study.",
+   "start": 211.0,
+   "end": 213.72
+  },
+  {
+   "text": "Fix number three.",
+   "start": 214.6,
+   "end": 215.42
+  },
+  {
+   "text": "Spread it out.",
+   "start": 215.88,
+   "end": 216.26
+  },
+  {
+   "text": "Studying the same topic for five hours in one night feels intense, but it mostly builds short term memory.",
+   "start": 217.28,
+   "end": 222.7
+  },
+  {
+   "text": "Cramming can get you through tomorrow's test.",
+   "start": 223.54,
+   "end": 225.38
+  },
+  {
+   "text": "It rarely survives until next month.",
+   "start": 225.9,
+   "end": 227.56
+  },
+  {
+   "text": "Spaced repetition means you review something just as you are about to forget it.",
+   "start": 228.44,
+   "end": 232.38
+  },
+  {
+   "text": "For example, review it the next day, then three days later, then a week later, then a month later.",
+   "start": 233.08,
+   "end": 237.84
+  },
+  {
+   "text": "Each review is a retrieval, so each one flattens the forgetting curve a little more.",
+   "start": 238.88,
+   "end": 242.98
+  },
+  {
+   "text": "Several short sessions usually beat one long session, even when the total time is the same.",
+   "start": 243.94,
+   "end": 248.3
+  },
+  {
+   "text": "The sweet spot is to review when remembering feels slightly hard, but not impossible.",
+   "start": 249.3,
+   "end": 253.4
+  },
+  {
+   "text": "Here is a rule of thumb.",
+   "start": 254.56,
+   "end": 255.56
+  },
+  {
+   "text": "The longer you want to remember something, the longer the gaps between reviews can be.",
+   "start": 256.14,
+   "end": 260.14
+  },
+  {
+   "text": "And they fit into a busy week much more easily than one giant night.",
+   "start": 261.06,
+   "end": 264.3
+  },
+  {
+   "text": "Apps like Anki can schedule the reviews for you, but a simple calendar works too.",
+   "start": 265.18,
+   "end": 269.28
+  },
+  {
+   "text": "Quick pause.",
+   "start": 270.2,
+   "end": 270.6
+  },
+  {
+   "text": "So far, stop rereading, test yourself and spread it out.",
+   "start": 271.3,
+   "end": 274.02
+  },
+  {
+   "text": "Three more to go and the next one feels backwards.",
+   "start": 274.02,
+   "end": 276.1
+  },
+  {
+   "text": "Fix number four, mix it up.",
+   "start": 277.2,
+   "end": 278.78
+  },
+  {
+   "text": "Most people practice one type of problem until it feels easy and then move on.",
+   "start": 279.64,
+   "end": 283.34
+  },
+  {
+   "text": "That is called blocked practice.",
+   "start": 283.96,
+   "end": 285.18
+  },
+  {
+   "text": "Interleaving means mixing different types of problems in the same session.",
+   "start": 286.26,
+   "end": 289.66
+  },
+  {
+   "text": "It feels worse.",
+   "start": 290.66,
+   "end": 291.24
+  },
+  {
+   "text": "You make more mistakes while you practice.",
+   "start": 291.86,
+   "end": 293.26
+  },
+  {
+   "text": "But later on a real test, mixed practice usually wins because you learn to choose the right method, not just repeat one.",
+   "start": 294.34,
+   "end": 300.72
+  },
+  {
+   "text": "In one well -known study, people learn to recognize painting styles better when the artists were mixed together.",
+   "start": 301.47,
+   "end": 307.22
+  },
+  {
+   "text": "Doing math makes different problem types, learning a language, mixed vocabulary, listening and speaking.",
+   "start": 308.22,
+   "end": 313.46
+  },
+  {
+   "text": "Preparing for a physics exam shuffled the problems from every chapter together instead of finishing one chapter at a time.",
+   "start": 314.5,
+   "end": 320.82
+  },
+  {
+   "text": "Research on motor skills points the same way from basketball drills to piano scales.",
+   "start": 321.72,
+   "end": 325.84
+  },
+  {
+   "text": "Fix number five, sleep is part of studying.",
+   "start": 326.94,
+   "end": 329.0
+  },
+  {
+   "text": "While you sleep, your brain replays and stabilizes what you learned during the day.",
+   "start": 329.56,
+   "end": 334.0
+  },
+  {
+   "text": "People who sleep after learning usually remember more than people who stay awake for the same stretch of time.",
+   "start": 334.92,
+   "end": 340.34
+  },
+  {
+   "text": "So the all -nighter is a trap.",
+   "start": 341.32,
+   "end": 342.66
+  },
+  {
+   "text": "You give up the very thing that locks memories in for a few extra hours.",
+   "start": 343.08,
+   "end": 346.16
+  },
+  {
+   "text": "A better plan is to study in the evening, review briefly in the morning, and protect your sleep.",
+   "start": 347.26,
+   "end": 351.78
+  },
+  {
+   "text": "A short nap after learning can help too, but nothing replaces a full night.",
+   "start": 352.74,
+   "end": 356.3
+  },
+  {
+   "text": "And a tired brain does not just remember less.",
+   "start": 356.86,
+   "end": 359.22
+  },
+  {
+   "text": "It also struggles to take in anything new.",
+   "start": 359.8,
+   "end": 361.62
+  },
+  {
+   "text": "Fix number six, explain it like you are teaching a 10 -year -old.",
+   "start": 362.4,
+   "end": 365.7
+  },
+  {
+   "text": "Pick a concept, explain it out loud in simple words with no note.",
+   "start": 366.36,
+   "end": 369.9
+  },
+  {
+   "text": "The moment you get stuck, you have found a gap in your understanding.",
+   "start": 370.86,
+   "end": 373.96
+  },
+  {
+   "text": "Go back, fill the gap, and try again.",
+   "start": 375.22,
+   "end": 376.82
+  },
+  {
+   "text": "Some people call this the Feynman technique, named after the physicist Richard Feynman.",
+   "start": 377.68,
+   "end": 382.12
+  },
+  {
+   "text": "You can explain to a friend, a pet, or an empty chair.",
+   "start": 382.72,
+   "end": 385.56
+  },
+  {
+   "text": "Teaching is just retrieval with a purpose.",
+   "start": 385.98,
+   "end": 387.78
+  },
+  {
+   "text": "Try it with something you think you already know.",
+   "start": 388.62,
+   "end": 391.08
+  },
+  {
+   "text": "You may be surprised how fast the confident explanation falls apart.",
+   "start": 391.52,
+   "end": 394.76
+  },
+  {
+   "text": "One more tip, connect new facts to things you already know.",
+   "start": 395.54,
+   "end": 398.36
+  },
+  {
+   "text": "Add a picture or a little story.",
+   "start": 398.76,
+   "end": 400.12
+  },
+  {
+   "text": "Connected facts are easier to retrieve because your brain has more paths leading to them.",
+   "start": 400.98,
+   "end": 405.52
+  },
+  {
+   "text": "Now let's test you.",
+   "start": 406.08,
+   "end": 407.28
+  },
+  {
+   "text": "Without scrolling back, name three of the six fixes.",
+   "start": 407.62,
+   "end": 409.86
+  },
+  {
+   "text": "Go ahead, I will wait.",
+   "start": 410.04,
+   "end": 411.04
+  },
+  {
+   "text": "Here they are.",
+   "start": 415.62,
+   "end": 416.4
+  },
+  {
+   "text": "Stop rereading, test yourself, spread it out, mix it up, sleep, and teach it.",
+   "start": 416.82,
+   "end": 420.6
+  },
+  {
+   "text": "Now let's put it into a simple weekly routine.",
+   "start": 421.38,
+   "end": 423.46
+  },
+  {
+   "text": "Study something new on Monday.",
+   "start": 423.86,
+   "end": 424.94
+  },
+  {
+   "text": "On Tuesday, close the book and write down what you remember.",
+   "start": 426.22,
+   "end": 428.52
+  },
+  {
+   "text": "On Thursday, quiz yourself again and mix in older topics.",
+   "start": 429.62,
+   "end": 432.38
+  },
+  {
+   "text": "Next week, explain it out loud and sleep well every night in between.",
+   "start": 433.54,
+   "end": 436.62
+  },
+  {
+   "text": "Sam follows this for a month.",
+   "start": 437.84,
+   "end": 439.06
+  },
+  {
+   "text": "The exam arrives and Sam is calm because every question looks familiar for the right reason.",
+   "start": 439.6,
+   "end": 444.04
+  },
+  {
+   "text": "Your memory is not broken.",
+   "start": 445.04,
+   "end": 446.22
+  },
+  {
+   "text": "It is doing exactly what it was built to do, which is to forget whatever seems unimportant.",
+   "start": 446.84,
+   "end": 451.04
+  },
+  {
+   "text": "Retrieval, spacing, mixing, sleep, and teaching are how you tell your brain.",
+   "start": 452.16,
+   "end": 455.46
+  },
+  {
+   "text": "This one matters.",
+   "start": 456.0,
+   "end": 456.46
+  },
+  {
+   "text": "Do not try all six at once.",
+   "start": 457.52,
+   "end": 458.74
+  },
+  {
+   "text": "Pick one, make it a habit for two weeks and then add the next.",
+   "start": 459.08,
+   "end": 461.84
+  },
+  {
+   "text": "And here is a challenge.",
+   "start": 462.76,
+   "end": 463.68
+  },
+  {
+   "text": "Come back to this video in three days and try to list all six fixes without looking.",
+   "start": 464.32,
+   "end": 468.3
+  },
+  {
+   "text": "That is spaced retrieval in action.",
+   "start": 468.82,
+   "end": 470.22
+  },
+  {
+   "text": "Try just one fix this week and tell me in the comments which one you chose.",
+   "start": 471.14,
+   "end": 474.54
+  },
+  {
+   "text": "Because the person who remembers the most is not the one who studies the longest.",
+   "start": 475.5,
+   "end": 478.88
+  },
+  {
+   "text": "It is the one who tries to remember.",
+   "start": 479.7,
+   "end": 481.06
+  }
+ ],
+ "words": [
+  {
+   "w": "You",
+   "s": 0.0,
+   "e": 0.26
+  },
+  {
+   "w": "studied",
+   "s": 0.26,
+   "e": 0.48
+  },
+  {
+   "w": "for",
+   "s": 0.48,
+   "e": 0.78
+  },
+  {
+   "w": "hours,",
+   "s": 0.78,
+   "e": 1.04
+  },
+  {
+   "w": "you",
+   "s": 1.58,
+   "e": 1.62
+  },
+  {
+   "w": "read",
+   "s": 1.62,
+   "e": 1.82
+  },
+  {
+   "w": "every",
+   "s": 1.82,
+   "e": 1.98
+  },
+  {
+   "w": "page,",
+   "s": 1.98,
+   "e": 2.32
+  },
+  {
+   "w": "and",
+   "s": 2.58,
+   "e": 2.64
+  },
+  {
+   "w": "a",
+   "s": 2.64,
+   "e": 2.76
+  },
+  {
+   "w": "week",
+   "s": 2.76,
+   "e": 2.88
+  },
+  {
+   "w": "later,",
+   "s": 2.88,
+   "e": 3.18
+  },
+  {
+   "w": "almost",
+   "s": 3.56,
+   "e": 3.72
+  },
+  {
+   "w": "none",
+   "s": 3.72,
+   "e": 3.98
+  },
+  {
+   "w": "of",
+   "s": 3.98,
+   "e": 4.18
+  },
+  {
+   "w": "it",
+   "s": 4.18,
+   "e": 4.28
+  },
+  {
+   "w": "is",
+   "s": 4.28,
+   "e": 4.42
+  },
+  {
+   "w": "still",
+   "s": 4.42,
+   "e": 4.64
+  },
+  {
+   "w": "in",
+   "s": 4.64,
+   "e": 4.78
+  },
+  {
+   "w": "your",
+   "s": 4.78,
+   "e": 4.88
+  },
+  {
+   "w": "head.",
+   "s": 4.88,
+   "e": 5.1
+  },
+  {
+   "w": "This",
+   "s": 6.04,
+   "e": 6.22
+  },
+  {
+   "w": "is",
+   "s": 6.22,
+   "e": 6.34
+  },
+  {
+   "w": "not",
+   "s": 6.34,
+   "e": 6.52
+  },
+  {
+   "w": "because",
+   "s": 6.52,
+   "e": 6.82
+  },
+  {
+   "w": "you",
+   "s": 6.82,
+   "e": 7.0
+  },
+  {
+   "w": "are",
+   "s": 7.0,
+   "e": 7.14
+  },
+  {
+   "w": "lazy,",
+   "s": 7.14,
+   "e": 7.34
+  },
+  {
+   "w": "and",
+   "s": 7.82,
+   "e": 7.96
+  },
+  {
+   "w": "it",
+   "s": 7.96,
+   "e": 8.08
+  },
+  {
+   "w": "is",
+   "s": 8.08,
+   "e": 8.2
+  },
+  {
+   "w": "not",
+   "s": 8.2,
+   "e": 8.36
+  },
+  {
+   "w": "because",
+   "s": 8.36,
+   "e": 8.64
+  },
+  {
+   "w": "your",
+   "s": 8.64,
+   "e": 8.8
+  },
+  {
+   "w": "memory",
+   "s": 8.8,
+   "e": 9.06
+  },
+  {
+   "w": "is",
+   "s": 9.06,
+   "e": 9.3
+  },
+  {
+   "w": "broken.",
+   "s": 9.3,
+   "e": 9.5
+  },
+  {
+   "w": "It",
+   "s": 10.62,
+   "e": 10.74
+  },
+  {
+   "w": "is",
+   "s": 10.74,
+   "e": 10.84
+  },
+  {
+   "w": "because",
+   "s": 10.84,
+   "e": 11.1
+  },
+  {
+   "w": "most",
+   "s": 11.1,
+   "e": 11.46
+  },
+  {
+   "w": "of",
+   "s": 11.46,
+   "e": 11.68
+  },
+  {
+   "w": "us",
+   "s": 11.68,
+   "e": 11.76
+  },
+  {
+   "w": "study",
+   "s": 11.76,
+   "e": 12.02
+  },
+  {
+   "w": "in",
+   "s": 12.02,
+   "e": 12.24
+  },
+  {
+   "w": "the",
+   "s": 12.24,
+   "e": 12.36
+  },
+  {
+   "w": "exact",
+   "s": 12.36,
+   "e": 12.5
+  },
+  {
+   "w": "way",
+   "s": 12.5,
+   "e": 12.94
+  },
+  {
+   "w": "that",
+   "s": 12.94,
+   "e": 13.1
+  },
+  {
+   "w": "brains",
+   "s": 13.1,
+   "e": 13.3
+  },
+  {
+   "w": "forget",
+   "s": 13.3,
+   "e": 13.7
+  },
+  {
+   "w": "fastest.",
+   "s": 13.7,
+   "e": 14.08
+  },
+  {
+   "w": "Meet",
+   "s": 14.98,
+   "e": 15.42
+  },
+  {
+   "w": "Sam.",
+   "s": 15.42,
+   "e": 15.66
+  },
+  {
+   "w": "Sam",
+   "s": 16.1,
+   "e": 16.4
+  },
+  {
+   "w": "reads",
+   "s": 16.4,
+   "e": 16.6
+  },
+  {
+   "w": "a",
+   "s": 16.6,
+   "e": 16.88
+  },
+  {
+   "w": "chapter",
+   "s": 16.88,
+   "e": 17.06
+  },
+  {
+   "w": "three",
+   "s": 17.06,
+   "e": 17.46
+  },
+  {
+   "w": "times,",
+   "s": 17.46,
+   "e": 17.76
+  },
+  {
+   "w": "highlights",
+   "s": 17.9,
+   "e": 18.12
+  },
+  {
+   "w": "half",
+   "s": 18.12,
+   "e": 18.46
+  },
+  {
+   "w": "of",
+   "s": 18.46,
+   "e": 18.62
+  },
+  {
+   "w": "it,",
+   "s": 18.62,
+   "e": 18.74
+  },
+  {
+   "w": "and",
+   "s": 18.86,
+   "e": 18.88
+  },
+  {
+   "w": "feels",
+   "s": 18.88,
+   "e": 19.08
+  },
+  {
+   "w": "great",
+   "s": 19.08,
+   "e": 19.36
+  },
+  {
+   "w": "about",
+   "s": 19.36,
+   "e": 19.64
+  },
+  {
+   "w": "it.",
+   "s": 19.64,
+   "e": 19.78
+  },
+  {
+   "w": "Two",
+   "s": 20.52,
+   "e": 20.78
+  },
+  {
+   "w": "weeks",
+   "s": 20.78,
+   "e": 20.94
+  },
+  {
+   "w": "later,",
+   "s": 20.94,
+   "e": 21.22
+  },
+  {
+   "w": "Sam",
+   "s": 21.4,
+   "e": 21.58
+  },
+  {
+   "w": "stares",
+   "s": 21.58,
+   "e": 21.84
+  },
+  {
+   "w": "at",
+   "s": 21.84,
+   "e": 22.16
+  },
+  {
+   "w": "an",
+   "s": 22.16,
+   "e": 22.28
+  },
+  {
+   "w": "exam",
+   "s": 22.28,
+   "e": 22.44
+  },
+  {
+   "w": "question",
+   "s": 22.44,
+   "e": 22.82
+  },
+  {
+   "w": "and",
+   "s": 22.82,
+   "e": 23.12
+  },
+  {
+   "w": "thinks,",
+   "s": 23.12,
+   "e": 23.36
+  },
+  {
+   "w": "I",
+   "s": 23.6,
+   "e": 23.64
+  },
+  {
+   "w": "have",
+   "s": 23.64,
+   "e": 23.76
+  },
+  {
+   "w": "never",
+   "s": 23.76,
+   "e": 23.94
+  },
+  {
+   "w": "seen",
+   "s": 23.94,
+   "e": 24.3
+  },
+  {
+   "w": "this",
+   "s": 24.3,
+   "e": 24.5
+  },
+  {
+   "w": "before.",
+   "s": 24.5,
+   "e": 24.82
+  },
+  {
+   "w": "In",
+   "s": 25.54,
+   "e": 25.98
+  },
+  {
+   "w": "the",
+   "s": 25.98,
+   "e": 26.08
+  },
+  {
+   "w": "next",
+   "s": 26.08,
+   "e": 26.28
+  },
+  {
+   "w": "eight",
+   "s": 26.28,
+   "e": 26.52
+  },
+  {
+   "w": "minutes,",
+   "s": 26.52,
+   "e": 26.76
+  },
+  {
+   "w": "I",
+   "s": 26.8,
+   "e": 27.08
+  },
+  {
+   "w": "will",
+   "s": 27.08,
+   "e": 27.2
+  },
+  {
+   "w": "show",
+   "s": 27.2,
+   "e": 27.42
+  },
+  {
+   "w": "you",
+   "s": 27.42,
+   "e": 27.58
+  },
+  {
+   "w": "why",
+   "s": 27.58,
+   "e": 27.8
+  },
+  {
+   "w": "that",
+   "s": 27.8,
+   "e": 27.98
+  },
+  {
+   "w": "happens",
+   "s": 27.98,
+   "e": 28.32
+  },
+  {
+   "w": "and",
+   "s": 28.32,
+   "e": 28.96
+  },
+  {
+   "w": "six",
+   "s": 28.96,
+   "e": 29.18
+  },
+  {
+   "w": "fixes",
+   "s": 29.18,
+   "e": 29.64
+  },
+  {
+   "w": "that",
+   "s": 29.64,
+   "e": 29.84
+  },
+  {
+   "w": "actually",
+   "s": 29.84,
+   "e": 30.18
+  },
+  {
+   "w": "work.",
+   "s": 30.18,
+   "e": 30.48
+  },
+  {
+   "w": "One",
+   "s": 31.38,
+   "e": 31.56
+  },
+  {
+   "w": "of",
+   "s": 31.56,
+   "e": 31.68
+  },
+  {
+   "w": "them",
+   "s": 31.68,
+   "e": 31.82
+  },
+  {
+   "w": "feels",
+   "s": 31.82,
+   "e": 32.06
+  },
+  {
+   "w": "almost",
+   "s": 32.06,
+   "e": 32.38
+  },
+  {
+   "w": "unfair",
+   "s": 32.38,
+   "e": 32.86
+  },
+  {
+   "w": "because",
+   "s": 32.86,
+   "e": 33.3
+  },
+  {
+   "w": "it",
+   "s": 33.3,
+   "e": 33.44
+  },
+  {
+   "w": "works",
+   "s": 33.44,
+   "e": 33.58
+  },
+  {
+   "w": "so",
+   "s": 33.58,
+   "e": 33.92
+  },
+  {
+   "w": "well,",
+   "s": 33.92,
+   "e": 34.14
+  },
+  {
+   "w": "I",
+   "s": 34.62,
+   "e": 34.78
+  },
+  {
+   "w": "will",
+   "s": 34.78,
+   "e": 34.9
+  },
+  {
+   "w": "save",
+   "s": 34.9,
+   "e": 35.1
+  },
+  {
+   "w": "it",
+   "s": 35.1,
+   "e": 35.26
+  },
+  {
+   "w": "for",
+   "s": 35.26,
+   "e": 35.4
+  },
+  {
+   "w": "number",
+   "s": 35.4,
+   "e": 35.52
+  },
+  {
+   "w": "two.",
+   "s": 35.52,
+   "e": 35.86
+  },
+  {
+   "w": "In",
+   "s": 36.76,
+   "e": 36.84
+  },
+  {
+   "w": "1885,",
+   "s": 36.84,
+   "e": 37.48
+  },
+  {
+   "w": "a",
+   "s": 37.5,
+   "e": 37.76
+  },
+  {
+   "w": "German",
+   "s": 37.76,
+   "e": 37.94
+  },
+  {
+   "w": "psychologist",
+   "s": 37.94,
+   "e": 38.4
+  },
+  {
+   "w": "named",
+   "s": 38.4,
+   "e": 38.9
+  },
+  {
+   "w": "Herman",
+   "s": 38.9,
+   "e": 39.12
+  },
+  {
+   "w": "Ebbinghaus",
+   "s": 39.12,
+   "e": 39.7
+  },
+  {
+   "w": "decided",
+   "s": 39.7,
+   "e": 40.3
+  },
+  {
+   "w": "to",
+   "s": 40.3,
+   "e": 40.62
+  },
+  {
+   "w": "test",
+   "s": 40.62,
+   "e": 40.8
+  },
+  {
+   "w": "his",
+   "s": 40.8,
+   "e": 40.96
+  },
+  {
+   "w": "own",
+   "s": 40.96,
+   "e": 41.06
+  },
+  {
+   "w": "memory.",
+   "s": 41.06,
+   "e": 41.4
+  },
+  {
+   "w": "He",
+   "s": 42.34,
+   "e": 42.48
+  },
+  {
+   "w": "memorized",
+   "s": 42.48,
+   "e": 43.0
+  },
+  {
+   "w": "lists",
+   "s": 43.0,
+   "e": 43.22
+  },
+  {
+   "w": "of",
+   "s": 43.22,
+   "e": 43.54
+  },
+  {
+   "w": "meaningless",
+   "s": 43.54,
+   "e": 43.84
+  },
+  {
+   "w": "syllables,",
+   "s": 43.84,
+   "e": 44.7
+  },
+  {
+   "w": "then",
+   "s": 45.08,
+   "e": 45.24
+  },
+  {
+   "w": "checked",
+   "s": 45.24,
+   "e": 45.42
+  },
+  {
+   "w": "how",
+   "s": 45.42,
+   "e": 45.7
+  },
+  {
+   "w": "many",
+   "s": 45.7,
+   "e": 45.88
+  },
+  {
+   "w": "he",
+   "s": 45.88,
+   "e": 46.06
+  },
+  {
+   "w": "could",
+   "s": 46.06,
+   "e": 46.22
+  },
+  {
+   "w": "still",
+   "s": 46.22,
+   "e": 46.44
+  },
+  {
+   "w": "recall",
+   "s": 46.44,
+   "e": 46.74
+  },
+  {
+   "w": "later.",
+   "s": 46.74,
+   "e": 47.14
+  },
+  {
+   "w": "He",
+   "s": 48.1,
+   "e": 48.22
+  },
+  {
+   "w": "repeated",
+   "s": 48.22,
+   "e": 48.4
+  },
+  {
+   "w": "this",
+   "s": 48.4,
+   "e": 48.78
+  },
+  {
+   "w": "again",
+   "s": 48.78,
+   "e": 49.08
+  },
+  {
+   "w": "and",
+   "s": 49.08,
+   "e": 49.26
+  },
+  {
+   "w": "again",
+   "s": 49.26,
+   "e": 49.48
+  },
+  {
+   "w": "for",
+   "s": 49.48,
+   "e": 49.78
+  },
+  {
+   "w": "years",
+   "s": 49.78,
+   "e": 50.02
+  },
+  {
+   "w": "with",
+   "s": 50.02,
+   "e": 50.4
+  },
+  {
+   "w": "nobody",
+   "s": 50.4,
+   "e": 50.66
+  },
+  {
+   "w": "to",
+   "s": 50.66,
+   "e": 50.96
+  },
+  {
+   "w": "help",
+   "s": 50.96,
+   "e": 51.12
+  },
+  {
+   "w": "him.",
+   "s": 51.12,
+   "e": 51.3
+  },
+  {
+   "w": "What",
+   "s": 52.0,
+   "e": 52.38
+  },
+  {
+   "w": "he",
+   "s": 52.38,
+   "e": 52.48
+  },
+  {
+   "w": "found",
+   "s": 52.48,
+   "e": 52.68
+  },
+  {
+   "w": "became",
+   "s": 52.68,
+   "e": 52.94
+  },
+  {
+   "w": "famous,",
+   "s": 52.94,
+   "e": 53.5
+  },
+  {
+   "w": "we",
+   "s": 53.82,
+   "e": 54.02
+  },
+  {
+   "w": "call",
+   "s": 54.02,
+   "e": 54.18
+  },
+  {
+   "w": "it",
+   "s": 54.18,
+   "e": 54.34
+  },
+  {
+   "w": "the",
+   "s": 54.34,
+   "e": 54.44
+  },
+  {
+   "w": "forgetting",
+   "s": 54.44,
+   "e": 54.7
+  },
+  {
+   "w": "curve.",
+   "s": 54.7,
+   "e": 55.08
+  },
+  {
+   "w": "Right",
+   "s": 55.72,
+   "e": 56.16
+  },
+  {
+   "w": "after",
+   "s": 56.16,
+   "e": 56.48
+  },
+  {
+   "w": "learning,",
+   "s": 56.48,
+   "e": 56.72
+  },
+  {
+   "w": "you",
+   "s": 56.94,
+   "e": 57.04
+  },
+  {
+   "w": "remember",
+   "s": 57.04,
+   "e": 57.28
+  },
+  {
+   "w": "a",
+   "s": 57.28,
+   "e": 57.56
+  },
+  {
+   "w": "lot,",
+   "s": 57.56,
+   "e": 57.7
+  },
+  {
+   "w": "then",
+   "s": 58.38,
+   "e": 58.4
+  },
+  {
+   "w": "memory",
+   "s": 58.4,
+   "e": 58.66
+  },
+  {
+   "w": "drops",
+   "s": 58.66,
+   "e": 58.98
+  },
+  {
+   "w": "quickly",
+   "s": 58.98,
+   "e": 59.3
+  },
+  {
+   "w": "and",
+   "s": 59.3,
+   "e": 59.68
+  },
+  {
+   "w": "later",
+   "s": 59.68,
+   "e": 59.88
+  },
+  {
+   "w": "the",
+   "s": 59.88,
+   "e": 60.08
+  },
+  {
+   "w": "loss",
+   "s": 60.08,
+   "e": 60.26
+  },
+  {
+   "w": "slows",
+   "s": 60.26,
+   "e": 60.52
+  },
+  {
+   "w": "down.",
+   "s": 60.52,
+   "e": 60.88
+  },
+  {
+   "w": "Most",
+   "s": 61.76,
+   "e": 62.04
+  },
+  {
+   "w": "of",
+   "s": 62.04,
+   "e": 62.18
+  },
+  {
+   "w": "the",
+   "s": 62.18,
+   "e": 62.28
+  },
+  {
+   "w": "loss",
+   "s": 62.28,
+   "e": 62.44
+  },
+  {
+   "w": "happens",
+   "s": 62.44,
+   "e": 62.84
+  },
+  {
+   "w": "early",
+   "s": 62.84,
+   "e": 63.1
+  },
+  {
+   "w": "in",
+   "s": 63.1,
+   "e": 63.52
+  },
+  {
+   "w": "the",
+   "s": 63.52,
+   "e": 63.6
+  },
+  {
+   "w": "first",
+   "s": 63.6,
+   "e": 63.82
+  },
+  {
+   "w": "hours",
+   "s": 63.82,
+   "e": 64.12
+  },
+  {
+   "w": "and",
+   "s": 64.12,
+   "e": 64.34
+  },
+  {
+   "w": "days.",
+   "s": 64.34,
+   "e": 64.56
+  },
+  {
+   "w": "So",
+   "s": 65.62,
+   "e": 65.8
+  },
+  {
+   "w": "if",
+   "s": 65.8,
+   "e": 65.96
+  },
+  {
+   "w": "you",
+   "s": 65.96,
+   "e": 66.06
+  },
+  {
+   "w": "never",
+   "s": 66.06,
+   "e": 66.26
+  },
+  {
+   "w": "go",
+   "s": 66.26,
+   "e": 66.54
+  },
+  {
+   "w": "back",
+   "s": 66.54,
+   "e": 66.74
+  },
+  {
+   "w": "to",
+   "s": 66.74,
+   "e": 66.92
+  },
+  {
+   "w": "what",
+   "s": 66.92,
+   "e": 67.06
+  },
+  {
+   "w": "you",
+   "s": 67.06,
+   "e": 67.18
+  },
+  {
+   "w": "learned,",
+   "s": 67.18,
+   "e": 67.4
+  },
+  {
+   "w": "the",
+   "s": 67.86,
+   "e": 67.94
+  },
+  {
+   "w": "curve",
+   "s": 67.94,
+   "e": 68.12
+  },
+  {
+   "w": "simply",
+   "s": 68.12,
+   "e": 68.5
+  },
+  {
+   "w": "takes",
+   "s": 68.5,
+   "e": 68.78
+  },
+  {
+   "w": "it.",
+   "s": 68.78,
+   "e": 68.98
+  },
+  {
+   "w": "Notice",
+   "s": 69.72,
+   "e": 70.0
+  },
+  {
+   "w": "what",
+   "s": 70.0,
+   "e": 70.28
+  },
+  {
+   "w": "this",
+   "s": 70.28,
+   "e": 70.44
+  },
+  {
+   "w": "means.",
+   "s": 70.44,
+   "e": 70.66
+  },
+  {
+   "w": "Forgetting",
+   "s": 71.3,
+   "e": 71.62
+  },
+  {
+   "w": "is",
+   "s": 71.62,
+   "e": 71.74
+  },
+  {
+   "w": "not",
+   "s": 71.74,
+   "e": 71.94
+  },
+  {
+   "w": "a",
+   "s": 71.94,
+   "e": 72.02
+  },
+  {
+   "w": "bug.",
+   "s": 72.02,
+   "e": 72.22
+  },
+  {
+   "w": "Your",
+   "s": 72.74,
+   "e": 72.76
+  },
+  {
+   "w": "brain",
+   "s": 72.76,
+   "e": 73.0
+  },
+  {
+   "w": "forgets",
+   "s": 73.0,
+   "e": 73.42
+  },
+  {
+   "w": "on",
+   "s": 73.42,
+   "e": 73.58
+  },
+  {
+   "w": "purpose",
+   "s": 73.58,
+   "e": 73.8
+  },
+  {
+   "w": "because",
+   "s": 73.8,
+   "e": 74.48
+  },
+  {
+   "w": "it",
+   "s": 74.48,
+   "e": 74.64
+  },
+  {
+   "w": "cannot",
+   "s": 74.64,
+   "e": 74.84
+  },
+  {
+   "w": "keep",
+   "s": 74.84,
+   "e": 75.16
+  },
+  {
+   "w": "everything.",
+   "s": 75.16,
+   "e": 75.44
+  },
+  {
+   "w": "It",
+   "s": 76.58,
+   "e": 76.72
+  },
+  {
+   "w": "keeps",
+   "s": 76.72,
+   "e": 76.94
+  },
+  {
+   "w": "what",
+   "s": 76.94,
+   "e": 77.2
+  },
+  {
+   "w": "you",
+   "s": 77.2,
+   "e": 77.38
+  },
+  {
+   "w": "use",
+   "s": 77.38,
+   "e": 77.62
+  },
+  {
+   "w": "and",
+   "s": 77.62,
+   "e": 77.82
+  },
+  {
+   "w": "let's",
+   "s": 77.82,
+   "e": 78.08
+  },
+  {
+   "w": "go",
+   "s": 78.08,
+   "e": 78.22
+  },
+  {
+   "w": "of",
+   "s": 78.22,
+   "e": 78.44
+  },
+  {
+   "w": "what",
+   "s": 78.44,
+   "e": 78.58
+  },
+  {
+   "w": "you",
+   "s": 78.58,
+   "e": 78.7
+  },
+  {
+   "w": "do",
+   "s": 78.7,
+   "e": 78.82
+  },
+  {
+   "w": "not.",
+   "s": 78.82,
+   "e": 79.06
+  },
+  {
+   "w": "So",
+   "s": 79.74,
+   "e": 80.1
+  },
+  {
+   "w": "the",
+   "s": 80.1,
+   "e": 80.22
+  },
+  {
+   "w": "real",
+   "s": 80.22,
+   "e": 80.34
+  },
+  {
+   "w": "question",
+   "s": 80.34,
+   "e": 80.78
+  },
+  {
+   "w": "is",
+   "s": 80.78,
+   "e": 80.96
+  },
+  {
+   "w": "how",
+   "s": 80.96,
+   "e": 81.26
+  },
+  {
+   "w": "to",
+   "s": 81.26,
+   "e": 81.36
+  },
+  {
+   "w": "prove",
+   "s": 81.36,
+   "e": 81.54
+  },
+  {
+   "w": "to",
+   "s": 81.54,
+   "e": 81.72
+  },
+  {
+   "w": "your",
+   "s": 81.72,
+   "e": 81.82
+  },
+  {
+   "w": "brain",
+   "s": 81.82,
+   "e": 82.06
+  },
+  {
+   "w": "that",
+   "s": 82.06,
+   "e": 82.24
+  },
+  {
+   "w": "something",
+   "s": 82.24,
+   "e": 82.5
+  },
+  {
+   "w": "is",
+   "s": 82.5,
+   "e": 82.74
+  },
+  {
+   "w": "worth",
+   "s": 82.74,
+   "e": 82.9
+  },
+  {
+   "w": "keeping.",
+   "s": 82.9,
+   "e": 83.14
+  },
+  {
+   "w": "Here",
+   "s": 83.96,
+   "e": 84.44
+  },
+  {
+   "w": "is",
+   "s": 84.44,
+   "e": 84.62
+  },
+  {
+   "w": "the",
+   "s": 84.62,
+   "e": 84.72
+  },
+  {
+   "w": "good",
+   "s": 84.72,
+   "e": 84.9
+  },
+  {
+   "w": "news.",
+   "s": 84.9,
+   "e": 85.12
+  },
+  {
+   "w": "Every",
+   "s": 85.8,
+   "e": 85.8
+  },
+  {
+   "w": "time",
+   "s": 85.8,
+   "e": 86.04
+  },
+  {
+   "w": "you",
+   "s": 86.04,
+   "e": 86.2
+  },
+  {
+   "w": "bring",
+   "s": 86.2,
+   "e": 86.36
+  },
+  {
+   "w": "a",
+   "s": 86.36,
+   "e": 86.46
+  },
+  {
+   "w": "memory",
+   "s": 86.46,
+   "e": 86.66
+  },
+  {
+   "w": "back,",
+   "s": 86.66,
+   "e": 87.02
+  },
+  {
+   "w": "the",
+   "s": 87.2,
+   "e": 87.26
+  },
+  {
+   "w": "curve",
+   "s": 87.26,
+   "e": 87.48
+  },
+  {
+   "w": "gets",
+   "s": 87.48,
+   "e": 87.68
+  },
+  {
+   "w": "flatter.",
+   "s": 87.68,
+   "e": 88.18
+  },
+  {
+   "w": "Think",
+   "s": 89.02,
+   "e": 89.22
+  },
+  {
+   "w": "of",
+   "s": 89.22,
+   "e": 89.38
+  },
+  {
+   "w": "a",
+   "s": 89.38,
+   "e": 89.44
+  },
+  {
+   "w": "path",
+   "s": 89.44,
+   "e": 89.62
+  },
+  {
+   "w": "in",
+   "s": 89.62,
+   "e": 89.86
+  },
+  {
+   "w": "a",
+   "s": 89.86,
+   "e": 89.9
+  },
+  {
+   "w": "forest.",
+   "s": 89.9,
+   "e": 90.14
+  },
+  {
+   "w": "Walk",
+   "s": 90.72,
+   "e": 90.88
+  },
+  {
+   "w": "it",
+   "s": 90.88,
+   "e": 91.06
+  },
+  {
+   "w": "once",
+   "s": 91.06,
+   "e": 91.22
+  },
+  {
+   "w": "and",
+   "s": 91.22,
+   "e": 91.44
+  },
+  {
+   "w": "the",
+   "s": 91.44,
+   "e": 91.5
+  },
+  {
+   "w": "grass",
+   "s": 91.5,
+   "e": 91.68
+  },
+  {
+   "w": "grows",
+   "s": 91.68,
+   "e": 91.96
+  },
+  {
+   "w": "back.",
+   "s": 91.96,
+   "e": 92.26
+  },
+  {
+   "w": "Walk",
+   "s": 92.76,
+   "e": 92.88
+  },
+  {
+   "w": "it",
+   "s": 92.88,
+   "e": 93.08
+  },
+  {
+   "w": "every",
+   "s": 93.08,
+   "e": 93.2
+  },
+  {
+   "w": "week",
+   "s": 93.2,
+   "e": 93.48
+  },
+  {
+   "w": "and",
+   "s": 93.48,
+   "e": 93.74
+  },
+  {
+   "w": "it",
+   "s": 93.74,
+   "e": 93.82
+  },
+  {
+   "w": "becomes",
+   "s": 93.82,
+   "e": 94.06
+  },
+  {
+   "w": "a",
+   "s": 94.06,
+   "e": 94.26
+  },
+  {
+   "w": "road.",
+   "s": 94.26,
+   "e": 94.44
+  },
+  {
+   "w": "That",
+   "s": 95.38,
+   "e": 95.54
+  },
+  {
+   "w": "is",
+   "s": 95.54,
+   "e": 95.66
+  },
+  {
+   "w": "the",
+   "s": 95.66,
+   "e": 95.82
+  },
+  {
+   "w": "secret",
+   "s": 95.82,
+   "e": 96.14
+  },
+  {
+   "w": "behind",
+   "s": 96.14,
+   "e": 96.48
+  },
+  {
+   "w": "everything",
+   "s": 96.48,
+   "e": 96.92
+  },
+  {
+   "w": "that",
+   "s": 96.92,
+   "e": 97.24
+  },
+  {
+   "w": "follows.",
+   "s": 97.24,
+   "e": 97.5
+  },
+  {
+   "w": "Let's",
+   "s": 98.44,
+   "e": 98.68
+  },
+  {
+   "w": "start",
+   "s": 98.68,
+   "e": 98.86
+  },
+  {
+   "w": "with",
+   "s": 98.86,
+   "e": 99.04
+  },
+  {
+   "w": "the",
+   "s": 99.04,
+   "e": 99.16
+  },
+  {
+   "w": "biggest",
+   "s": 99.16,
+   "e": 99.4
+  },
+  {
+   "w": "trap",
+   "s": 99.4,
+   "e": 99.72
+  },
+  {
+   "w": "of",
+   "s": 99.72,
+   "e": 99.94
+  },
+  {
+   "w": "all.",
+   "s": 99.94,
+   "e": 100.14
+  },
+  {
+   "w": "Fix",
+   "s": 100.96,
+   "e": 101.22
+  },
+  {
+   "w": "number",
+   "s": 101.22,
+   "e": 101.38
+  },
+  {
+   "w": "one.",
+   "s": 101.38,
+   "e": 101.7
+  },
+  {
+   "w": "Stop",
+   "s": 102.04,
+   "e": 102.06
+  },
+  {
+   "w": "rereading",
+   "s": 102.06,
+   "e": 102.46
+  },
+  {
+   "w": "your",
+   "s": 102.46,
+   "e": 102.64
+  },
+  {
+   "w": "notes.",
+   "s": 102.64,
+   "e": 102.9
+  },
+  {
+   "w": "Rereading",
+   "s": 103.8,
+   "e": 104.22
+  },
+  {
+   "w": "feels",
+   "s": 104.22,
+   "e": 104.66
+  },
+  {
+   "w": "productive.",
+   "s": 104.66,
+   "e": 104.98
+  },
+  {
+   "w": "The",
+   "s": 105.5,
+   "e": 105.5
+  },
+  {
+   "w": "words",
+   "s": 105.5,
+   "e": 105.68
+  },
+  {
+   "w": "look",
+   "s": 105.68,
+   "e": 105.94
+  },
+  {
+   "w": "familiar",
+   "s": 105.94,
+   "e": 106.28
+  },
+  {
+   "w": "and",
+   "s": 106.28,
+   "e": 106.8
+  },
+  {
+   "w": "familiar",
+   "s": 106.8,
+   "e": 107.08
+  },
+  {
+   "w": "feels",
+   "s": 107.08,
+   "e": 107.5
+  },
+  {
+   "w": "like",
+   "s": 107.5,
+   "e": 107.78
+  },
+  {
+   "w": "knowing.",
+   "s": 107.78,
+   "e": 108.06
+  },
+  {
+   "w": "Psychologists",
+   "s": 109.18,
+   "e": 109.66
+  },
+  {
+   "w": "call",
+   "s": 109.66,
+   "e": 109.94
+  },
+  {
+   "w": "this",
+   "s": 109.94,
+   "e": 110.14
+  },
+  {
+   "w": "the",
+   "s": 110.14,
+   "e": 110.34
+  },
+  {
+   "w": "illusion",
+   "s": 110.34,
+   "e": 110.62
+  },
+  {
+   "w": "of",
+   "s": 110.62,
+   "e": 110.9
+  },
+  {
+   "w": "knowing.",
+   "s": 110.9,
+   "e": 111.12
+  },
+  {
+   "w": "You",
+   "s": 111.64,
+   "e": 111.76
+  },
+  {
+   "w": "recognize",
+   "s": 111.76,
+   "e": 111.94
+  },
+  {
+   "w": "the",
+   "s": 111.94,
+   "e": 112.38
+  },
+  {
+   "w": "page,",
+   "s": 112.38,
+   "e": 112.62
+  },
+  {
+   "w": "but",
+   "s": 112.9,
+   "e": 113.04
+  },
+  {
+   "w": "you",
+   "s": 113.04,
+   "e": 113.14
+  },
+  {
+   "w": "could",
+   "s": 113.14,
+   "e": 113.32
+  },
+  {
+   "w": "not",
+   "s": 113.32,
+   "e": 113.48
+  },
+  {
+   "w": "produce",
+   "s": 113.48,
+   "e": 113.76
+  },
+  {
+   "w": "the",
+   "s": 113.76,
+   "e": 114.0
+  },
+  {
+   "w": "answer.",
+   "s": 114.0,
+   "e": 114.28
+  },
+  {
+   "w": "Highlighting",
+   "s": 115.24,
+   "e": 115.66
+  },
+  {
+   "w": "has",
+   "s": 115.66,
+   "e": 115.86
+  },
+  {
+   "w": "the",
+   "s": 115.86,
+   "e": 116.04
+  },
+  {
+   "w": "same",
+   "s": 116.04,
+   "e": 116.24
+  },
+  {
+   "w": "problem.",
+   "s": 116.24,
+   "e": 116.52
+  },
+  {
+   "w": "A",
+   "s": 117.1,
+   "e": 117.16
+  },
+  {
+   "w": "large",
+   "s": 117.16,
+   "e": 117.4
+  },
+  {
+   "w": "review",
+   "s": 117.4,
+   "e": 117.78
+  },
+  {
+   "w": "of",
+   "s": 117.78,
+   "e": 117.96
+  },
+  {
+   "w": "study",
+   "s": 117.96,
+   "e": 118.12
+  },
+  {
+   "w": "techniques",
+   "s": 118.12,
+   "e": 118.52
+  },
+  {
+   "w": "rated",
+   "s": 118.52,
+   "e": 118.9
+  },
+  {
+   "w": "both",
+   "s": 118.9,
+   "e": 119.2
+  },
+  {
+   "w": "of",
+   "s": 119.2,
+   "e": 119.4
+  },
+  {
+   "w": "them",
+   "s": 119.4,
+   "e": 119.54
+  },
+  {
+   "w": "as",
+   "s": 119.54,
+   "e": 119.72
+  },
+  {
+   "w": "low",
+   "s": 119.72,
+   "e": 119.94
+  },
+  {
+   "w": "and",
+   "s": 119.94,
+   "e": 120.1
+  },
+  {
+   "w": "usefulness.",
+   "s": 120.1,
+   "e": 120.32
+  },
+  {
+   "w": "That",
+   "s": 121.38,
+   "e": 121.82
+  },
+  {
+   "w": "does",
+   "s": 121.82,
+   "e": 121.98
+  },
+  {
+   "w": "not",
+   "s": 121.98,
+   "e": 122.2
+  },
+  {
+   "w": "mean",
+   "s": 122.2,
+   "e": 122.46
+  },
+  {
+   "w": "they",
+   "s": 122.46,
+   "e": 122.68
+  },
+  {
+   "w": "are",
+   "s": 122.68,
+   "e": 122.88
+  },
+  {
+   "w": "useless.",
+   "s": 122.88,
+   "e": 123.22
+  },
+  {
+   "w": "It",
+   "s": 123.7,
+   "e": 123.78
+  },
+  {
+   "w": "means",
+   "s": 123.78,
+   "e": 123.92
+  },
+  {
+   "w": "they",
+   "s": 123.92,
+   "e": 124.22
+  },
+  {
+   "w": "are",
+   "s": 124.22,
+   "e": 124.4
+  },
+  {
+   "w": "a",
+   "s": 124.4,
+   "e": 124.52
+  },
+  {
+   "w": "weak",
+   "s": 124.52,
+   "e": 124.68
+  },
+  {
+   "w": "use",
+   "s": 124.68,
+   "e": 124.94
+  },
+  {
+   "w": "of",
+   "s": 124.94,
+   "e": 125.1
+  },
+  {
+   "w": "your",
+   "s": 125.1,
+   "e": 125.22
+  },
+  {
+   "w": "time.",
+   "s": 125.22,
+   "e": 125.48
+  },
+  {
+   "w": "A",
+   "s": 126.52,
+   "e": 126.58
+  },
+  {
+   "w": "better",
+   "s": 126.58,
+   "e": 126.74
+  },
+  {
+   "w": "question",
+   "s": 126.74,
+   "e": 127.0
+  },
+  {
+   "w": "to",
+   "s": 127.0,
+   "e": 127.3
+  },
+  {
+   "w": "ask",
+   "s": 127.3,
+   "e": 127.46
+  },
+  {
+   "w": "yourself",
+   "s": 127.46,
+   "e": 127.84
+  },
+  {
+   "w": "is",
+   "s": 127.84,
+   "e": 128.04
+  },
+  {
+   "w": "not,",
+   "s": 128.04,
+   "e": 128.22
+  },
+  {
+   "w": "do",
+   "s": 128.34,
+   "e": 128.42
+  },
+  {
+   "w": "I",
+   "s": 128.42,
+   "e": 128.54
+  },
+  {
+   "w": "recognize",
+   "s": 128.54,
+   "e": 128.86
+  },
+  {
+   "w": "this?",
+   "s": 128.86,
+   "e": 129.3
+  },
+  {
+   "w": "It",
+   "s": 129.68,
+   "e": 129.72
+  },
+  {
+   "w": "is,",
+   "s": 129.72,
+   "e": 129.86
+  },
+  {
+   "w": "can",
+   "s": 130.04,
+   "e": 130.14
+  },
+  {
+   "w": "I",
+   "s": 130.14,
+   "e": 130.3
+  },
+  {
+   "w": "produce",
+   "s": 130.3,
+   "e": 130.52
+  },
+  {
+   "w": "this?",
+   "s": 130.52,
+   "e": 130.86
+  },
+  {
+   "w": "Here",
+   "s": 131.62,
+   "e": 131.94
+  },
+  {
+   "w": "is",
+   "s": 131.94,
+   "e": 132.08
+  },
+  {
+   "w": "something",
+   "s": 132.08,
+   "e": 132.32
+  },
+  {
+   "w": "strange",
+   "s": 132.32,
+   "e": 132.68
+  },
+  {
+   "w": "you",
+   "s": 132.68,
+   "e": 132.96
+  },
+  {
+   "w": "will",
+   "s": 132.96,
+   "e": 133.06
+  },
+  {
+   "w": "notice",
+   "s": 133.06,
+   "e": 133.28
+  },
+  {
+   "w": "as",
+   "s": 133.28,
+   "e": 133.52
+  },
+  {
+   "w": "we",
+   "s": 133.52,
+   "e": 133.66
+  },
+  {
+   "w": "go.",
+   "s": 133.66,
+   "e": 133.86
+  },
+  {
+   "w": "The",
+   "s": 134.36,
+   "e": 134.4
+  },
+  {
+   "w": "methods",
+   "s": 134.4,
+   "e": 134.68
+  },
+  {
+   "w": "that",
+   "s": 134.68,
+   "e": 134.92
+  },
+  {
+   "w": "work",
+   "s": 134.92,
+   "e": 135.12
+  },
+  {
+   "w": "feel",
+   "s": 135.12,
+   "e": 135.38
+  },
+  {
+   "w": "harder",
+   "s": 135.38,
+   "e": 135.66
+  },
+  {
+   "w": "and",
+   "s": 135.66,
+   "e": 136.26
+  },
+  {
+   "w": "the",
+   "s": 136.26,
+   "e": 136.36
+  },
+  {
+   "w": "methods",
+   "s": 136.36,
+   "e": 136.64
+  },
+  {
+   "w": "that",
+   "s": 136.64,
+   "e": 136.86
+  },
+  {
+   "w": "fail",
+   "s": 136.86,
+   "e": 137.06
+  },
+  {
+   "w": "feel",
+   "s": 137.06,
+   "e": 137.46
+  },
+  {
+   "w": "easier.",
+   "s": 137.46,
+   "e": 137.8
+  },
+  {
+   "w": "Sam's",
+   "s": 138.82,
+   "e": 139.3
+  },
+  {
+   "w": "problem",
+   "s": 139.3,
+   "e": 139.58
+  },
+  {
+   "w": "was",
+   "s": 139.58,
+   "e": 139.78
+  },
+  {
+   "w": "never",
+   "s": 139.78,
+   "e": 140.02
+  },
+  {
+   "w": "effort.",
+   "s": 140.02,
+   "e": 140.34
+  },
+  {
+   "w": "Sam",
+   "s": 140.74,
+   "e": 140.88
+  },
+  {
+   "w": "worked",
+   "s": 140.88,
+   "e": 141.12
+  },
+  {
+   "w": "hard,",
+   "s": 141.12,
+   "e": 141.38
+  },
+  {
+   "w": "but",
+   "s": 141.78,
+   "e": 141.88
+  },
+  {
+   "w": "on",
+   "s": 141.88,
+   "e": 142.0
+  },
+  {
+   "w": "the",
+   "s": 142.0,
+   "e": 142.1
+  },
+  {
+   "w": "wrong",
+   "s": 142.1,
+   "e": 142.24
+  },
+  {
+   "w": "kind",
+   "s": 142.24,
+   "e": 142.54
+  },
+  {
+   "w": "of",
+   "s": 142.54,
+   "e": 142.68
+  },
+  {
+   "w": "work.",
+   "s": 142.68,
+   "e": 142.86
+  },
+  {
+   "w": "Imagine",
+   "s": 143.64,
+   "e": 143.94
+  },
+  {
+   "w": "reading",
+   "s": 143.94,
+   "e": 144.4
+  },
+  {
+   "w": "a",
+   "s": 144.4,
+   "e": 144.58
+  },
+  {
+   "w": "recipe",
+   "s": 144.58,
+   "e": 144.84
+  },
+  {
+   "w": "10",
+   "s": 144.84,
+   "e": 145.28
+  },
+  {
+   "w": "times.",
+   "s": 145.28,
+   "e": 145.56
+  },
+  {
+   "w": "You",
+   "s": 146.14,
+   "e": 146.18
+  },
+  {
+   "w": "still",
+   "s": 146.18,
+   "e": 146.42
+  },
+  {
+   "w": "could",
+   "s": 146.42,
+   "e": 146.62
+  },
+  {
+   "w": "not",
+   "s": 146.62,
+   "e": 146.78
+  },
+  {
+   "w": "cook",
+   "s": 146.78,
+   "e": 146.98
+  },
+  {
+   "w": "the",
+   "s": 146.98,
+   "e": 147.18
+  },
+  {
+   "w": "dish",
+   "s": 147.18,
+   "e": 147.4
+  },
+  {
+   "w": "without",
+   "s": 147.4,
+   "e": 147.56
+  },
+  {
+   "w": "looking.",
+   "s": 147.56,
+   "e": 148.0
+  },
+  {
+   "w": "Cooking",
+   "s": 148.5,
+   "e": 148.68
+  },
+  {
+   "w": "it",
+   "s": 148.68,
+   "e": 148.94
+  },
+  {
+   "w": "once",
+   "s": 148.94,
+   "e": 149.1
+  },
+  {
+   "w": "from",
+   "s": 149.1,
+   "e": 149.34
+  },
+  {
+   "w": "memory",
+   "s": 149.34,
+   "e": 149.54
+  },
+  {
+   "w": "teaches",
+   "s": 149.54,
+   "e": 149.9
+  },
+  {
+   "w": "you",
+   "s": 149.9,
+   "e": 150.2
+  },
+  {
+   "w": "more.",
+   "s": 150.2,
+   "e": 150.42
+  },
+  {
+   "w": "Fix",
+   "s": 151.3,
+   "e": 151.56
+  },
+  {
+   "w": "number",
+   "s": 151.56,
+   "e": 151.74
+  },
+  {
+   "w": "two.",
+   "s": 151.74,
+   "e": 152.04
+  },
+  {
+   "w": "Test",
+   "s": 152.34,
+   "e": 152.34
+  },
+  {
+   "w": "yourself",
+   "s": 152.34,
+   "e": 152.6
+  },
+  {
+   "w": "before",
+   "s": 152.6,
+   "e": 153.02
+  },
+  {
+   "w": "you",
+   "s": 153.02,
+   "e": 153.36
+  },
+  {
+   "w": "feel",
+   "s": 153.36,
+   "e": 153.52
+  },
+  {
+   "w": "ready.",
+   "s": 153.52,
+   "e": 153.8
+  },
+  {
+   "w": "Close",
+   "s": 154.7,
+   "e": 154.94
+  },
+  {
+   "w": "the",
+   "s": 154.94,
+   "e": 155.18
+  },
+  {
+   "w": "book.",
+   "s": 155.18,
+   "e": 155.32
+  },
+  {
+   "w": "Take",
+   "s": 155.74,
+   "e": 155.8
+  },
+  {
+   "w": "a",
+   "s": 155.8,
+   "e": 155.96
+  },
+  {
+   "w": "blank",
+   "s": 155.96,
+   "e": 156.08
+  },
+  {
+   "w": "page.",
+   "s": 156.08,
+   "e": 156.46
+  },
+  {
+   "w": "Write",
+   "s": 156.9,
+   "e": 156.98
+  },
+  {
+   "w": "down",
+   "s": 156.98,
+   "e": 157.26
+  },
+  {
+   "w": "everything",
+   "s": 157.26,
+   "e": 157.54
+  },
+  {
+   "w": "you",
+   "s": 157.54,
+   "e": 157.86
+  },
+  {
+   "w": "can",
+   "s": 157.86,
+   "e": 158.0
+  },
+  {
+   "w": "remember.",
+   "s": 158.0,
+   "e": 158.28
+  },
+  {
+   "w": "Studying",
+   "s": 159.28,
+   "e": 159.72
+  },
+  {
+   "w": "biology",
+   "s": 159.72,
+   "e": 159.96
+  },
+  {
+   "w": "instead",
+   "s": 159.96,
+   "e": 160.78
+  },
+  {
+   "w": "of",
+   "s": 160.78,
+   "e": 161.04
+  },
+  {
+   "w": "rereading",
+   "s": 161.04,
+   "e": 161.46
+  },
+  {
+   "w": "the",
+   "s": 161.46,
+   "e": 161.66
+  },
+  {
+   "w": "chapter",
+   "s": 161.66,
+   "e": 161.86
+  },
+  {
+   "w": "on",
+   "s": 161.86,
+   "e": 162.16
+  },
+  {
+   "w": "the",
+   "s": 162.16,
+   "e": 162.28
+  },
+  {
+   "w": "heart,",
+   "s": 162.28,
+   "e": 162.48
+  },
+  {
+   "w": "cover",
+   "s": 162.64,
+   "e": 162.82
+  },
+  {
+   "w": "it",
+   "s": 162.82,
+   "e": 163.04
+  },
+  {
+   "w": "up,",
+   "s": 163.04,
+   "e": 163.14
+  },
+  {
+   "w": "draw",
+   "s": 163.14,
+   "e": 163.74
+  },
+  {
+   "w": "the",
+   "s": 163.74,
+   "e": 164.0
+  },
+  {
+   "w": "heart",
+   "s": 164.0,
+   "e": 164.18
+  },
+  {
+   "w": "from",
+   "s": 164.18,
+   "e": 164.4
+  },
+  {
+   "w": "memory",
+   "s": 164.4,
+   "e": 164.7
+  },
+  {
+   "w": "and",
+   "s": 164.7,
+   "e": 164.94
+  },
+  {
+   "w": "label",
+   "s": 164.94,
+   "e": 165.16
+  },
+  {
+   "w": "every",
+   "s": 165.16,
+   "e": 165.42
+  },
+  {
+   "w": "part",
+   "s": 165.42,
+   "e": 165.72
+  },
+  {
+   "w": "you",
+   "s": 165.72,
+   "e": 165.86
+  },
+  {
+   "w": "can.",
+   "s": 165.86,
+   "e": 166.06
+  },
+  {
+   "w": "Then",
+   "s": 167.02,
+   "e": 167.26
+  },
+  {
+   "w": "open",
+   "s": 167.26,
+   "e": 167.48
+  },
+  {
+   "w": "the",
+   "s": 167.48,
+   "e": 167.66
+  },
+  {
+   "w": "book",
+   "s": 167.66,
+   "e": 167.82
+  },
+  {
+   "w": "and",
+   "s": 167.82,
+   "e": 168.08
+  },
+  {
+   "w": "check",
+   "s": 168.08,
+   "e": 168.26
+  },
+  {
+   "w": "what",
+   "s": 168.26,
+   "e": 168.46
+  },
+  {
+   "w": "you",
+   "s": 168.46,
+   "e": 168.58
+  },
+  {
+   "w": "missed.",
+   "s": 168.58,
+   "e": 168.76
+  },
+  {
+   "w": "This",
+   "s": 169.84,
+   "e": 170.04
+  },
+  {
+   "w": "is",
+   "s": 170.04,
+   "e": 170.16
+  },
+  {
+   "w": "called",
+   "s": 170.16,
+   "e": 170.4
+  },
+  {
+   "w": "retrieval",
+   "s": 170.4,
+   "e": 170.76
+  },
+  {
+   "w": "practice,",
+   "s": 170.76,
+   "e": 171.24
+  },
+  {
+   "w": "and",
+   "s": 171.38,
+   "e": 171.92
+  },
+  {
+   "w": "it",
+   "s": 171.92,
+   "e": 172.02
+  },
+  {
+   "w": "is",
+   "s": 172.02,
+   "e": 172.14
+  },
+  {
+   "w": "one",
+   "s": 172.14,
+   "e": 172.32
+  },
+  {
+   "w": "of",
+   "s": 172.32,
+   "e": 172.44
+  },
+  {
+   "w": "the",
+   "s": 172.44,
+   "e": 172.56
+  },
+  {
+   "w": "best",
+   "s": 172.56,
+   "e": 172.8
+  },
+  {
+   "w": "studied",
+   "s": 172.8,
+   "e": 173.32
+  },
+  {
+   "w": "effects",
+   "s": 173.32,
+   "e": 173.58
+  },
+  {
+   "w": "in",
+   "s": 173.58,
+   "e": 173.98
+  },
+  {
+   "w": "learning",
+   "s": 173.98,
+   "e": 174.16
+  },
+  {
+   "w": "research.",
+   "s": 174.16,
+   "e": 174.64
+  },
+  {
+   "w": "In",
+   "s": 175.66,
+   "e": 175.84
+  },
+  {
+   "w": "classic",
+   "s": 175.84,
+   "e": 176.08
+  },
+  {
+   "w": "experiments,",
+   "s": 176.08,
+   "e": 176.8
+  },
+  {
+   "w": "students",
+   "s": 177.22,
+   "e": 177.56
+  },
+  {
+   "w": "who",
+   "s": 177.56,
+   "e": 177.74
+  },
+  {
+   "w": "practiced",
+   "s": 177.74,
+   "e": 178.0
+  },
+  {
+   "w": "recalling",
+   "s": 178.0,
+   "e": 178.46
+  },
+  {
+   "w": "material",
+   "s": 178.46,
+   "e": 178.88
+  },
+  {
+   "w": "often",
+   "s": 178.88,
+   "e": 179.42
+  },
+  {
+   "w": "remembered",
+   "s": 179.42,
+   "e": 179.68
+  },
+  {
+   "w": "more",
+   "s": 179.68,
+   "e": 180.12
+  },
+  {
+   "w": "a",
+   "s": 180.12,
+   "e": 180.26
+  },
+  {
+   "w": "week",
+   "s": 180.26,
+   "e": 180.4
+  },
+  {
+   "w": "later",
+   "s": 180.4,
+   "e": 180.72
+  },
+  {
+   "w": "than",
+   "s": 180.72,
+   "e": 181.24
+  },
+  {
+   "w": "students",
+   "s": 181.24,
+   "e": 181.56
+  },
+  {
+   "w": "who",
+   "s": 181.56,
+   "e": 181.9
+  },
+  {
+   "w": "simply",
+   "s": 181.9,
+   "e": 182.26
+  },
+  {
+   "w": "reread",
+   "s": 182.26,
+   "e": 182.74
+  },
+  {
+   "w": "it.",
+   "s": 182.74,
+   "e": 182.88
+  },
+  {
+   "w": "Even",
+   "s": 183.64,
+   "e": 183.96
+  },
+  {
+   "w": "a",
+   "s": 183.96,
+   "e": 184.06
+  },
+  {
+   "w": "wrong",
+   "s": 184.06,
+   "e": 184.22
+  },
+  {
+   "w": "guess",
+   "s": 184.22,
+   "e": 184.52
+  },
+  {
+   "w": "helps",
+   "s": 184.52,
+   "e": 184.84
+  },
+  {
+   "w": "because",
+   "s": 184.84,
+   "e": 185.48
+  },
+  {
+   "w": "the",
+   "s": 185.48,
+   "e": 185.68
+  },
+  {
+   "w": "right",
+   "s": 185.68,
+   "e": 185.84
+  },
+  {
+   "w": "answer",
+   "s": 185.84,
+   "e": 186.22
+  },
+  {
+   "w": "sticks",
+   "s": 186.22,
+   "e": 186.48
+  },
+  {
+   "w": "better",
+   "s": 186.48,
+   "e": 186.9
+  },
+  {
+   "w": "afterwards.",
+   "s": 186.9,
+   "e": 187.3
+  },
+  {
+   "w": "Flashcards",
+   "s": 188.42,
+   "e": 188.92
+  },
+  {
+   "w": "work",
+   "s": 188.92,
+   "e": 189.2
+  },
+  {
+   "w": "for",
+   "s": 189.2,
+   "e": 189.42
+  },
+  {
+   "w": "exactly",
+   "s": 189.42,
+   "e": 189.6
+  },
+  {
+   "w": "this",
+   "s": 189.6,
+   "e": 190.2
+  },
+  {
+   "w": "reason,",
+   "s": 190.2,
+   "e": 190.5
+  },
+  {
+   "w": "but",
+   "s": 190.72,
+   "e": 190.86
+  },
+  {
+   "w": "only",
+   "s": 190.86,
+   "e": 191.08
+  },
+  {
+   "w": "if",
+   "s": 191.08,
+   "e": 191.3
+  },
+  {
+   "w": "you",
+   "s": 191.3,
+   "e": 191.42
+  },
+  {
+   "w": "answer",
+   "s": 191.42,
+   "e": 191.66
+  },
+  {
+   "w": "before",
+   "s": 191.66,
+   "e": 191.98
+  },
+  {
+   "w": "you",
+   "s": 191.98,
+   "e": 192.22
+  },
+  {
+   "w": "flip",
+   "s": 192.22,
+   "e": 192.4
+  },
+  {
+   "w": "the",
+   "s": 192.4,
+   "e": 192.6
+  },
+  {
+   "w": "card.",
+   "s": 192.6,
+   "e": 192.82
+  },
+  {
+   "w": "If",
+   "s": 193.84,
+   "e": 193.94
+  },
+  {
+   "w": "it",
+   "s": 193.94,
+   "e": 194.06
+  },
+  {
+   "w": "feels",
+   "s": 194.06,
+   "e": 194.3
+  },
+  {
+   "w": "a",
+   "s": 194.3,
+   "e": 194.46
+  },
+  {
+   "w": "little",
+   "s": 194.46,
+   "e": 194.62
+  },
+  {
+   "w": "hard",
+   "s": 194.62,
+   "e": 194.84
+  },
+  {
+   "w": "good,",
+   "s": 194.84,
+   "e": 195.08
+  },
+  {
+   "w": "that",
+   "s": 195.56,
+   "e": 195.72
+  },
+  {
+   "w": "feeling",
+   "s": 195.72,
+   "e": 196.02
+  },
+  {
+   "w": "is",
+   "s": 196.02,
+   "e": 196.3
+  },
+  {
+   "w": "the",
+   "s": 196.3,
+   "e": 196.46
+  },
+  {
+   "w": "learning.",
+   "s": 196.46,
+   "e": 196.7
+  },
+  {
+   "w": "Researchers",
+   "s": 197.58,
+   "e": 198.06
+  },
+  {
+   "w": "have",
+   "s": 198.06,
+   "e": 198.5
+  },
+  {
+   "w": "a",
+   "s": 198.5,
+   "e": 198.56
+  },
+  {
+   "w": "name",
+   "s": 198.56,
+   "e": 198.78
+  },
+  {
+   "w": "for",
+   "s": 198.78,
+   "e": 198.98
+  },
+  {
+   "w": "this.",
+   "s": 198.98,
+   "e": 199.18
+  },
+  {
+   "w": "They",
+   "s": 199.54,
+   "e": 199.62
+  },
+  {
+   "w": "call",
+   "s": 199.62,
+   "e": 199.82
+  },
+  {
+   "w": "it",
+   "s": 199.82,
+   "e": 199.98
+  },
+  {
+   "w": "a",
+   "s": 199.98,
+   "e": 200.08
+  },
+  {
+   "w": "desirable",
+   "s": 200.08,
+   "e": 200.4
+  },
+  {
+   "w": "difficulty.",
+   "s": 200.4,
+   "e": 200.8
+  },
+  {
+   "w": "The",
+   "s": 201.62,
+   "e": 201.7
+  },
+  {
+   "w": "effort",
+   "s": 201.7,
+   "e": 201.92
+  },
+  {
+   "w": "you",
+   "s": 201.92,
+   "e": 202.18
+  },
+  {
+   "w": "feel",
+   "s": 202.18,
+   "e": 202.46
+  },
+  {
+   "w": "is",
+   "s": 202.46,
+   "e": 202.74
+  },
+  {
+   "w": "not",
+   "s": 202.74,
+   "e": 202.92
+  },
+  {
+   "w": "a",
+   "s": 202.92,
+   "e": 203.02
+  },
+  {
+   "w": "warning",
+   "s": 203.02,
+   "e": 203.28
+  },
+  {
+   "w": "sign.",
+   "s": 203.28,
+   "e": 203.62
+  },
+  {
+   "w": "It",
+   "s": 204.1,
+   "e": 204.16
+  },
+  {
+   "w": "is",
+   "s": 204.16,
+   "e": 204.26
+  },
+  {
+   "w": "the",
+   "s": 204.26,
+   "e": 204.42
+  },
+  {
+   "w": "signal",
+   "s": 204.42,
+   "e": 204.8
+  },
+  {
+   "w": "that",
+   "s": 204.8,
+   "e": 204.96
+  },
+  {
+   "w": "learning",
+   "s": 204.96,
+   "e": 205.22
+  },
+  {
+   "w": "is",
+   "s": 205.22,
+   "e": 205.42
+  },
+  {
+   "w": "happening.",
+   "s": 205.42,
+   "e": 205.74
+  },
+  {
+   "w": "Sam",
+   "s": 206.68,
+   "e": 207.0
+  },
+  {
+   "w": "tries",
+   "s": 207.0,
+   "e": 207.22
+  },
+  {
+   "w": "it.",
+   "s": 207.22,
+   "e": 207.5
+  },
+  {
+   "w": "On",
+   "s": 207.76,
+   "e": 207.78
+  },
+  {
+   "w": "the",
+   "s": 207.78,
+   "e": 207.88
+  },
+  {
+   "w": "first",
+   "s": 207.88,
+   "e": 208.04
+  },
+  {
+   "w": "attempt,",
+   "s": 208.04,
+   "e": 208.36
+  },
+  {
+   "w": "Sam",
+   "s": 208.72,
+   "e": 208.96
+  },
+  {
+   "w": "remembers",
+   "s": 208.96,
+   "e": 209.28
+  },
+  {
+   "w": "four",
+   "s": 209.28,
+   "e": 209.66
+  },
+  {
+   "w": "things",
+   "s": 209.66,
+   "e": 209.98
+  },
+  {
+   "w": "out",
+   "s": 209.98,
+   "e": 210.14
+  },
+  {
+   "w": "of",
+   "s": 210.14,
+   "e": 210.24
+  },
+  {
+   "w": "20.",
+   "s": 210.24,
+   "e": 210.46
+  },
+  {
+   "w": "That",
+   "s": 211.0,
+   "e": 211.08
+  },
+  {
+   "w": "feels",
+   "s": 211.08,
+   "e": 211.32
+  },
+  {
+   "w": "terrible,",
+   "s": 211.32,
+   "e": 211.56
+  },
+  {
+   "w": "but",
+   "s": 211.8,
+   "e": 211.94
+  },
+  {
+   "w": "now",
+   "s": 211.94,
+   "e": 212.12
+  },
+  {
+   "w": "Sam",
+   "s": 212.12,
+   "e": 212.42
+  },
+  {
+   "w": "knows",
+   "s": 212.42,
+   "e": 212.66
+  },
+  {
+   "w": "exactly",
+   "s": 212.66,
+   "e": 212.86
+  },
+  {
+   "w": "what",
+   "s": 212.86,
+   "e": 213.34
+  },
+  {
+   "w": "to",
+   "s": 213.34,
+   "e": 213.46
+  },
+  {
+   "w": "study.",
+   "s": 213.46,
+   "e": 213.72
+  },
+  {
+   "w": "Fix",
+   "s": 214.6,
+   "e": 214.92
+  },
+  {
+   "w": "number",
+   "s": 214.92,
+   "e": 215.08
+  },
+  {
+   "w": "three.",
+   "s": 215.08,
+   "e": 215.42
+  },
+  {
+   "w": "Spread",
+   "s": 215.88,
+   "e": 215.9
+  },
+  {
+   "w": "it",
+   "s": 215.9,
+   "e": 216.1
+  },
+  {
+   "w": "out.",
+   "s": 216.1,
+   "e": 216.26
+  },
+  {
+   "w": "Studying",
+   "s": 217.28,
+   "e": 217.6
+  },
+  {
+   "w": "the",
+   "s": 217.6,
+   "e": 217.8
+  },
+  {
+   "w": "same",
+   "s": 217.8,
+   "e": 217.98
+  },
+  {
+   "w": "topic",
+   "s": 217.98,
+   "e": 218.28
+  },
+  {
+   "w": "for",
+   "s": 218.28,
+   "e": 218.6
+  },
+  {
+   "w": "five",
+   "s": 218.6,
+   "e": 218.84
+  },
+  {
+   "w": "hours",
+   "s": 218.84,
+   "e": 219.16
+  },
+  {
+   "w": "in",
+   "s": 219.16,
+   "e": 219.36
+  },
+  {
+   "w": "one",
+   "s": 219.36,
+   "e": 219.52
+  },
+  {
+   "w": "night",
+   "s": 219.52,
+   "e": 219.76
+  },
+  {
+   "w": "feels",
+   "s": 219.76,
+   "e": 220.0
+  },
+  {
+   "w": "intense,",
+   "s": 220.0,
+   "e": 220.32
+  },
+  {
+   "w": "but",
+   "s": 220.32,
+   "e": 221.04
+  },
+  {
+   "w": "it",
+   "s": 221.04,
+   "e": 221.18
+  },
+  {
+   "w": "mostly",
+   "s": 221.18,
+   "e": 221.34
+  },
+  {
+   "w": "builds",
+   "s": 221.34,
+   "e": 221.76
+  },
+  {
+   "w": "short",
+   "s": 221.76,
+   "e": 222.08
+  },
+  {
+   "w": "term",
+   "s": 222.08,
+   "e": 222.34
+  },
+  {
+   "w": "memory.",
+   "s": 222.34,
+   "e": 222.7
+  },
+  {
+   "w": "Cramming",
+   "s": 223.54,
+   "e": 223.98
+  },
+  {
+   "w": "can",
+   "s": 223.98,
+   "e": 224.16
+  },
+  {
+   "w": "get",
+   "s": 224.16,
+   "e": 224.34
+  },
+  {
+   "w": "you",
+   "s": 224.34,
+   "e": 224.5
+  },
+  {
+   "w": "through",
+   "s": 224.5,
+   "e": 224.68
+  },
+  {
+   "w": "tomorrow's",
+   "s": 224.68,
+   "e": 225.22
+  },
+  {
+   "w": "test.",
+   "s": 225.22,
+   "e": 225.38
+  },
+  {
+   "w": "It",
+   "s": 225.9,
+   "e": 225.94
+  },
+  {
+   "w": "rarely",
+   "s": 225.94,
+   "e": 226.1
+  },
+  {
+   "w": "survives",
+   "s": 226.1,
+   "e": 226.58
+  },
+  {
+   "w": "until",
+   "s": 226.58,
+   "e": 226.92
+  },
+  {
+   "w": "next",
+   "s": 226.92,
+   "e": 227.28
+  },
+  {
+   "w": "month.",
+   "s": 227.28,
+   "e": 227.56
+  },
+  {
+   "w": "Spaced",
+   "s": 228.44,
+   "e": 228.84
+  },
+  {
+   "w": "repetition",
+   "s": 228.84,
+   "e": 229.08
+  },
+  {
+   "w": "means",
+   "s": 229.08,
+   "e": 229.92
+  },
+  {
+   "w": "you",
+   "s": 229.92,
+   "e": 230.1
+  },
+  {
+   "w": "review",
+   "s": 230.1,
+   "e": 230.3
+  },
+  {
+   "w": "something",
+   "s": 230.3,
+   "e": 230.66
+  },
+  {
+   "w": "just",
+   "s": 230.66,
+   "e": 231.08
+  },
+  {
+   "w": "as",
+   "s": 231.08,
+   "e": 231.3
+  },
+  {
+   "w": "you",
+   "s": 231.3,
+   "e": 231.46
+  },
+  {
+   "w": "are",
+   "s": 231.46,
+   "e": 231.58
+  },
+  {
+   "w": "about",
+   "s": 231.58,
+   "e": 231.78
+  },
+  {
+   "w": "to",
+   "s": 231.78,
+   "e": 231.96
+  },
+  {
+   "w": "forget",
+   "s": 231.96,
+   "e": 232.2
+  },
+  {
+   "w": "it.",
+   "s": 232.2,
+   "e": 232.38
+  },
+  {
+   "w": "For",
+   "s": 233.08,
+   "e": 233.32
+  },
+  {
+   "w": "example,",
+   "s": 233.32,
+   "e": 233.58
+  },
+  {
+   "w": "review",
+   "s": 234.0,
+   "e": 234.36
+  },
+  {
+   "w": "it",
+   "s": 234.36,
+   "e": 234.52
+  },
+  {
+   "w": "the",
+   "s": 234.52,
+   "e": 234.62
+  },
+  {
+   "w": "next",
+   "s": 234.62,
+   "e": 234.78
+  },
+  {
+   "w": "day,",
+   "s": 234.78,
+   "e": 235.06
+  },
+  {
+   "w": "then",
+   "s": 235.22,
+   "e": 235.36
+  },
+  {
+   "w": "three",
+   "s": 235.36,
+   "e": 235.54
+  },
+  {
+   "w": "days",
+   "s": 235.54,
+   "e": 235.76
+  },
+  {
+   "w": "later,",
+   "s": 235.76,
+   "e": 236.0
+  },
+  {
+   "w": "then",
+   "s": 236.3,
+   "e": 236.44
+  },
+  {
+   "w": "a",
+   "s": 236.44,
+   "e": 236.52
+  },
+  {
+   "w": "week",
+   "s": 236.52,
+   "e": 236.66
+  },
+  {
+   "w": "later,",
+   "s": 236.66,
+   "e": 236.94
+  },
+  {
+   "w": "then",
+   "s": 237.2,
+   "e": 237.36
+  },
+  {
+   "w": "a",
+   "s": 237.36,
+   "e": 237.44
+  },
+  {
+   "w": "month",
+   "s": 237.44,
+   "e": 237.58
+  },
+  {
+   "w": "later.",
+   "s": 237.58,
+   "e": 237.84
+  },
+  {
+   "w": "Each",
+   "s": 238.88,
+   "e": 239.04
+  },
+  {
+   "w": "review",
+   "s": 239.04,
+   "e": 239.42
+  },
+  {
+   "w": "is",
+   "s": 239.42,
+   "e": 239.78
+  },
+  {
+   "w": "a",
+   "s": 239.78,
+   "e": 239.88
+  },
+  {
+   "w": "retrieval,",
+   "s": 239.88,
+   "e": 240.18
+  },
+  {
+   "w": "so",
+   "s": 240.66,
+   "e": 240.86
+  },
+  {
+   "w": "each",
+   "s": 240.86,
+   "e": 241.04
+  },
+  {
+   "w": "one",
+   "s": 241.04,
+   "e": 241.22
+  },
+  {
+   "w": "flattens",
+   "s": 241.22,
+   "e": 241.68
+  },
+  {
+   "w": "the",
+   "s": 241.68,
+   "e": 241.82
+  },
+  {
+   "w": "forgetting",
+   "s": 241.82,
+   "e": 242.08
+  },
+  {
+   "w": "curve",
+   "s": 242.08,
+   "e": 242.4
+  },
+  {
+   "w": "a",
+   "s": 242.4,
+   "e": 242.58
+  },
+  {
+   "w": "little",
+   "s": 242.58,
+   "e": 242.72
+  },
+  {
+   "w": "more.",
+   "s": 242.72,
+   "e": 242.98
+  },
+  {
+   "w": "Several",
+   "s": 243.94,
+   "e": 244.2
+  },
+  {
+   "w": "short",
+   "s": 244.2,
+   "e": 244.5
+  },
+  {
+   "w": "sessions",
+   "s": 244.5,
+   "e": 244.8
+  },
+  {
+   "w": "usually",
+   "s": 244.8,
+   "e": 245.36
+  },
+  {
+   "w": "beat",
+   "s": 245.36,
+   "e": 245.68
+  },
+  {
+   "w": "one",
+   "s": 245.68,
+   "e": 246.02
+  },
+  {
+   "w": "long",
+   "s": 246.02,
+   "e": 246.2
+  },
+  {
+   "w": "session,",
+   "s": 246.2,
+   "e": 246.52
+  },
+  {
+   "w": "even",
+   "s": 246.52,
+   "e": 246.98
+  },
+  {
+   "w": "when",
+   "s": 246.98,
+   "e": 247.18
+  },
+  {
+   "w": "the",
+   "s": 247.18,
+   "e": 247.3
+  },
+  {
+   "w": "total",
+   "s": 247.3,
+   "e": 247.46
+  },
+  {
+   "w": "time",
+   "s": 247.46,
+   "e": 247.8
+  },
+  {
+   "w": "is",
+   "s": 247.8,
+   "e": 247.94
+  },
+  {
+   "w": "the",
+   "s": 247.94,
+   "e": 248.04
+  },
+  {
+   "w": "same.",
+   "s": 248.04,
+   "e": 248.3
+  },
+  {
+   "w": "The",
+   "s": 249.3,
+   "e": 249.4
+  },
+  {
+   "w": "sweet",
+   "s": 249.4,
+   "e": 249.6
+  },
+  {
+   "w": "spot",
+   "s": 249.6,
+   "e": 249.82
+  },
+  {
+   "w": "is",
+   "s": 249.82,
+   "e": 250.1
+  },
+  {
+   "w": "to",
+   "s": 250.1,
+   "e": 250.26
+  },
+  {
+   "w": "review",
+   "s": 250.26,
+   "e": 250.5
+  },
+  {
+   "w": "when",
+   "s": 250.5,
+   "e": 250.88
+  },
+  {
+   "w": "remembering",
+   "s": 250.88,
+   "e": 251.26
+  },
+  {
+   "w": "feels",
+   "s": 251.26,
+   "e": 251.74
+  },
+  {
+   "w": "slightly",
+   "s": 251.74,
+   "e": 252.16
+  },
+  {
+   "w": "hard,",
+   "s": 252.16,
+   "e": 252.58
+  },
+  {
+   "w": "but",
+   "s": 252.82,
+   "e": 252.9
+  },
+  {
+   "w": "not",
+   "s": 252.9,
+   "e": 253.04
+  },
+  {
+   "w": "impossible.",
+   "s": 253.04,
+   "e": 253.4
+  },
+  {
+   "w": "Here",
+   "s": 254.56,
+   "e": 254.74
+  },
+  {
+   "w": "is",
+   "s": 254.74,
+   "e": 254.9
+  },
+  {
+   "w": "a",
+   "s": 254.9,
+   "e": 255.02
+  },
+  {
+   "w": "rule",
+   "s": 255.02,
+   "e": 255.22
+  },
+  {
+   "w": "of",
+   "s": 255.22,
+   "e": 255.34
+  },
+  {
+   "w": "thumb.",
+   "s": 255.34,
+   "e": 255.56
+  },
+  {
+   "w": "The",
+   "s": 256.14,
+   "e": 256.16
+  },
+  {
+   "w": "longer",
+   "s": 256.16,
+   "e": 256.4
+  },
+  {
+   "w": "you",
+   "s": 256.4,
+   "e": 256.66
+  },
+  {
+   "w": "want",
+   "s": 256.66,
+   "e": 256.84
+  },
+  {
+   "w": "to",
+   "s": 256.84,
+   "e": 256.98
+  },
+  {
+   "w": "remember",
+   "s": 256.98,
+   "e": 257.2
+  },
+  {
+   "w": "something,",
+   "s": 257.2,
+   "e": 257.56
+  },
+  {
+   "w": "the",
+   "s": 258.04,
+   "e": 258.14
+  },
+  {
+   "w": "longer",
+   "s": 258.14,
+   "e": 258.44
+  },
+  {
+   "w": "the",
+   "s": 258.44,
+   "e": 258.58
+  },
+  {
+   "w": "gaps",
+   "s": 258.58,
+   "e": 258.82
+  },
+  {
+   "w": "between",
+   "s": 258.82,
+   "e": 259.28
+  },
+  {
+   "w": "reviews",
+   "s": 259.28,
+   "e": 259.6
+  },
+  {
+   "w": "can",
+   "s": 259.6,
+   "e": 259.92
+  },
+  {
+   "w": "be.",
+   "s": 259.92,
+   "e": 260.14
+  },
+  {
+   "w": "And",
+   "s": 261.06,
+   "e": 261.2
+  },
+  {
+   "w": "they",
+   "s": 261.2,
+   "e": 261.32
+  },
+  {
+   "w": "fit",
+   "s": 261.32,
+   "e": 261.5
+  },
+  {
+   "w": "into",
+   "s": 261.5,
+   "e": 261.72
+  },
+  {
+   "w": "a",
+   "s": 261.72,
+   "e": 261.88
+  },
+  {
+   "w": "busy",
+   "s": 261.88,
+   "e": 262.06
+  },
+  {
+   "w": "week",
+   "s": 262.06,
+   "e": 262.38
+  },
+  {
+   "w": "much",
+   "s": 262.38,
+   "e": 262.68
+  },
+  {
+   "w": "more",
+   "s": 262.68,
+   "e": 262.96
+  },
+  {
+   "w": "easily",
+   "s": 262.96,
+   "e": 263.16
+  },
+  {
+   "w": "than",
+   "s": 263.16,
+   "e": 263.52
+  },
+  {
+   "w": "one",
+   "s": 263.52,
+   "e": 263.7
+  },
+  {
+   "w": "giant",
+   "s": 263.7,
+   "e": 264.04
+  },
+  {
+   "w": "night.",
+   "s": 264.04,
+   "e": 264.3
+  },
+  {
+   "w": "Apps",
+   "s": 265.18,
+   "e": 265.44
+  },
+  {
+   "w": "like",
+   "s": 265.44,
+   "e": 265.64
+  },
+  {
+   "w": "Anki",
+   "s": 265.64,
+   "e": 265.96
+  },
+  {
+   "w": "can",
+   "s": 265.96,
+   "e": 266.16
+  },
+  {
+   "w": "schedule",
+   "s": 266.16,
+   "e": 266.5
+  },
+  {
+   "w": "the",
+   "s": 266.5,
+   "e": 266.66
+  },
+  {
+   "w": "reviews",
+   "s": 266.66,
+   "e": 266.9
+  },
+  {
+   "w": "for",
+   "s": 266.9,
+   "e": 267.22
+  },
+  {
+   "w": "you,",
+   "s": 267.22,
+   "e": 267.38
+  },
+  {
+   "w": "but",
+   "s": 267.62,
+   "e": 267.8
+  },
+  {
+   "w": "a",
+   "s": 267.8,
+   "e": 267.88
+  },
+  {
+   "w": "simple",
+   "s": 267.88,
+   "e": 268.16
+  },
+  {
+   "w": "calendar",
+   "s": 268.16,
+   "e": 268.6
+  },
+  {
+   "w": "works",
+   "s": 268.6,
+   "e": 268.94
+  },
+  {
+   "w": "too.",
+   "s": 268.94,
+   "e": 269.28
+  },
+  {
+   "w": "Quick",
+   "s": 270.2,
+   "e": 270.36
+  },
+  {
+   "w": "pause.",
+   "s": 270.36,
+   "e": 270.6
+  },
+  {
+   "w": "So",
+   "s": 271.3,
+   "e": 271.32
+  },
+  {
+   "w": "far,",
+   "s": 271.32,
+   "e": 271.56
+  },
+  {
+   "w": "stop",
+   "s": 271.74,
+   "e": 271.96
+  },
+  {
+   "w": "rereading,",
+   "s": 271.96,
+   "e": 272.32
+  },
+  {
+   "w": "test",
+   "s": 272.74,
+   "e": 272.86
+  },
+  {
+   "w": "yourself",
+   "s": 272.86,
+   "e": 273.12
+  },
+  {
+   "w": "and",
+   "s": 273.12,
+   "e": 273.48
+  },
+  {
+   "w": "spread",
+   "s": 273.48,
+   "e": 273.7
+  },
+  {
+   "w": "it",
+   "s": 273.7,
+   "e": 273.86
+  },
+  {
+   "w": "out.",
+   "s": 273.86,
+   "e": 274.02
+  },
+  {
+   "w": "Three",
+   "s": 274.02,
+   "e": 274.54
+  },
+  {
+   "w": "more",
+   "s": 274.54,
+   "e": 274.72
+  },
+  {
+   "w": "to",
+   "s": 274.72,
+   "e": 274.86
+  },
+  {
+   "w": "go",
+   "s": 274.86,
+   "e": 275.0
+  },
+  {
+   "w": "and",
+   "s": 275.0,
+   "e": 275.22
+  },
+  {
+   "w": "the",
+   "s": 275.22,
+   "e": 275.3
+  },
+  {
+   "w": "next",
+   "s": 275.3,
+   "e": 275.46
+  },
+  {
+   "w": "one",
+   "s": 275.46,
+   "e": 275.62
+  },
+  {
+   "w": "feels",
+   "s": 275.62,
+   "e": 275.82
+  },
+  {
+   "w": "backwards.",
+   "s": 275.82,
+   "e": 276.1
+  },
+  {
+   "w": "Fix",
+   "s": 277.2,
+   "e": 277.48
+  },
+  {
+   "w": "number",
+   "s": 277.48,
+   "e": 277.66
+  },
+  {
+   "w": "four,",
+   "s": 277.66,
+   "e": 278.02
+  },
+  {
+   "w": "mix",
+   "s": 278.3,
+   "e": 278.44
+  },
+  {
+   "w": "it",
+   "s": 278.44,
+   "e": 278.66
+  },
+  {
+   "w": "up.",
+   "s": 278.66,
+   "e": 278.78
+  },
+  {
+   "w": "Most",
+   "s": 279.64,
+   "e": 279.82
+  },
+  {
+   "w": "people",
+   "s": 279.82,
+   "e": 280.08
+  },
+  {
+   "w": "practice",
+   "s": 280.08,
+   "e": 280.48
+  },
+  {
+   "w": "one",
+   "s": 280.48,
+   "e": 280.84
+  },
+  {
+   "w": "type",
+   "s": 280.84,
+   "e": 281.1
+  },
+  {
+   "w": "of",
+   "s": 281.1,
+   "e": 281.22
+  },
+  {
+   "w": "problem",
+   "s": 281.22,
+   "e": 281.48
+  },
+  {
+   "w": "until",
+   "s": 281.48,
+   "e": 281.88
+  },
+  {
+   "w": "it",
+   "s": 281.88,
+   "e": 282.02
+  },
+  {
+   "w": "feels",
+   "s": 282.02,
+   "e": 282.22
+  },
+  {
+   "w": "easy",
+   "s": 282.22,
+   "e": 282.5
+  },
+  {
+   "w": "and",
+   "s": 282.5,
+   "e": 282.82
+  },
+  {
+   "w": "then",
+   "s": 282.82,
+   "e": 282.94
+  },
+  {
+   "w": "move",
+   "s": 282.94,
+   "e": 283.18
+  },
+  {
+   "w": "on.",
+   "s": 283.18,
+   "e": 283.34
+  },
+  {
+   "w": "That",
+   "s": 283.96,
+   "e": 284.06
+  },
+  {
+   "w": "is",
+   "s": 284.06,
+   "e": 284.18
+  },
+  {
+   "w": "called",
+   "s": 284.18,
+   "e": 284.36
+  },
+  {
+   "w": "blocked",
+   "s": 284.36,
+   "e": 284.62
+  },
+  {
+   "w": "practice.",
+   "s": 284.62,
+   "e": 285.18
+  },
+  {
+   "w": "Interleaving",
+   "s": 286.26,
+   "e": 286.76
+  },
+  {
+   "w": "means",
+   "s": 286.76,
+   "e": 287.02
+  },
+  {
+   "w": "mixing",
+   "s": 287.02,
+   "e": 287.48
+  },
+  {
+   "w": "different",
+   "s": 287.48,
+   "e": 287.8
+  },
+  {
+   "w": "types",
+   "s": 287.8,
+   "e": 288.16
+  },
+  {
+   "w": "of",
+   "s": 288.16,
+   "e": 288.34
+  },
+  {
+   "w": "problems",
+   "s": 288.34,
+   "e": 288.7
+  },
+  {
+   "w": "in",
+   "s": 288.7,
+   "e": 288.94
+  },
+  {
+   "w": "the",
+   "s": 288.94,
+   "e": 289.06
+  },
+  {
+   "w": "same",
+   "s": 289.06,
+   "e": 289.22
+  },
+  {
+   "w": "session.",
+   "s": 289.22,
+   "e": 289.66
+  },
+  {
+   "w": "It",
+   "s": 290.66,
+   "e": 290.8
+  },
+  {
+   "w": "feels",
+   "s": 290.8,
+   "e": 290.96
+  },
+  {
+   "w": "worse.",
+   "s": 290.96,
+   "e": 291.24
+  },
+  {
+   "w": "You",
+   "s": 291.86,
+   "e": 291.88
+  },
+  {
+   "w": "make",
+   "s": 291.88,
+   "e": 292.02
+  },
+  {
+   "w": "more",
+   "s": 292.02,
+   "e": 292.22
+  },
+  {
+   "w": "mistakes",
+   "s": 292.22,
+   "e": 292.5
+  },
+  {
+   "w": "while",
+   "s": 292.5,
+   "e": 292.8
+  },
+  {
+   "w": "you",
+   "s": 292.8,
+   "e": 292.94
+  },
+  {
+   "w": "practice.",
+   "s": 292.94,
+   "e": 293.26
+  },
+  {
+   "w": "But",
+   "s": 294.34,
+   "e": 294.52
+  },
+  {
+   "w": "later",
+   "s": 294.52,
+   "e": 294.72
+  },
+  {
+   "w": "on",
+   "s": 294.72,
+   "e": 295.06
+  },
+  {
+   "w": "a",
+   "s": 295.06,
+   "e": 295.18
+  },
+  {
+   "w": "real",
+   "s": 295.18,
+   "e": 295.34
+  },
+  {
+   "w": "test,",
+   "s": 295.34,
+   "e": 295.7
+  },
+  {
+   "w": "mixed",
+   "s": 295.98,
+   "e": 296.12
+  },
+  {
+   "w": "practice",
+   "s": 296.12,
+   "e": 296.4
+  },
+  {
+   "w": "usually",
+   "s": 296.4,
+   "e": 296.86
+  },
+  {
+   "w": "wins",
+   "s": 296.86,
+   "e": 297.2
+  },
+  {
+   "w": "because",
+   "s": 297.2,
+   "e": 297.88
+  },
+  {
+   "w": "you",
+   "s": 297.88,
+   "e": 298.08
+  },
+  {
+   "w": "learn",
+   "s": 298.08,
+   "e": 298.24
+  },
+  {
+   "w": "to",
+   "s": 298.24,
+   "e": 298.44
+  },
+  {
+   "w": "choose",
+   "s": 298.44,
+   "e": 298.7
+  },
+  {
+   "w": "the",
+   "s": 298.7,
+   "e": 298.96
+  },
+  {
+   "w": "right",
+   "s": 298.96,
+   "e": 299.12
+  },
+  {
+   "w": "method,",
+   "s": 299.12,
+   "e": 299.54
+  },
+  {
+   "w": "not",
+   "s": 299.74,
+   "e": 299.94
+  },
+  {
+   "w": "just",
+   "s": 299.94,
+   "e": 300.18
+  },
+  {
+   "w": "repeat",
+   "s": 300.18,
+   "e": 300.36
+  },
+  {
+   "w": "one.",
+   "s": 300.36,
+   "e": 300.72
+  },
+  {
+   "w": "In",
+   "s": 301.47,
+   "e": 301.78
+  },
+  {
+   "w": "one",
+   "s": 301.78,
+   "e": 301.98
+  },
+  {
+   "w": "well",
+   "s": 301.98,
+   "e": 302.26
+  },
+  {
+   "w": "-known",
+   "s": 302.26,
+   "e": 302.5
+  },
+  {
+   "w": "study,",
+   "s": 302.5,
+   "e": 302.88
+  },
+  {
+   "w": "people",
+   "s": 303.2,
+   "e": 303.38
+  },
+  {
+   "w": "learn",
+   "s": 303.38,
+   "e": 303.72
+  },
+  {
+   "w": "to",
+   "s": 303.72,
+   "e": 303.9
+  },
+  {
+   "w": "recognize",
+   "s": 303.9,
+   "e": 304.28
+  },
+  {
+   "w": "painting",
+   "s": 304.28,
+   "e": 304.72
+  },
+  {
+   "w": "styles",
+   "s": 304.72,
+   "e": 305.22
+  },
+  {
+   "w": "better",
+   "s": 305.22,
+   "e": 305.56
+  },
+  {
+   "w": "when",
+   "s": 305.56,
+   "e": 305.98
+  },
+  {
+   "w": "the",
+   "s": 305.98,
+   "e": 306.12
+  },
+  {
+   "w": "artists",
+   "s": 306.12,
+   "e": 306.36
+  },
+  {
+   "w": "were",
+   "s": 306.36,
+   "e": 306.66
+  },
+  {
+   "w": "mixed",
+   "s": 306.66,
+   "e": 306.82
+  },
+  {
+   "w": "together.",
+   "s": 306.82,
+   "e": 307.22
+  },
+  {
+   "w": "Doing",
+   "s": 308.22,
+   "e": 308.46
+  },
+  {
+   "w": "math",
+   "s": 308.46,
+   "e": 308.7
+  },
+  {
+   "w": "makes",
+   "s": 308.7,
+   "e": 309.14
+  },
+  {
+   "w": "different",
+   "s": 309.14,
+   "e": 309.42
+  },
+  {
+   "w": "problem",
+   "s": 309.42,
+   "e": 309.76
+  },
+  {
+   "w": "types,",
+   "s": 309.76,
+   "e": 310.12
+  },
+  {
+   "w": "learning",
+   "s": 310.16,
+   "e": 310.64
+  },
+  {
+   "w": "a",
+   "s": 310.64,
+   "e": 310.82
+  },
+  {
+   "w": "language,",
+   "s": 310.82,
+   "e": 311.12
+  },
+  {
+   "w": "mixed",
+   "s": 311.6,
+   "e": 311.7
+  },
+  {
+   "w": "vocabulary,",
+   "s": 311.7,
+   "e": 312.1
+  },
+  {
+   "w": "listening",
+   "s": 312.62,
+   "e": 312.9
+  },
+  {
+   "w": "and",
+   "s": 312.9,
+   "e": 313.22
+  },
+  {
+   "w": "speaking.",
+   "s": 313.22,
+   "e": 313.46
+  },
+  {
+   "w": "Preparing",
+   "s": 314.5,
+   "e": 314.88
+  },
+  {
+   "w": "for",
+   "s": 314.88,
+   "e": 315.12
+  },
+  {
+   "w": "a",
+   "s": 315.12,
+   "e": 315.22
+  },
+  {
+   "w": "physics",
+   "s": 315.22,
+   "e": 315.42
+  },
+  {
+   "w": "exam",
+   "s": 315.42,
+   "e": 315.94
+  },
+  {
+   "w": "shuffled",
+   "s": 315.94,
+   "e": 316.76
+  },
+  {
+   "w": "the",
+   "s": 316.76,
+   "e": 316.84
+  },
+  {
+   "w": "problems",
+   "s": 316.84,
+   "e": 317.14
+  },
+  {
+   "w": "from",
+   "s": 317.14,
+   "e": 317.46
+  },
+  {
+   "w": "every",
+   "s": 317.46,
+   "e": 317.7
+  },
+  {
+   "w": "chapter",
+   "s": 317.7,
+   "e": 318.04
+  },
+  {
+   "w": "together",
+   "s": 318.04,
+   "e": 318.52
+  },
+  {
+   "w": "instead",
+   "s": 318.52,
+   "e": 318.96
+  },
+  {
+   "w": "of",
+   "s": 318.96,
+   "e": 319.28
+  },
+  {
+   "w": "finishing",
+   "s": 319.28,
+   "e": 319.6
+  },
+  {
+   "w": "one",
+   "s": 319.6,
+   "e": 319.9
+  },
+  {
+   "w": "chapter",
+   "s": 319.9,
+   "e": 320.3
+  },
+  {
+   "w": "at",
+   "s": 320.3,
+   "e": 320.46
+  },
+  {
+   "w": "a",
+   "s": 320.46,
+   "e": 320.52
+  },
+  {
+   "w": "time.",
+   "s": 320.52,
+   "e": 320.82
+  },
+  {
+   "w": "Research",
+   "s": 321.72,
+   "e": 322.08
+  },
+  {
+   "w": "on",
+   "s": 322.08,
+   "e": 322.32
+  },
+  {
+   "w": "motor",
+   "s": 322.32,
+   "e": 322.48
+  },
+  {
+   "w": "skills",
+   "s": 322.48,
+   "e": 322.86
+  },
+  {
+   "w": "points",
+   "s": 322.86,
+   "e": 323.18
+  },
+  {
+   "w": "the",
+   "s": 323.18,
+   "e": 323.44
+  },
+  {
+   "w": "same",
+   "s": 323.44,
+   "e": 323.66
+  },
+  {
+   "w": "way",
+   "s": 323.66,
+   "e": 323.86
+  },
+  {
+   "w": "from",
+   "s": 323.86,
+   "e": 324.16
+  },
+  {
+   "w": "basketball",
+   "s": 324.16,
+   "e": 324.5
+  },
+  {
+   "w": "drills",
+   "s": 324.5,
+   "e": 324.88
+  },
+  {
+   "w": "to",
+   "s": 324.88,
+   "e": 325.22
+  },
+  {
+   "w": "piano",
+   "s": 325.22,
+   "e": 325.46
+  },
+  {
+   "w": "scales.",
+   "s": 325.46,
+   "e": 325.84
+  },
+  {
+   "w": "Fix",
+   "s": 326.94,
+   "e": 327.2
+  },
+  {
+   "w": "number",
+   "s": 327.2,
+   "e": 327.36
+  },
+  {
+   "w": "five,",
+   "s": 327.36,
+   "e": 327.74
+  },
+  {
+   "w": "sleep",
+   "s": 328.16,
+   "e": 328.18
+  },
+  {
+   "w": "is",
+   "s": 328.18,
+   "e": 328.42
+  },
+  {
+   "w": "part",
+   "s": 328.42,
+   "e": 328.58
+  },
+  {
+   "w": "of",
+   "s": 328.58,
+   "e": 328.7
+  },
+  {
+   "w": "studying.",
+   "s": 328.7,
+   "e": 329.0
+  },
+  {
+   "w": "While",
+   "s": 329.56,
+   "e": 330.04
+  },
+  {
+   "w": "you",
+   "s": 330.04,
+   "e": 330.24
+  },
+  {
+   "w": "sleep,",
+   "s": 330.24,
+   "e": 330.48
+  },
+  {
+   "w": "your",
+   "s": 330.94,
+   "e": 331.12
+  },
+  {
+   "w": "brain",
+   "s": 331.12,
+   "e": 331.42
+  },
+  {
+   "w": "replays",
+   "s": 331.42,
+   "e": 332.0
+  },
+  {
+   "w": "and",
+   "s": 332.0,
+   "e": 332.1
+  },
+  {
+   "w": "stabilizes",
+   "s": 332.1,
+   "e": 332.74
+  },
+  {
+   "w": "what",
+   "s": 332.74,
+   "e": 332.96
+  },
+  {
+   "w": "you",
+   "s": 332.96,
+   "e": 333.1
+  },
+  {
+   "w": "learned",
+   "s": 333.1,
+   "e": 333.3
+  },
+  {
+   "w": "during",
+   "s": 333.3,
+   "e": 333.6
+  },
+  {
+   "w": "the",
+   "s": 333.6,
+   "e": 333.78
+  },
+  {
+   "w": "day.",
+   "s": 333.78,
+   "e": 334.0
+  },
+  {
+   "w": "People",
+   "s": 334.92,
+   "e": 335.16
+  },
+  {
+   "w": "who",
+   "s": 335.16,
+   "e": 335.4
+  },
+  {
+   "w": "sleep",
+   "s": 335.4,
+   "e": 335.74
+  },
+  {
+   "w": "after",
+   "s": 335.74,
+   "e": 336.06
+  },
+  {
+   "w": "learning",
+   "s": 336.06,
+   "e": 336.5
+  },
+  {
+   "w": "usually",
+   "s": 336.5,
+   "e": 336.86
+  },
+  {
+   "w": "remember",
+   "s": 336.86,
+   "e": 337.4
+  },
+  {
+   "w": "more",
+   "s": 337.4,
+   "e": 337.78
+  },
+  {
+   "w": "than",
+   "s": 337.78,
+   "e": 337.96
+  },
+  {
+   "w": "people",
+   "s": 337.96,
+   "e": 338.14
+  },
+  {
+   "w": "who",
+   "s": 338.14,
+   "e": 338.42
+  },
+  {
+   "w": "stay",
+   "s": 338.42,
+   "e": 338.62
+  },
+  {
+   "w": "awake",
+   "s": 338.62,
+   "e": 338.94
+  },
+  {
+   "w": "for",
+   "s": 338.94,
+   "e": 339.26
+  },
+  {
+   "w": "the",
+   "s": 339.26,
+   "e": 339.38
+  },
+  {
+   "w": "same",
+   "s": 339.38,
+   "e": 339.6
+  },
+  {
+   "w": "stretch",
+   "s": 339.6,
+   "e": 339.94
+  },
+  {
+   "w": "of",
+   "s": 339.94,
+   "e": 340.1
+  },
+  {
+   "w": "time.",
+   "s": 340.1,
+   "e": 340.34
+  },
+  {
+   "w": "So",
+   "s": 341.32,
+   "e": 341.58
+  },
+  {
+   "w": "the",
+   "s": 341.58,
+   "e": 341.72
+  },
+  {
+   "w": "all",
+   "s": 341.72,
+   "e": 341.92
+  },
+  {
+   "w": "-nighter",
+   "s": 341.92,
+   "e": 342.18
+  },
+  {
+   "w": "is",
+   "s": 342.18,
+   "e": 342.4
+  },
+  {
+   "w": "a",
+   "s": 342.4,
+   "e": 342.48
+  },
+  {
+   "w": "trap.",
+   "s": 342.48,
+   "e": 342.66
+  },
+  {
+   "w": "You",
+   "s": 343.08,
+   "e": 343.14
+  },
+  {
+   "w": "give",
+   "s": 343.14,
+   "e": 343.3
+  },
+  {
+   "w": "up",
+   "s": 343.3,
+   "e": 343.48
+  },
+  {
+   "w": "the",
+   "s": 343.48,
+   "e": 343.64
+  },
+  {
+   "w": "very",
+   "s": 343.64,
+   "e": 343.8
+  },
+  {
+   "w": "thing",
+   "s": 343.8,
+   "e": 344.12
+  },
+  {
+   "w": "that",
+   "s": 344.12,
+   "e": 344.28
+  },
+  {
+   "w": "locks",
+   "s": 344.28,
+   "e": 344.44
+  },
+  {
+   "w": "memories",
+   "s": 344.44,
+   "e": 344.82
+  },
+  {
+   "w": "in",
+   "s": 344.82,
+   "e": 345.1
+  },
+  {
+   "w": "for",
+   "s": 345.1,
+   "e": 345.3
+  },
+  {
+   "w": "a",
+   "s": 345.3,
+   "e": 345.4
+  },
+  {
+   "w": "few",
+   "s": 345.4,
+   "e": 345.56
+  },
+  {
+   "w": "extra",
+   "s": 345.56,
+   "e": 345.76
+  },
+  {
+   "w": "hours.",
+   "s": 345.76,
+   "e": 346.16
+  },
+  {
+   "w": "A",
+   "s": 347.26,
+   "e": 347.38
+  },
+  {
+   "w": "better",
+   "s": 347.38,
+   "e": 347.56
+  },
+  {
+   "w": "plan",
+   "s": 347.56,
+   "e": 347.9
+  },
+  {
+   "w": "is",
+   "s": 347.9,
+   "e": 348.14
+  },
+  {
+   "w": "to",
+   "s": 348.14,
+   "e": 348.28
+  },
+  {
+   "w": "study",
+   "s": 348.28,
+   "e": 348.58
+  },
+  {
+   "w": "in",
+   "s": 348.58,
+   "e": 348.8
+  },
+  {
+   "w": "the",
+   "s": 348.8,
+   "e": 348.9
+  },
+  {
+   "w": "evening,",
+   "s": 348.9,
+   "e": 349.12
+  },
+  {
+   "w": "review",
+   "s": 349.5,
+   "e": 349.74
+  },
+  {
+   "w": "briefly",
+   "s": 349.74,
+   "e": 350.02
+  },
+  {
+   "w": "in",
+   "s": 350.02,
+   "e": 350.38
+  },
+  {
+   "w": "the",
+   "s": 350.38,
+   "e": 350.46
+  },
+  {
+   "w": "morning,",
+   "s": 350.46,
+   "e": 350.66
+  },
+  {
+   "w": "and",
+   "s": 350.98,
+   "e": 351.06
+  },
+  {
+   "w": "protect",
+   "s": 351.06,
+   "e": 351.3
+  },
+  {
+   "w": "your",
+   "s": 351.3,
+   "e": 351.56
+  },
+  {
+   "w": "sleep.",
+   "s": 351.56,
+   "e": 351.78
+  },
+  {
+   "w": "A",
+   "s": 352.74,
+   "e": 352.82
+  },
+  {
+   "w": "short",
+   "s": 352.82,
+   "e": 353.04
+  },
+  {
+   "w": "nap",
+   "s": 353.04,
+   "e": 353.22
+  },
+  {
+   "w": "after",
+   "s": 353.22,
+   "e": 353.42
+  },
+  {
+   "w": "learning",
+   "s": 353.42,
+   "e": 353.84
+  },
+  {
+   "w": "can",
+   "s": 353.84,
+   "e": 354.08
+  },
+  {
+   "w": "help",
+   "s": 354.08,
+   "e": 354.32
+  },
+  {
+   "w": "too,",
+   "s": 354.32,
+   "e": 354.62
+  },
+  {
+   "w": "but",
+   "s": 354.82,
+   "e": 354.9
+  },
+  {
+   "w": "nothing",
+   "s": 354.9,
+   "e": 355.16
+  },
+  {
+   "w": "replaces",
+   "s": 355.16,
+   "e": 355.48
+  },
+  {
+   "w": "a",
+   "s": 355.48,
+   "e": 355.86
+  },
+  {
+   "w": "full",
+   "s": 355.86,
+   "e": 356.02
+  },
+  {
+   "w": "night.",
+   "s": 356.02,
+   "e": 356.3
+  },
+  {
+   "w": "And",
+   "s": 356.86,
+   "e": 357.34
+  },
+  {
+   "w": "a",
+   "s": 357.34,
+   "e": 357.44
+  },
+  {
+   "w": "tired",
+   "s": 357.44,
+   "e": 357.7
+  },
+  {
+   "w": "brain",
+   "s": 357.7,
+   "e": 358.0
+  },
+  {
+   "w": "does",
+   "s": 358.0,
+   "e": 358.22
+  },
+  {
+   "w": "not",
+   "s": 358.22,
+   "e": 358.38
+  },
+  {
+   "w": "just",
+   "s": 358.38,
+   "e": 358.6
+  },
+  {
+   "w": "remember",
+   "s": 358.6,
+   "e": 358.86
+  },
+  {
+   "w": "less.",
+   "s": 358.86,
+   "e": 359.22
+  },
+  {
+   "w": "It",
+   "s": 359.8,
+   "e": 359.8
+  },
+  {
+   "w": "also",
+   "s": 359.8,
+   "e": 359.94
+  },
+  {
+   "w": "struggles",
+   "s": 359.94,
+   "e": 360.42
+  },
+  {
+   "w": "to",
+   "s": 360.42,
+   "e": 360.64
+  },
+  {
+   "w": "take",
+   "s": 360.64,
+   "e": 360.82
+  },
+  {
+   "w": "in",
+   "s": 360.82,
+   "e": 360.96
+  },
+  {
+   "w": "anything",
+   "s": 360.96,
+   "e": 361.2
+  },
+  {
+   "w": "new.",
+   "s": 361.2,
+   "e": 361.62
+  },
+  {
+   "w": "Fix",
+   "s": 362.4,
+   "e": 362.74
+  },
+  {
+   "w": "number",
+   "s": 362.74,
+   "e": 362.96
+  },
+  {
+   "w": "six,",
+   "s": 362.96,
+   "e": 363.26
+  },
+  {
+   "w": "explain",
+   "s": 363.72,
+   "e": 363.92
+  },
+  {
+   "w": "it",
+   "s": 363.92,
+   "e": 364.06
+  },
+  {
+   "w": "like",
+   "s": 364.06,
+   "e": 364.18
+  },
+  {
+   "w": "you",
+   "s": 364.18,
+   "e": 364.36
+  },
+  {
+   "w": "are",
+   "s": 364.36,
+   "e": 364.52
+  },
+  {
+   "w": "teaching",
+   "s": 364.52,
+   "e": 364.74
+  },
+  {
+   "w": "a",
+   "s": 364.74,
+   "e": 365.08
+  },
+  {
+   "w": "10",
+   "s": 365.08,
+   "e": 365.28
+  },
+  {
+   "w": "-year",
+   "s": 365.28,
+   "e": 365.44
+  },
+  {
+   "w": "-old.",
+   "s": 365.44,
+   "e": 365.7
+  },
+  {
+   "w": "Pick",
+   "s": 366.36,
+   "e": 366.68
+  },
+  {
+   "w": "a",
+   "s": 366.68,
+   "e": 366.8
+  },
+  {
+   "w": "concept,",
+   "s": 366.8,
+   "e": 367.18
+  },
+  {
+   "w": "explain",
+   "s": 367.48,
+   "e": 367.82
+  },
+  {
+   "w": "it",
+   "s": 367.82,
+   "e": 368.04
+  },
+  {
+   "w": "out",
+   "s": 368.04,
+   "e": 368.16
+  },
+  {
+   "w": "loud",
+   "s": 368.16,
+   "e": 368.38
+  },
+  {
+   "w": "in",
+   "s": 368.38,
+   "e": 368.66
+  },
+  {
+   "w": "simple",
+   "s": 368.66,
+   "e": 368.88
+  },
+  {
+   "w": "words",
+   "s": 368.88,
+   "e": 369.24
+  },
+  {
+   "w": "with",
+   "s": 369.24,
+   "e": 369.48
+  },
+  {
+   "w": "no",
+   "s": 369.48,
+   "e": 369.66
+  },
+  {
+   "w": "note.",
+   "s": 369.66,
+   "e": 369.9
+  },
+  {
+   "w": "The",
+   "s": 370.86,
+   "e": 370.9
+  },
+  {
+   "w": "moment",
+   "s": 370.9,
+   "e": 371.14
+  },
+  {
+   "w": "you",
+   "s": 371.14,
+   "e": 371.34
+  },
+  {
+   "w": "get",
+   "s": 371.34,
+   "e": 371.46
+  },
+  {
+   "w": "stuck,",
+   "s": 371.46,
+   "e": 371.78
+  },
+  {
+   "w": "you",
+   "s": 372.1,
+   "e": 372.3
+  },
+  {
+   "w": "have",
+   "s": 372.3,
+   "e": 372.42
+  },
+  {
+   "w": "found",
+   "s": 372.42,
+   "e": 372.68
+  },
+  {
+   "w": "a",
+   "s": 372.68,
+   "e": 372.8
+  },
+  {
+   "w": "gap",
+   "s": 372.8,
+   "e": 373.04
+  },
+  {
+   "w": "in",
+   "s": 373.04,
+   "e": 373.36
+  },
+  {
+   "w": "your",
+   "s": 373.36,
+   "e": 373.48
+  },
+  {
+   "w": "understanding.",
+   "s": 373.48,
+   "e": 373.96
+  },
+  {
+   "w": "Go",
+   "s": 375.22,
+   "e": 375.26
+  },
+  {
+   "w": "back,",
+   "s": 375.26,
+   "e": 375.5
+  },
+  {
+   "w": "fill",
+   "s": 375.6,
+   "e": 375.74
+  },
+  {
+   "w": "the",
+   "s": 375.74,
+   "e": 375.88
+  },
+  {
+   "w": "gap,",
+   "s": 375.88,
+   "e": 376.06
+  },
+  {
+   "w": "and",
+   "s": 376.22,
+   "e": 376.34
+  },
+  {
+   "w": "try",
+   "s": 376.34,
+   "e": 376.52
+  },
+  {
+   "w": "again.",
+   "s": 376.52,
+   "e": 376.82
+  },
+  {
+   "w": "Some",
+   "s": 377.68,
+   "e": 377.9
+  },
+  {
+   "w": "people",
+   "s": 377.9,
+   "e": 378.08
+  },
+  {
+   "w": "call",
+   "s": 378.08,
+   "e": 378.38
+  },
+  {
+   "w": "this",
+   "s": 378.38,
+   "e": 378.58
+  },
+  {
+   "w": "the",
+   "s": 378.58,
+   "e": 378.78
+  },
+  {
+   "w": "Feynman",
+   "s": 378.78,
+   "e": 379.18
+  },
+  {
+   "w": "technique,",
+   "s": 379.18,
+   "e": 379.46
+  },
+  {
+   "w": "named",
+   "s": 379.98,
+   "e": 380.24
+  },
+  {
+   "w": "after",
+   "s": 380.24,
+   "e": 380.48
+  },
+  {
+   "w": "the",
+   "s": 380.48,
+   "e": 380.7
+  },
+  {
+   "w": "physicist",
+   "s": 380.7,
+   "e": 381.08
+  },
+  {
+   "w": "Richard",
+   "s": 381.08,
+   "e": 381.5
+  },
+  {
+   "w": "Feynman.",
+   "s": 381.5,
+   "e": 382.12
+  },
+  {
+   "w": "You",
+   "s": 382.72,
+   "e": 383.2
+  },
+  {
+   "w": "can",
+   "s": 383.2,
+   "e": 383.32
+  },
+  {
+   "w": "explain",
+   "s": 383.32,
+   "e": 383.56
+  },
+  {
+   "w": "to",
+   "s": 383.56,
+   "e": 383.84
+  },
+  {
+   "w": "a",
+   "s": 383.84,
+   "e": 383.96
+  },
+  {
+   "w": "friend,",
+   "s": 383.96,
+   "e": 384.2
+  },
+  {
+   "w": "a",
+   "s": 384.2,
+   "e": 384.52
+  },
+  {
+   "w": "pet,",
+   "s": 384.52,
+   "e": 384.72
+  },
+  {
+   "w": "or",
+   "s": 384.94,
+   "e": 385.0
+  },
+  {
+   "w": "an",
+   "s": 385.0,
+   "e": 385.08
+  },
+  {
+   "w": "empty",
+   "s": 385.08,
+   "e": 385.28
+  },
+  {
+   "w": "chair.",
+   "s": 385.28,
+   "e": 385.56
+  },
+  {
+   "w": "Teaching",
+   "s": 385.98,
+   "e": 386.2
+  },
+  {
+   "w": "is",
+   "s": 386.2,
+   "e": 386.42
+  },
+  {
+   "w": "just",
+   "s": 386.42,
+   "e": 386.58
+  },
+  {
+   "w": "retrieval",
+   "s": 386.58,
+   "e": 386.92
+  },
+  {
+   "w": "with",
+   "s": 386.92,
+   "e": 387.4
+  },
+  {
+   "w": "a",
+   "s": 387.4,
+   "e": 387.4
+  },
+  {
+   "w": "purpose.",
+   "s": 387.4,
+   "e": 387.78
+  },
+  {
+   "w": "Try",
+   "s": 388.62,
+   "e": 388.98
+  },
+  {
+   "w": "it",
+   "s": 388.98,
+   "e": 389.18
+  },
+  {
+   "w": "with",
+   "s": 389.18,
+   "e": 389.26
+  },
+  {
+   "w": "something",
+   "s": 389.26,
+   "e": 389.58
+  },
+  {
+   "w": "you",
+   "s": 389.58,
+   "e": 389.86
+  },
+  {
+   "w": "think",
+   "s": 389.86,
+   "e": 390.1
+  },
+  {
+   "w": "you",
+   "s": 390.1,
+   "e": 390.4
+  },
+  {
+   "w": "already",
+   "s": 390.4,
+   "e": 390.64
+  },
+  {
+   "w": "know.",
+   "s": 390.64,
+   "e": 391.08
+  },
+  {
+   "w": "You",
+   "s": 391.52,
+   "e": 391.68
+  },
+  {
+   "w": "may",
+   "s": 391.68,
+   "e": 391.82
+  },
+  {
+   "w": "be",
+   "s": 391.82,
+   "e": 391.96
+  },
+  {
+   "w": "surprised",
+   "s": 391.96,
+   "e": 392.12
+  },
+  {
+   "w": "how",
+   "s": 392.12,
+   "e": 392.54
+  },
+  {
+   "w": "fast",
+   "s": 392.54,
+   "e": 392.74
+  },
+  {
+   "w": "the",
+   "s": 392.74,
+   "e": 392.94
+  },
+  {
+   "w": "confident",
+   "s": 392.94,
+   "e": 393.22
+  },
+  {
+   "w": "explanation",
+   "s": 393.22,
+   "e": 393.8
+  },
+  {
+   "w": "falls",
+   "s": 393.8,
+   "e": 394.38
+  },
+  {
+   "w": "apart.",
+   "s": 394.38,
+   "e": 394.76
+  },
+  {
+   "w": "One",
+   "s": 395.54,
+   "e": 395.8
+  },
+  {
+   "w": "more",
+   "s": 395.8,
+   "e": 395.98
+  },
+  {
+   "w": "tip,",
+   "s": 395.98,
+   "e": 396.2
+  },
+  {
+   "w": "connect",
+   "s": 396.56,
+   "e": 396.78
+  },
+  {
+   "w": "new",
+   "s": 396.78,
+   "e": 396.98
+  },
+  {
+   "w": "facts",
+   "s": 396.98,
+   "e": 397.22
+  },
+  {
+   "w": "to",
+   "s": 397.22,
+   "e": 397.48
+  },
+  {
+   "w": "things",
+   "s": 397.48,
+   "e": 397.68
+  },
+  {
+   "w": "you",
+   "s": 397.68,
+   "e": 397.88
+  },
+  {
+   "w": "already",
+   "s": 397.88,
+   "e": 398.02
+  },
+  {
+   "w": "know.",
+   "s": 398.02,
+   "e": 398.36
+  },
+  {
+   "w": "Add",
+   "s": 398.76,
+   "e": 398.88
+  },
+  {
+   "w": "a",
+   "s": 398.88,
+   "e": 398.96
+  },
+  {
+   "w": "picture",
+   "s": 398.96,
+   "e": 399.22
+  },
+  {
+   "w": "or",
+   "s": 399.22,
+   "e": 399.54
+  },
+  {
+   "w": "a",
+   "s": 399.54,
+   "e": 399.66
+  },
+  {
+   "w": "little",
+   "s": 399.66,
+   "e": 399.82
+  },
+  {
+   "w": "story.",
+   "s": 399.82,
+   "e": 400.12
+  },
+  {
+   "w": "Connected",
+   "s": 400.98,
+   "e": 401.5
+  },
+  {
+   "w": "facts",
+   "s": 401.5,
+   "e": 401.68
+  },
+  {
+   "w": "are",
+   "s": 401.68,
+   "e": 401.96
+  },
+  {
+   "w": "easier",
+   "s": 401.96,
+   "e": 402.28
+  },
+  {
+   "w": "to",
+   "s": 402.28,
+   "e": 402.54
+  },
+  {
+   "w": "retrieve",
+   "s": 402.54,
+   "e": 402.74
+  },
+  {
+   "w": "because",
+   "s": 402.74,
+   "e": 403.46
+  },
+  {
+   "w": "your",
+   "s": 403.46,
+   "e": 403.72
+  },
+  {
+   "w": "brain",
+   "s": 403.72,
+   "e": 403.98
+  },
+  {
+   "w": "has",
+   "s": 403.98,
+   "e": 404.22
+  },
+  {
+   "w": "more",
+   "s": 404.22,
+   "e": 404.46
+  },
+  {
+   "w": "paths",
+   "s": 404.46,
+   "e": 404.78
+  },
+  {
+   "w": "leading",
+   "s": 404.78,
+   "e": 405.1
+  },
+  {
+   "w": "to",
+   "s": 405.1,
+   "e": 405.36
+  },
+  {
+   "w": "them.",
+   "s": 405.36,
+   "e": 405.52
+  },
+  {
+   "w": "Now",
+   "s": 406.08,
+   "e": 406.6
+  },
+  {
+   "w": "let's",
+   "s": 406.6,
+   "e": 406.88
+  },
+  {
+   "w": "test",
+   "s": 406.88,
+   "e": 407.04
+  },
+  {
+   "w": "you.",
+   "s": 407.04,
+   "e": 407.28
+  },
+  {
+   "w": "Without",
+   "s": 407.62,
+   "e": 407.72
+  },
+  {
+   "w": "scrolling",
+   "s": 407.72,
+   "e": 408.08
+  },
+  {
+   "w": "back,",
+   "s": 408.08,
+   "e": 408.46
+  },
+  {
+   "w": "name",
+   "s": 408.48,
+   "e": 408.76
+  },
+  {
+   "w": "three",
+   "s": 408.76,
+   "e": 409.02
+  },
+  {
+   "w": "of",
+   "s": 409.02,
+   "e": 409.12
+  },
+  {
+   "w": "the",
+   "s": 409.12,
+   "e": 409.24
+  },
+  {
+   "w": "six",
+   "s": 409.24,
+   "e": 409.42
+  },
+  {
+   "w": "fixes.",
+   "s": 409.42,
+   "e": 409.86
+  },
+  {
+   "w": "Go",
+   "s": 410.04,
+   "e": 410.12
+  },
+  {
+   "w": "ahead,",
+   "s": 410.12,
+   "e": 410.3
+  },
+  {
+   "w": "I",
+   "s": 410.58,
+   "e": 410.72
+  },
+  {
+   "w": "will",
+   "s": 410.72,
+   "e": 410.86
+  },
+  {
+   "w": "wait.",
+   "s": 410.86,
+   "e": 411.04
+  },
+  {
+   "w": "Here",
+   "s": 415.62,
+   "e": 416.1
+  },
+  {
+   "w": "they",
+   "s": 416.1,
+   "e": 416.24
+  },
+  {
+   "w": "are.",
+   "s": 416.24,
+   "e": 416.4
+  },
+  {
+   "w": "Stop",
+   "s": 416.82,
+   "e": 416.82
+  },
+  {
+   "w": "rereading,",
+   "s": 416.82,
+   "e": 417.26
+  },
+  {
+   "w": "test",
+   "s": 417.52,
+   "e": 417.6
+  },
+  {
+   "w": "yourself,",
+   "s": 417.6,
+   "e": 417.86
+  },
+  {
+   "w": "spread",
+   "s": 418.4,
+   "e": 418.54
+  },
+  {
+   "w": "it",
+   "s": 418.54,
+   "e": 418.7
+  },
+  {
+   "w": "out,",
+   "s": 418.7,
+   "e": 418.84
+  },
+  {
+   "w": "mix",
+   "s": 419.08,
+   "e": 419.12
+  },
+  {
+   "w": "it",
+   "s": 419.12,
+   "e": 419.32
+  },
+  {
+   "w": "up,",
+   "s": 419.32,
+   "e": 419.44
+  },
+  {
+   "w": "sleep,",
+   "s": 419.68,
+   "e": 419.92
+  },
+  {
+   "w": "and",
+   "s": 420.2,
+   "e": 420.24
+  },
+  {
+   "w": "teach",
+   "s": 420.24,
+   "e": 420.42
+  },
+  {
+   "w": "it.",
+   "s": 420.42,
+   "e": 420.6
+  },
+  {
+   "w": "Now",
+   "s": 421.38,
+   "e": 421.5
+  },
+  {
+   "w": "let's",
+   "s": 421.5,
+   "e": 421.8
+  },
+  {
+   "w": "put",
+   "s": 421.8,
+   "e": 421.98
+  },
+  {
+   "w": "it",
+   "s": 421.98,
+   "e": 422.08
+  },
+  {
+   "w": "into",
+   "s": 422.08,
+   "e": 422.3
+  },
+  {
+   "w": "a",
+   "s": 422.3,
+   "e": 422.42
+  },
+  {
+   "w": "simple",
+   "s": 422.42,
+   "e": 422.66
+  },
+  {
+   "w": "weekly",
+   "s": 422.66,
+   "e": 422.96
+  },
+  {
+   "w": "routine.",
+   "s": 422.96,
+   "e": 423.46
+  },
+  {
+   "w": "Study",
+   "s": 423.86,
+   "e": 423.94
+  },
+  {
+   "w": "something",
+   "s": 423.94,
+   "e": 424.24
+  },
+  {
+   "w": "new",
+   "s": 424.24,
+   "e": 424.54
+  },
+  {
+   "w": "on",
+   "s": 424.54,
+   "e": 424.7
+  },
+  {
+   "w": "Monday.",
+   "s": 424.7,
+   "e": 424.94
+  },
+  {
+   "w": "On",
+   "s": 426.22,
+   "e": 426.22
+  },
+  {
+   "w": "Tuesday,",
+   "s": 426.22,
+   "e": 426.46
+  },
+  {
+   "w": "close",
+   "s": 426.7,
+   "e": 427.0
+  },
+  {
+   "w": "the",
+   "s": 427.0,
+   "e": 427.22
+  },
+  {
+   "w": "book",
+   "s": 427.22,
+   "e": 427.36
+  },
+  {
+   "w": "and",
+   "s": 427.36,
+   "e": 427.56
+  },
+  {
+   "w": "write",
+   "s": 427.56,
+   "e": 427.72
+  },
+  {
+   "w": "down",
+   "s": 427.72,
+   "e": 427.98
+  },
+  {
+   "w": "what",
+   "s": 427.98,
+   "e": 428.16
+  },
+  {
+   "w": "you",
+   "s": 428.16,
+   "e": 428.3
+  },
+  {
+   "w": "remember.",
+   "s": 428.3,
+   "e": 428.52
+  },
+  {
+   "w": "On",
+   "s": 429.62,
+   "e": 429.78
+  },
+  {
+   "w": "Thursday,",
+   "s": 429.78,
+   "e": 430.04
+  },
+  {
+   "w": "quiz",
+   "s": 430.12,
+   "e": 430.46
+  },
+  {
+   "w": "yourself",
+   "s": 430.46,
+   "e": 430.8
+  },
+  {
+   "w": "again",
+   "s": 430.8,
+   "e": 431.08
+  },
+  {
+   "w": "and",
+   "s": 431.08,
+   "e": 431.34
+  },
+  {
+   "w": "mix",
+   "s": 431.34,
+   "e": 431.5
+  },
+  {
+   "w": "in",
+   "s": 431.5,
+   "e": 431.68
+  },
+  {
+   "w": "older",
+   "s": 431.68,
+   "e": 431.88
+  },
+  {
+   "w": "topics.",
+   "s": 431.88,
+   "e": 432.38
+  },
+  {
+   "w": "Next",
+   "s": 433.54,
+   "e": 433.58
+  },
+  {
+   "w": "week,",
+   "s": 433.58,
+   "e": 433.88
+  },
+  {
+   "w": "explain",
+   "s": 433.92,
+   "e": 434.36
+  },
+  {
+   "w": "it",
+   "s": 434.36,
+   "e": 434.58
+  },
+  {
+   "w": "out",
+   "s": 434.58,
+   "e": 434.7
+  },
+  {
+   "w": "loud",
+   "s": 434.7,
+   "e": 434.9
+  },
+  {
+   "w": "and",
+   "s": 434.9,
+   "e": 435.26
+  },
+  {
+   "w": "sleep",
+   "s": 435.26,
+   "e": 435.5
+  },
+  {
+   "w": "well",
+   "s": 435.5,
+   "e": 435.76
+  },
+  {
+   "w": "every",
+   "s": 435.76,
+   "e": 436.04
+  },
+  {
+   "w": "night",
+   "s": 436.04,
+   "e": 436.32
+  },
+  {
+   "w": "in",
+   "s": 436.32,
+   "e": 436.44
+  },
+  {
+   "w": "between.",
+   "s": 436.44,
+   "e": 436.62
+  },
+  {
+   "w": "Sam",
+   "s": 437.84,
+   "e": 437.94
+  },
+  {
+   "w": "follows",
+   "s": 437.94,
+   "e": 438.34
+  },
+  {
+   "w": "this",
+   "s": 438.34,
+   "e": 438.56
+  },
+  {
+   "w": "for",
+   "s": 438.56,
+   "e": 438.78
+  },
+  {
+   "w": "a",
+   "s": 438.78,
+   "e": 438.88
+  },
+  {
+   "w": "month.",
+   "s": 438.88,
+   "e": 439.06
+  },
+  {
+   "w": "The",
+   "s": 439.6,
+   "e": 439.66
+  },
+  {
+   "w": "exam",
+   "s": 439.66,
+   "e": 439.84
+  },
+  {
+   "w": "arrives",
+   "s": 439.84,
+   "e": 440.24
+  },
+  {
+   "w": "and",
+   "s": 440.24,
+   "e": 440.62
+  },
+  {
+   "w": "Sam",
+   "s": 440.62,
+   "e": 440.8
+  },
+  {
+   "w": "is",
+   "s": 440.8,
+   "e": 441.04
+  },
+  {
+   "w": "calm",
+   "s": 441.04,
+   "e": 441.28
+  },
+  {
+   "w": "because",
+   "s": 441.28,
+   "e": 441.88
+  },
+  {
+   "w": "every",
+   "s": 441.88,
+   "e": 442.14
+  },
+  {
+   "w": "question",
+   "s": 442.14,
+   "e": 442.64
+  },
+  {
+   "w": "looks",
+   "s": 442.64,
+   "e": 442.88
+  },
+  {
+   "w": "familiar",
+   "s": 442.88,
+   "e": 443.18
+  },
+  {
+   "w": "for",
+   "s": 443.18,
+   "e": 443.5
+  },
+  {
+   "w": "the",
+   "s": 443.5,
+   "e": 443.6
+  },
+  {
+   "w": "right",
+   "s": 443.6,
+   "e": 443.74
+  },
+  {
+   "w": "reason.",
+   "s": 443.74,
+   "e": 444.04
+  },
+  {
+   "w": "Your",
+   "s": 445.04,
+   "e": 445.2
+  },
+  {
+   "w": "memory",
+   "s": 445.2,
+   "e": 445.48
+  },
+  {
+   "w": "is",
+   "s": 445.48,
+   "e": 445.76
+  },
+  {
+   "w": "not",
+   "s": 445.76,
+   "e": 445.96
+  },
+  {
+   "w": "broken.",
+   "s": 445.96,
+   "e": 446.22
+  },
+  {
+   "w": "It",
+   "s": 446.84,
+   "e": 446.88
+  },
+  {
+   "w": "is",
+   "s": 446.88,
+   "e": 446.96
+  },
+  {
+   "w": "doing",
+   "s": 446.96,
+   "e": 447.18
+  },
+  {
+   "w": "exactly",
+   "s": 447.18,
+   "e": 447.52
+  },
+  {
+   "w": "what",
+   "s": 447.52,
+   "e": 447.98
+  },
+  {
+   "w": "it",
+   "s": 447.98,
+   "e": 448.06
+  },
+  {
+   "w": "was",
+   "s": 448.06,
+   "e": 448.18
+  },
+  {
+   "w": "built",
+   "s": 448.18,
+   "e": 448.38
+  },
+  {
+   "w": "to",
+   "s": 448.38,
+   "e": 448.58
+  },
+  {
+   "w": "do,",
+   "s": 448.58,
+   "e": 448.76
+  },
+  {
+   "w": "which",
+   "s": 449.08,
+   "e": 449.2
+  },
+  {
+   "w": "is",
+   "s": 449.2,
+   "e": 449.32
+  },
+  {
+   "w": "to",
+   "s": 449.32,
+   "e": 449.46
+  },
+  {
+   "w": "forget",
+   "s": 449.46,
+   "e": 449.72
+  },
+  {
+   "w": "whatever",
+   "s": 449.72,
+   "e": 450.02
+  },
+  {
+   "w": "seems",
+   "s": 450.02,
+   "e": 450.42
+  },
+  {
+   "w": "unimportant.",
+   "s": 450.42,
+   "e": 451.04
+  },
+  {
+   "w": "Retrieval,",
+   "s": 452.16,
+   "e": 452.56
+  },
+  {
+   "w": "spacing,",
+   "s": 452.66,
+   "e": 452.92
+  },
+  {
+   "w": "mixing,",
+   "s": 453.26,
+   "e": 453.52
+  },
+  {
+   "w": "sleep,",
+   "s": 453.7,
+   "e": 453.86
+  },
+  {
+   "w": "and",
+   "s": 454.06,
+   "e": 454.06
+  },
+  {
+   "w": "teaching",
+   "s": 454.06,
+   "e": 454.3
+  },
+  {
+   "w": "are",
+   "s": 454.3,
+   "e": 454.64
+  },
+  {
+   "w": "how",
+   "s": 454.64,
+   "e": 454.78
+  },
+  {
+   "w": "you",
+   "s": 454.78,
+   "e": 454.92
+  },
+  {
+   "w": "tell",
+   "s": 454.92,
+   "e": 455.06
+  },
+  {
+   "w": "your",
+   "s": 455.06,
+   "e": 455.22
+  },
+  {
+   "w": "brain.",
+   "s": 455.22,
+   "e": 455.46
+  },
+  {
+   "w": "This",
+   "s": 456.0,
+   "e": 456.02
+  },
+  {
+   "w": "one",
+   "s": 456.02,
+   "e": 456.2
+  },
+  {
+   "w": "matters.",
+   "s": 456.2,
+   "e": 456.46
+  },
+  {
+   "w": "Do",
+   "s": 457.52,
+   "e": 457.64
+  },
+  {
+   "w": "not",
+   "s": 457.64,
+   "e": 457.82
+  },
+  {
+   "w": "try",
+   "s": 457.82,
+   "e": 458.02
+  },
+  {
+   "w": "all",
+   "s": 458.02,
+   "e": 458.2
+  },
+  {
+   "w": "six",
+   "s": 458.2,
+   "e": 458.38
+  },
+  {
+   "w": "at",
+   "s": 458.38,
+   "e": 458.56
+  },
+  {
+   "w": "once.",
+   "s": 458.56,
+   "e": 458.74
+  },
+  {
+   "w": "Pick",
+   "s": 459.08,
+   "e": 459.1
+  },
+  {
+   "w": "one,",
+   "s": 459.1,
+   "e": 459.42
+  },
+  {
+   "w": "make",
+   "s": 459.56,
+   "e": 459.72
+  },
+  {
+   "w": "it",
+   "s": 459.72,
+   "e": 459.86
+  },
+  {
+   "w": "a",
+   "s": 459.86,
+   "e": 459.96
+  },
+  {
+   "w": "habit",
+   "s": 459.96,
+   "e": 460.18
+  },
+  {
+   "w": "for",
+   "s": 460.18,
+   "e": 460.4
+  },
+  {
+   "w": "two",
+   "s": 460.4,
+   "e": 460.58
+  },
+  {
+   "w": "weeks",
+   "s": 460.58,
+   "e": 460.82
+  },
+  {
+   "w": "and",
+   "s": 460.82,
+   "e": 461.16
+  },
+  {
+   "w": "then",
+   "s": 461.16,
+   "e": 461.3
+  },
+  {
+   "w": "add",
+   "s": 461.3,
+   "e": 461.5
+  },
+  {
+   "w": "the",
+   "s": 461.5,
+   "e": 461.68
+  },
+  {
+   "w": "next.",
+   "s": 461.68,
+   "e": 461.84
+  },
+  {
+   "w": "And",
+   "s": 462.76,
+   "e": 462.94
+  },
+  {
+   "w": "here",
+   "s": 462.94,
+   "e": 463.12
+  },
+  {
+   "w": "is",
+   "s": 463.12,
+   "e": 463.24
+  },
+  {
+   "w": "a",
+   "s": 463.24,
+   "e": 463.36
+  },
+  {
+   "w": "challenge.",
+   "s": 463.36,
+   "e": 463.68
+  },
+  {
+   "w": "Come",
+   "s": 464.32,
+   "e": 464.38
+  },
+  {
+   "w": "back",
+   "s": 464.38,
+   "e": 464.58
+  },
+  {
+   "w": "to",
+   "s": 464.58,
+   "e": 464.72
+  },
+  {
+   "w": "this",
+   "s": 464.72,
+   "e": 464.88
+  },
+  {
+   "w": "video",
+   "s": 464.88,
+   "e": 465.14
+  },
+  {
+   "w": "in",
+   "s": 465.14,
+   "e": 465.32
+  },
+  {
+   "w": "three",
+   "s": 465.32,
+   "e": 465.48
+  },
+  {
+   "w": "days",
+   "s": 465.48,
+   "e": 465.76
+  },
+  {
+   "w": "and",
+   "s": 465.76,
+   "e": 466.34
+  },
+  {
+   "w": "try",
+   "s": 466.34,
+   "e": 466.52
+  },
+  {
+   "w": "to",
+   "s": 466.52,
+   "e": 466.66
+  },
+  {
+   "w": "list",
+   "s": 466.66,
+   "e": 466.82
+  },
+  {
+   "w": "all",
+   "s": 466.82,
+   "e": 467.02
+  },
+  {
+   "w": "six",
+   "s": 467.02,
+   "e": 467.22
+  },
+  {
+   "w": "fixes",
+   "s": 467.22,
+   "e": 467.6
+  },
+  {
+   "w": "without",
+   "s": 467.6,
+   "e": 467.84
+  },
+  {
+   "w": "looking.",
+   "s": 467.84,
+   "e": 468.3
+  },
+  {
+   "w": "That",
+   "s": 468.82,
+   "e": 468.86
+  },
+  {
+   "w": "is",
+   "s": 468.86,
+   "e": 468.98
+  },
+  {
+   "w": "spaced",
+   "s": 468.98,
+   "e": 469.2
+  },
+  {
+   "w": "retrieval",
+   "s": 469.2,
+   "e": 469.7
+  },
+  {
+   "w": "in",
+   "s": 469.7,
+   "e": 470.02
+  },
+  {
+   "w": "action.",
+   "s": 470.02,
+   "e": 470.22
+  },
+  {
+   "w": "Try",
+   "s": 471.14,
+   "e": 471.38
+  },
+  {
+   "w": "just",
+   "s": 471.38,
+   "e": 471.66
+  },
+  {
+   "w": "one",
+   "s": 471.66,
+   "e": 471.88
+  },
+  {
+   "w": "fix",
+   "s": 471.88,
+   "e": 472.12
+  },
+  {
+   "w": "this",
+   "s": 472.12,
+   "e": 472.38
+  },
+  {
+   "w": "week",
+   "s": 472.38,
+   "e": 472.58
+  },
+  {
+   "w": "and",
+   "s": 472.58,
+   "e": 472.84
+  },
+  {
+   "w": "tell",
+   "s": 472.84,
+   "e": 473.02
+  },
+  {
+   "w": "me",
+   "s": 473.02,
+   "e": 473.16
+  },
+  {
+   "w": "in",
+   "s": 473.16,
+   "e": 473.24
+  },
+  {
+   "w": "the",
+   "s": 473.24,
+   "e": 473.3
+  },
+  {
+   "w": "comments",
+   "s": 473.3,
+   "e": 473.62
+  },
+  {
+   "w": "which",
+   "s": 473.62,
+   "e": 473.9
+  },
+  {
+   "w": "one",
+   "s": 473.9,
+   "e": 474.14
+  },
+  {
+   "w": "you",
+   "s": 474.14,
+   "e": 474.28
+  },
+  {
+   "w": "chose.",
+   "s": 474.28,
+   "e": 474.54
+  },
+  {
+   "w": "Because",
+   "s": 475.5,
+   "e": 475.78
+  },
+  {
+   "w": "the",
+   "s": 475.78,
+   "e": 475.94
+  },
+  {
+   "w": "person",
+   "s": 475.94,
+   "e": 476.26
+  },
+  {
+   "w": "who",
+   "s": 476.26,
+   "e": 476.54
+  },
+  {
+   "w": "remembers",
+   "s": 476.54,
+   "e": 476.82
+  },
+  {
+   "w": "the",
+   "s": 476.82,
+   "e": 477.12
+  },
+  {
+   "w": "most",
+   "s": 477.12,
+   "e": 477.34
+  },
+  {
+   "w": "is",
+   "s": 477.34,
+   "e": 477.56
+  },
+  {
+   "w": "not",
+   "s": 477.56,
+   "e": 477.72
+  },
+  {
+   "w": "the",
+   "s": 477.72,
+   "e": 477.9
+  },
+  {
+   "w": "one",
+   "s": 477.9,
+   "e": 478.04
+  },
+  {
+   "w": "who",
+   "s": 478.04,
+   "e": 478.18
+  },
+  {
+   "w": "studies",
+   "s": 478.18,
+   "e": 478.38
+  },
+  {
+   "w": "the",
+   "s": 478.38,
+   "e": 478.68
+  },
+  {
+   "w": "longest.",
+   "s": 478.68,
+   "e": 478.88
+  },
+  {
+   "w": "It",
+   "s": 479.7,
+   "e": 479.78
+  },
+  {
+   "w": "is",
+   "s": 479.78,
+   "e": 479.88
+  },
+  {
+   "w": "the",
+   "s": 479.88,
+   "e": 480.0
+  },
+  {
+   "w": "one",
+   "s": 480.0,
+   "e": 480.16
+  },
+  {
+   "w": "who",
+   "s": 480.16,
+   "e": 480.28
+  },
+  {
+   "w": "tries",
+   "s": 480.28,
+   "e": 480.56
+  },
+  {
+   "w": "to",
+   "s": 480.56,
+   "e": 480.78
+  },
+  {
+   "w": "remember.",
+   "s": 480.78,
+   "e": 481.06
+  }
+ ]
+}

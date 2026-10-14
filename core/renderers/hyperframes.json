@@ -1,0 +1,21 @@
+{
+  "id": "hyperframes",
+  "name": "HyperFrames (HeyGen, HTML + GSAP)",
+  "kind": "html-gsap",
+  "license": "Apache-2.0",
+  "detect": ["npx", "-y", "hyperframes", "--version"],
+  "install": "nothing to install globally: `npx -y hyperframes ...` fetches it on first use. Run `npx -y hyperframes doctor` once to check Chrome/FFmpeg/system dependencies.",
+  "agentSkills": "inside a HyperFrames project: `npx hyperframes skills update` then start with /hyperframes (it routes to /motion-graphics, /music-to-video, /faceless-explainer, /remotion-to-hyperframes ...)",
+  "scaffold": "npx -y hyperframes init <name> --example blank --resolution portrait --non-interactive --skip-transcribe   (set HYPERFRAMES_SKIP_SKILLS=1 to skip the skills check)",
+  "check": "cd <project> && npx hyperframes check",
+  "stills": "cd <project> && npx hyperframes snapshot",
+  "render": "cd <project> && npx hyperframes render -o {out}   (--fps N, --quality draft|looks|delivery, --format mp4|webm|mov|gif)",
+  "output": "mp4",
+  "vidbucksTemplates": false,
+  "notes": [
+    "A composition is HTML with data-* attributes and a paused GSAP timeline registered on window.__timelines (see the project's own CLAUDE.md).",
+    "HyperFrames collects anonymous usage telemetry (and links it to a HeyGen account if you sign in): offer `npx hyperframes telemetry disable` and let the user decide.",
+    "It brings its own authoring skills, TTS and music helpers; Vidbucks adds the reference measurement, route choice, asset licensing and the fidelity loop on top.",
+    "Vidbucks templates are Remotion-only; for HyperFrames, build with its skills (or port a template with /remotion-to-hyperframes) and run the same measure/compare loop on the rendered mp4."
+  ]
+}

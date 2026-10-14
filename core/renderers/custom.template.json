@@ -1,0 +1,16 @@
+{
+  "id": "my-renderer",
+  "name": "My renderer (any tool that ends in a video file)",
+  "kind": "any: manim, motion-canvas, revideo, blender, ffmpeg filter graphs, After Effects (aerender), Unity, a web recorder ...",
+  "license": "(note the licence of the tool)",
+  "detect": ["my-tool", "--version"],
+  "install": "how the user installs it (the setup skill runs this with them)",
+  "agentSkills": "optional: the tool's own agent skills or docs the assistant should read first",
+  "scaffold": "how a new project/scene is created",
+  "check": "optional validation command",
+  "stills": "optional: how to export a few frames for review",
+  "render": "my-tool render project --out {out}",
+  "output": "mp4",
+  "vidbucksTemplates": false,
+  "notes": ["Copy this file to .vidbucks/renderers/<id>.json, then: node bin/vidbucks.mjs config set renderers remotion,custom:<id>"]
+}

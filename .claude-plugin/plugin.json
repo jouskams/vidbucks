@@ -1,0 +1,14 @@
+{
+  "name": "vidbucks",
+  "version": "2.0.0",
+  "description": "Reference-to-video studio: give it a reference (link, file or brief) and it builds an original video in that style with Remotion, then measures and refines the match.",
+  "author": { "name": "The Vidbucks Authors", "url": "https://github.com/vidbucks" },
+  "homepage": "https://github.com/jouskams/vidbucks",
+  "repository": "https://github.com/jouskams/vidbucks",
+  "license": "MIT",
+  "keywords": ["video", "remotion", "motion-graphics", "tts", "reference", "agent-skills"],
+  "skills": "./skills",
+  "commands": "./commands",
+  "agents": "./agents",
+  "hooks": "./hooks/hooks.json"
+}

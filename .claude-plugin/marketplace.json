@@ -1,0 +1,16 @@
+{
+  "name": "vidbucks",
+  "owner": { "name": "The Vidbucks Authors" },
+  "metadata": { "description": "Vidbucks - reference-to-video for AI coding agents", "version": "2.0.0" },
+  "plugins": [
+    {
+      "name": "vidbucks",
+      "source": "./",
+      "description": "Measure a reference video, build an original video in its style with Remotion, verify the match. Guides its own installation.",
+      "version": "2.0.0",
+      "author": { "name": "The Vidbucks Authors" },
+      "category": "video",
+      "tags": ["video", "remotion", "tts", "motion-graphics"]
+    }
+  ]
+}

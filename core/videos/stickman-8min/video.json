@@ -1,0 +1,26 @@
+{
+  "id": "StudyMemory",
+  "title": "Why You Forget Everything You Study (6 Fixes That Work)",
+  "narration": "videos/stickman-8min/narration.wav",
+  "captions": true,
+  "boil": true,
+  "wipeEvery": 5,
+  "wipeSfx": ["whoosh", 0.16],
+  "sfxDefaults": {
+    "badge": ["impact", 0.3],
+    "box": ["ui", 0.16],
+    "bubble": ["ui", 0.14],
+    "tline": ["ui", 0.14],
+    "icon:check": ["success", 0.2],
+    "icon:cross": ["fail", 0.12],
+    "icon:bulb": ["magic", 0.2],
+    "icon:trophy": ["success", 0.2]
+  },
+  "music": [
+    { "id": "music_lofi-03-good-vibe-background-music", "from": 0, "to": 150, "vol": 0.13 },
+    { "id": "music_calm-01-curious-ambience-wav", "from": 150, "to": 300, "vol": 0.13 },
+    { "id": "music_lofi-01-lofi-hip-hop-beat", "from": 300, "to": 380, "vol": 0.13 },
+    { "id": "music_acoustic-01-acoustic-guitar-and-keys-plains-soun", "from": 380, "to": 440, "vol": 0.13 },
+    { "id": "music_lofi-03-good-vibe-background-music", "from": 440, "to": 600, "vol": 0.13 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source": "<video or channel>",
+  "analysed_by": "analyze_reference.py (--file|--link) + looked at sheet.png",
+  "palette": [{ "role": "background", "hex": "#000000" }, { "role": "hero", "hex": "#FFFFFF" }, { "role": "accent", "hex": "#FFD400" }],
+  "palette_note": "measured with k-means when a file was available, otherwise visual guesses",
+  "fonts_guess": [{ "use": "captions", "guess": "<family>" }],
+  "pace": { "avg_shot_sec": 0, "cuts_per_min": 0, "length_band": "" },
+  "devices": ["<named visual devices: slam, whip, split frame, light cone, typed captions...>"],
+  "title_skeleton": "",
+  "thumbnail_recipe": "",
+  "audio": { "lufs": -16, "bpm": 0, "voice_over": true },
+  "route": "template or pipeline chosen (KineticType | ObjectStory | IconStory | ParticleBloom | long-form | custom)"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "vidbucks",
+  "version": "2.0.0",
+  "description": "Reference-to-video studio for AI coding agents: measure a reference, build an original video in its style with Remotion, verify the match.",
+  "license": "MIT",
+  "author": "The Vidbucks Authors",
+  "homepage": "https://github.com/jouskams/vidbucks",
+  "repository": { "type": "git", "url": "git+https://github.com/jouskams/vidbucks.git" },
+  "bugs": { "url": "https://github.com/jouskams/vidbucks/issues" },
+  "bin": { "vidbucks": "bin/vidbucks.mjs" },
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "setup": "node scripts/setup.mjs", "status": "node scripts/status.mjs", "doctor": "node core/tools/doctor.mjs", "smoke": "node core/tools/smoke.mjs" },
+  "keywords": ["claude-code", "agent-skills", "remotion", "video", "motion-graphics", "tts", "ai-agents"],
+  "private": false
+}

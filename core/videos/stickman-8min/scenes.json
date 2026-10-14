@@ -1,0 +1,5545 @@
+[
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 498,
+    "s": 1.26,
+    "pose": "hold",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "prop": "book",
+    "poses": [
+     {
+      "at": "week",
+      "to": "shrug"
+     }
+    ],
+    "faces": [
+     {
+      "at": "week",
+      "to": "worry"
+     }
+    ],
+    "label": "SAM"
+   },
+   {
+    "k": "text",
+    "t": "*HOURS* of studying",
+    "x": 1330,
+    "y": 230,
+    "size": 84,
+    "at": "hours",
+    "w": 900
+   },
+   {
+    "k": "icon",
+    "n": "clock",
+    "x": 1700,
+    "y": 340,
+    "size": 170,
+    "at": "hours"
+   },
+   {
+    "k": "text",
+    "t": "a week later...",
+    "x": 1330,
+    "y": 470,
+    "size": 78,
+    "at": "week",
+    "color": "red",
+    "w": 900
+   },
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 1230,
+    "y": 660,
+    "size": 230,
+    "at": "head"
+   },
+   {
+    "k": "icon",
+    "n": "question",
+    "x": 1480,
+    "y": 650,
+    "size": 150,
+    "at": "head",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 480,
+    "y": 512,
+    "s": 1.2,
+    "pose": "shrug",
+    "face": "flat",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "box",
+    "t": "LAZY?",
+    "x": 1250,
+    "y": 290,
+    "w": 560,
+    "h": 170,
+    "at": "lazy",
+    "font": "marker",
+    "size": 80
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1640,
+    "y": 290,
+    "size": 120,
+    "at": "lazy+0.7"
+   },
+   {
+    "k": "box",
+    "t": "BROKEN MEMORY?",
+    "x": 1250,
+    "y": 540,
+    "w": 760,
+    "h": 170,
+    "at": "broken",
+    "font": "marker",
+    "size": 76
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1740,
+    "y": 540,
+    "size": 120,
+    "at": "broken+1.0"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 780,
+    "y": 641,
+    "s": 0.66,
+    "pose": "idle",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "stick",
+    "x": 980,
+    "y": 641,
+    "s": 0.66,
+    "pose": "idle",
+    "face": "smile",
+    "at": "most",
+    "anim": "bob",
+    "delay": 0.1
+   },
+   {
+    "k": "stick",
+    "x": 1180,
+    "y": 641,
+    "s": 0.66,
+    "pose": "idle",
+    "face": "smile",
+    "at": "most",
+    "anim": "bob",
+    "delay": 0.2
+   },
+   {
+    "k": "stick",
+    "x": 1380,
+    "y": 641,
+    "s": 0.66,
+    "pose": "idle",
+    "face": "smile",
+    "at": "most",
+    "anim": "bob",
+    "delay": 0.30000000000000004
+   },
+   {
+    "k": "stick",
+    "x": 1580,
+    "y": 641,
+    "s": 0.66,
+    "pose": "idle",
+    "face": "smile",
+    "at": "most",
+    "anim": "bob",
+    "delay": 0.4
+   },
+   {
+    "k": "text",
+    "t": "our study habits",
+    "x": 960,
+    "y": 190,
+    "size": 100,
+    "at": "study",
+    "font": "marker"
+   },
+   {
+    "k": "text",
+    "t": "= the fastest way to *forget*",
+    "x": 960,
+    "y": 330,
+    "size": 76,
+    "at": "fastest",
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 330,
+    "y": 600,
+    "size": 230,
+    "at": "brains",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 560,
+    "y": 484,
+    "s": 1.32,
+    "pose": "hold",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "prop": "book",
+    "label": "SAM"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 1150,
+    "y": 470,
+    "size": 340,
+    "at": "chapter"
+   },
+   {
+    "k": "text",
+    "t": "x3",
+    "x": 1150,
+    "y": 220,
+    "size": 150,
+    "at": "three",
+    "color": "orange"
+   },
+   {
+    "k": "icon",
+    "n": "highlighter",
+    "x": 1450,
+    "y": 380,
+    "size": 220,
+    "at": "highlights",
+    "loop": "swing"
+   },
+   {
+    "k": "icon",
+    "n": "heart",
+    "x": 1560,
+    "y": 690,
+    "size": 140,
+    "at": "great",
+    "loop": "pulse"
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "two weeks later...",
+    "x": 960,
+    "y": 120,
+    "size": 74,
+    "at": "weeks",
+    "color": "red"
+   },
+   {
+    "k": "stick",
+    "x": 560,
+    "y": 484,
+    "s": 1.32,
+    "pose": "think",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob",
+    "sweat": true
+   },
+   {
+    "k": "bubble",
+    "t": "I have *never* seen this before!",
+    "x": 1130,
+    "y": 330,
+    "at": "thinks",
+    "tail": [
+     -170,
+     190
+    ],
+    "think": true,
+    "w": 620
+   },
+   {
+    "k": "box",
+    "t": "EXAM  Q7: ???",
+    "x": 1500,
+    "y": 690,
+    "w": 470,
+    "h": 250,
+    "at": "exam",
+    "font": "marker",
+    "size": 62
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "8",
+    "x": 640,
+    "y": 420,
+    "size": 270,
+    "at": "eight",
+    "color": "blue",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "minutes",
+    "x": 640,
+    "y": 640,
+    "size": 70,
+    "at": "minutes",
+    "font": "marker"
+   },
+   {
+    "k": "badge",
+    "t": "6",
+    "x": 1280,
+    "y": 420,
+    "size": 270,
+    "at": "six",
+    "color": "orange",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "fixes that work",
+    "x": 1280,
+    "y": 640,
+    "size": 70,
+    "at": "fixes",
+    "font": "marker"
+   },
+   {
+    "k": "text",
+    "t": "WHY it happens",
+    "x": 960,
+    "y": 170,
+    "size": 90,
+    "at": "why",
+    "color": "red"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 480,
+    "y": 498,
+    "s": 1.26,
+    "pose": "talk",
+    "face": "smile",
+    "at": "start",
+    "anim": "talk"
+   },
+   {
+    "k": "box",
+    "t": "???",
+    "x": 1200,
+    "y": 430,
+    "w": 520,
+    "h": 330,
+    "at": "start",
+    "font": "marker",
+    "size": 170,
+    "until": "two"
+   },
+   {
+    "k": "badge",
+    "t": "2",
+    "x": 1200,
+    "y": 430,
+    "size": 300,
+    "at": "two",
+    "color": "orange",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "almost *unfair*",
+    "x": 1200,
+    "y": 680,
+    "size": 74,
+    "at": "unfair",
+    "w": 900
+   },
+   {
+    "k": "icon",
+    "n": "sparkle",
+    "x": 1560,
+    "y": 300,
+    "size": 170,
+    "at": "works",
+    "loop": "spin"
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "text",
+    "t": "1885",
+    "x": 640,
+    "y": 330,
+    "size": 250,
+    "at": "1885",
+    "color": "blue"
+   },
+   {
+    "k": "stick",
+    "x": 1330,
+    "y": 512,
+    "s": 1.2,
+    "pose": "think",
+    "face": "think",
+    "at": "psychologist",
+    "anim": "bob",
+    "shirt": "purple",
+    "glasses": true,
+    "label": "EBBINGHAUS",
+    "poses": []
+   },
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 1680,
+    "y": 420,
+    "size": 170,
+    "at": "memory",
+    "loop": "float"
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "stick",
+    "x": 420,
+    "y": 512,
+    "s": 1.2,
+    "pose": "write",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "shirt": "purple",
+    "glasses": true
+   },
+   {
+    "k": "text",
+    "t": "ZUP   KEF   BOL",
+    "x": 1250,
+    "y": 250,
+    "size": 90,
+    "at": "memorized",
+    "font": "marker",
+    "color": "purple"
+   },
+   {
+    "k": "text",
+    "t": "MIR   TAX   DEV",
+    "x": 1250,
+    "y": 400,
+    "size": 90,
+    "at": "lists",
+    "font": "marker",
+    "color": "purple"
+   },
+   {
+    "k": "text",
+    "t": "(meaningless!)",
+    "x": 1250,
+    "y": 540,
+    "size": 64,
+    "at": "meaningless",
+    "font": "hand",
+    "color": "grey"
+   },
+   {
+    "k": "icon",
+    "n": "clock",
+    "x": 1500,
+    "y": 690,
+    "size": 150,
+    "at": "later"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1250,
+    "y": 690,
+    "size": 130,
+    "at": "recall"
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "stick",
+    "x": 500,
+    "y": 512,
+    "s": 1.2,
+    "pose": "tired",
+    "face": "sad",
+    "at": "start",
+    "anim": "bob",
+    "shirt": "purple",
+    "glasses": true
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1050,
+    "y": 430,
+    "size": 330,
+    "at": "again",
+    "loop": "spin"
+   },
+   {
+    "k": "text",
+    "t": "for *years*",
+    "x": 1500,
+    "y": 330,
+    "size": 100,
+    "at": "years",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "...alone",
+    "x": 1500,
+    "y": 520,
+    "size": 80,
+    "at": "nobody",
+    "font": "hand"
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "star",
+    "x": 330,
+    "y": 300,
+    "size": 150,
+    "at": "start",
+    "loop": "spin"
+   },
+   {
+    "k": "icon",
+    "n": "star",
+    "x": 1590,
+    "y": 300,
+    "size": 150,
+    "at": "famous+0.2",
+    "loop": "spin"
+   },
+   {
+    "k": "text",
+    "t": "THE FORGETTING CURVE",
+    "x": 960,
+    "y": 400,
+    "size": 130,
+    "at": "forgetting",
+    "w": 1500,
+    "fx": "slam"
+   },
+   {
+    "k": "under",
+    "x": 960,
+    "y": 560,
+    "w": 1100,
+    "at": "curve",
+    "color": "red"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "forget",
+    "at": "start",
+    "dur": 5.5,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade"
+   },
+   {
+    "k": "text",
+    "t": "a lot",
+    "x": 660,
+    "y": 230,
+    "size": 64,
+    "at": "lot",
+    "color": "green"
+   },
+   {
+    "k": "text",
+    "t": "drops *fast*",
+    "x": 930,
+    "y": 500,
+    "size": 70,
+    "at": "quickly",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "slows down",
+    "x": 1400,
+    "y": 610,
+    "size": 62,
+    "at": "slows",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "forget",
+    "at": "start",
+    "dur": 0.1,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade"
+   },
+   {
+    "k": "box",
+    "t": "",
+    "x": 745,
+    "y": 400,
+    "w": 420,
+    "h": 480,
+    "at": "early",
+    "color": "orange",
+    "fill": "transparent",
+    "round": 30
+   },
+   {
+    "k": "text",
+    "t": "first hours and days",
+    "x": 745,
+    "y": 810,
+    "size": 66,
+    "at": "hours",
+    "color": "orange",
+    "w": 800
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "forget",
+    "at": "start",
+    "dur": 0.1,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade"
+   },
+   {
+    "k": "text",
+    "t": "never review = *gone*",
+    "x": 1250,
+    "y": 330,
+    "size": 80,
+    "at": "takes",
+    "color": "red",
+    "w": 900
+   },
+   {
+    "k": "stick",
+    "x": 1720,
+    "y": 541,
+    "s": 1.08,
+    "pose": "shrug",
+    "face": "sad",
+    "at": "simply",
+    "anim": "bob"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 620,
+    "y": 440,
+    "size": 400,
+    "at": "start",
+    "loop": "pulse"
+   },
+   {
+    "k": "box",
+    "t": "not a bug",
+    "x": 1330,
+    "y": 260,
+    "w": 600,
+    "h": 150,
+    "at": "bug",
+    "font": "marker",
+    "size": 66
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1690,
+    "y": 260,
+    "size": 110,
+    "at": "bug+0.6"
+   },
+   {
+    "k": "text",
+    "t": "ON PURPOSE",
+    "x": 1330,
+    "y": 460,
+    "size": 90,
+    "at": "purpose",
+    "color": "green",
+    "w": 800
+   },
+   {
+    "k": "text",
+    "t": "can't keep everything",
+    "x": 1330,
+    "y": 640,
+    "size": 66,
+    "at": "everything",
+    "font": "hand",
+    "w": 800
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "box",
+    "t": "what you *USE*",
+    "x": 600,
+    "y": 330,
+    "w": 560,
+    "h": 220,
+    "at": "keeps",
+    "color": "green",
+    "font": "marker",
+    "size": 60
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 600,
+    "y": 520,
+    "size": 120,
+    "at": "use"
+   },
+   {
+    "k": "box",
+    "t": "what you don't",
+    "x": 1320,
+    "y": 330,
+    "w": 560,
+    "h": 220,
+    "at": "lets",
+    "color": "grey",
+    "font": "marker",
+    "size": 60,
+    "op": 0.7
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1320,
+    "y": 520,
+    "size": 120,
+    "at": "not"
+   },
+   {
+    "k": "text",
+    "t": "How do we prove it's *worth keeping*?",
+    "x": 960,
+    "y": 740,
+    "size": 70,
+    "at": "question",
+    "w": 1500
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "reviews",
+    "at": "good",
+    "dur": 6,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade",
+    "reviews": [
+     0.22,
+     0.45,
+     0.7
+    ]
+   },
+   {
+    "k": "icon",
+    "n": "bulb",
+    "x": 330,
+    "y": 250,
+    "size": 170,
+    "at": "news",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "FLATTER",
+    "x": 1450,
+    "y": 230,
+    "size": 110,
+    "at": "flatter",
+    "color": "green",
+    "rot": -6,
+    "fx": "slam"
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 780,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "icon",
+    "n": "tree",
+    "x": 120,
+    "y": 520,
+    "size": 330,
+    "at": "start"
+   },
+   {
+    "k": "icon",
+    "n": "tree",
+    "x": 1750,
+    "y": 480,
+    "size": 330,
+    "at": "forest+0.2"
+   },
+   {
+    "k": "stick",
+    "x": 400,
+    "y": 521,
+    "s": 1.08,
+    "pose": "walk",
+    "face": "smile",
+    "at": "walk",
+    "anim": null,
+    "move": {
+     "at": "walk",
+     "to": [
+      1000,
+      564
+     ],
+     "dur": 3.2,
+     "linear": true
+    }
+   },
+   {
+    "k": "icon",
+    "n": "grass",
+    "x": 1000,
+    "y": 690,
+    "size": 150,
+    "at": "grass"
+   },
+   {
+    "k": "text",
+    "t": "once",
+    "x": 700,
+    "y": 230,
+    "size": 80,
+    "at": "once",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "every week",
+    "x": 1300,
+    "y": 230,
+    "size": 80,
+    "at": "week",
+    "color": "green"
+   },
+   {
+    "k": "icon",
+    "n": "road",
+    "x": 1450,
+    "y": 560,
+    "size": 330,
+    "at": "road"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "text",
+    "t": "THE SECRET",
+    "x": 1000,
+    "y": 330,
+    "size": 170,
+    "at": "secret",
+    "color": "yellow",
+    "fx": "slam"
+   },
+   {
+    "k": "icon",
+    "n": "bulb",
+    "x": 190,
+    "y": 330,
+    "size": 150,
+    "at": "secret+0.3",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "the biggest *trap* of all",
+    "x": 960,
+    "y": 600,
+    "size": 90,
+    "at": "biggest",
+    "color": "paper",
+    "w": 1500
+   },
+   {
+    "k": "icon",
+    "n": "exclaim",
+    "x": 1630,
+    "y": 600,
+    "size": 150,
+    "at": "trap",
+    "loop": "shake"
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "1",
+    "x": 480,
+    "y": 430,
+    "size": 330,
+    "at": "one",
+    "color": "red",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "STOP REREADING",
+    "x": 1260,
+    "y": 330,
+    "size": 120,
+    "at": "stop",
+    "color": "ink",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 1260,
+    "y": 650,
+    "size": 200,
+    "at": "notes"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1260,
+    "y": 650,
+    "size": 220,
+    "at": "notes+0.4"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 500,
+    "y": 484,
+    "s": 1.32,
+    "pose": "hold",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "prop": "book"
+   },
+   {
+    "k": "bubble",
+    "t": "I *know* this!",
+    "x": 650,
+    "y": 220,
+    "at": "knowing-1.5",
+    "tail": [
+     -60,
+     150
+    ],
+    "w": 480
+   },
+   {
+    "k": "text",
+    "t": "familiar",
+    "x": 1300,
+    "y": 280,
+    "size": 120,
+    "at": "familiar",
+    "color": "blue"
+   },
+   {
+    "k": "text",
+    "t": "= knowing?",
+    "x": 1300,
+    "y": 450,
+    "size": 100,
+    "at": "knowing",
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "question",
+    "x": 1620,
+    "y": 330,
+    "size": 150,
+    "at": "knowing+0.3",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "text",
+    "t": "THE ILLUSION OF KNOWING",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "start",
+    "w": 1700,
+    "color": "purple"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 620,
+    "y": 500,
+    "size": 300,
+    "at": "recognize"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 620,
+    "y": 710,
+    "size": 120,
+    "at": "recognize+0.4"
+   },
+   {
+    "k": "text",
+    "t": "recognize",
+    "x": 620,
+    "y": 310,
+    "size": 66,
+    "at": "recognize",
+    "font": "hand"
+   },
+   {
+    "k": "icon",
+    "n": "card",
+    "x": 1300,
+    "y": 500,
+    "size": 300,
+    "at": "produce"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1300,
+    "y": 710,
+    "size": 120,
+    "at": "produce+0.4"
+   },
+   {
+    "k": "text",
+    "t": "produce",
+    "x": 1300,
+    "y": 310,
+    "size": 66,
+    "at": "produce",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "text",
+    "t": "rereading + highlighting",
+    "x": 960,
+    "y": 200,
+    "size": 90,
+    "at": "highlighting",
+    "w": 1600
+   },
+   {
+    "k": "icon",
+    "n": "highlighter",
+    "x": 520,
+    "y": 520,
+    "size": 300,
+    "at": "highlighting",
+    "loop": "swing"
+   },
+   {
+    "k": "icon",
+    "n": "battery",
+    "x": 1250,
+    "y": 520,
+    "size": 330,
+    "at": "low",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "low usefulness",
+    "x": 1250,
+    "y": 740,
+    "size": 66,
+    "at": "usefulness",
+    "color": "red"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "not *useless*",
+    "x": 960,
+    "y": 250,
+    "size": 120,
+    "at": "useless",
+    "w": 1300
+   },
+   {
+    "k": "text",
+    "t": "just a *weak* use of your time",
+    "x": 960,
+    "y": 430,
+    "size": 84,
+    "at": "weak",
+    "w": 1700
+   },
+   {
+    "k": "icon",
+    "n": "clock",
+    "x": 300,
+    "y": 640,
+    "size": 200,
+    "at": "time",
+    "loop": "float"
+   },
+   {
+    "k": "stick",
+    "x": 1640,
+    "y": 512,
+    "s": 1.2,
+    "pose": "shrug",
+    "face": "flat",
+    "at": "start",
+    "anim": "bob"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "stick",
+    "x": 300,
+    "y": 527,
+    "s": 1.14,
+    "pose": "think",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "bubble",
+    "t": "Do I *recognize* this?",
+    "x": 900,
+    "y": 250,
+    "at": "recognize",
+    "tail": [
+     -200,
+     160
+    ],
+    "w": 620
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1310,
+    "y": 250,
+    "size": 120,
+    "at": "recognize+1.2"
+   },
+   {
+    "k": "bubble",
+    "t": "Can I *produce* this?",
+    "x": 1220,
+    "y": 560,
+    "at": "produce",
+    "tail": [
+     -160,
+     130
+    ],
+    "w": 620
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1630,
+    "y": 560,
+    "size": 130,
+    "at": "produce+1.0"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "WORKS",
+    "x": 520,
+    "y": 230,
+    "size": 100,
+    "at": "start",
+    "color": "green"
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 556,
+    "s": 1.02,
+    "pose": "tired",
+    "face": "worry",
+    "at": "work",
+    "anim": "bob",
+    "sweat": true
+   },
+   {
+    "k": "text",
+    "t": "feels hard",
+    "x": 520,
+    "y": 870,
+    "size": 56,
+    "at": "harder",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "FAILS",
+    "x": 1400,
+    "y": 230,
+    "size": 100,
+    "at": "fail",
+    "color": "red"
+   },
+   {
+    "k": "stick",
+    "x": 1400,
+    "y": 556,
+    "s": 1.02,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "fail",
+    "anim": "bob"
+   },
+   {
+    "k": "text",
+    "t": "feels easy",
+    "x": 1400,
+    "y": 870,
+    "size": 56,
+    "at": "easier",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 512,
+    "s": 1.2,
+    "pose": "tired",
+    "face": "sad",
+    "at": "start",
+    "anim": "bob",
+    "label": "SAM",
+    "sweat": true
+   },
+   {
+    "k": "box",
+    "t": "effort",
+    "x": 1230,
+    "y": 260,
+    "w": 420,
+    "h": 140,
+    "at": "effort",
+    "font": "marker",
+    "size": 60
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1560,
+    "y": 260,
+    "size": 110,
+    "at": "effort+0.4"
+   },
+   {
+    "k": "box",
+    "t": "the wrong kind of work",
+    "x": 1330,
+    "y": 500,
+    "w": 780,
+    "h": 160,
+    "at": "wrong",
+    "font": "marker",
+    "size": 56,
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1760,
+    "y": 700,
+    "size": 110,
+    "at": "wrong+0.8"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 512,
+    "s": 1.2,
+    "pose": "hold",
+    "face": "flat",
+    "at": "start",
+    "anim": "bob",
+    "prop": "note"
+   },
+   {
+    "k": "text",
+    "t": "a recipe, read *10* times",
+    "x": 1250,
+    "y": 260,
+    "size": 70,
+    "at": "ten",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1250,
+    "y": 470,
+    "size": 140,
+    "at": "looking"
+   },
+   {
+    "k": "text",
+    "t": "cook it *once* from memory",
+    "x": 1150,
+    "y": 660,
+    "size": 66,
+    "at": "once",
+    "w": 1000,
+    "color": "green"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1760,
+    "y": 660,
+    "size": 120,
+    "at": "teaches"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "2",
+    "x": 480,
+    "y": 430,
+    "size": 330,
+    "at": "two",
+    "color": "orange",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "TEST YOURSELF",
+    "x": 1280,
+    "y": 330,
+    "size": 120,
+    "at": "test",
+    "w": 1000
+   },
+   {
+    "k": "text",
+    "t": "before you feel *ready*",
+    "x": 1280,
+    "y": 560,
+    "size": 72,
+    "at": "ready",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "question",
+    "x": 1700,
+    "y": 330,
+    "size": 130,
+    "at": "test+0.4",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "list",
+    "x": 830,
+    "y": 430,
+    "w": 1100,
+    "size": 76,
+    "mark": "num",
+    "at": "close",
+    "items": [
+     {
+      "t": "Close the book",
+      "at": "close"
+     },
+     {
+      "t": "Grab a *blank* page",
+      "at": "blank"
+     },
+     {
+      "t": "Write *everything* you remember",
+      "at": "write"
+     }
+    ]
+   },
+   {
+    "k": "stick",
+    "x": 1600,
+    "y": 513,
+    "s": 1.2,
+    "pose": "write",
+    "face": "smile",
+    "at": "write",
+    "anim": "bob",
+    "prop": "pencil"
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "text",
+    "t": "BIOLOGY",
+    "x": 960,
+    "y": 160,
+    "size": 100,
+    "at": "biology",
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "heart",
+    "x": 700,
+    "y": 520,
+    "size": 360,
+    "at": "heart"
+   },
+   {
+    "k": "text",
+    "t": "atrium",
+    "x": 470,
+    "y": 380,
+    "size": 60,
+    "at": "label",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "ventricle",
+    "x": 960,
+    "y": 650,
+    "size": 60,
+    "at": "label+0.5",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "valve",
+    "x": 450,
+    "y": 650,
+    "size": 60,
+    "at": "label+1.0",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "aorta",
+    "x": 960,
+    "y": 300,
+    "size": 60,
+    "at": "label+1.5",
+    "font": "hand"
+   },
+   {
+    "k": "icon",
+    "n": "pencil",
+    "x": 1500,
+    "y": 600,
+    "size": 230,
+    "at": "memory",
+    "loop": "swing"
+   },
+   {
+    "k": "text",
+    "t": "from *memory*",
+    "x": 1500,
+    "y": 450,
+    "size": 70,
+    "at": "memory",
+    "w": 700
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "book",
+    "x": 480,
+    "y": 460,
+    "size": 300,
+    "at": "open"
+   },
+   {
+    "k": "list",
+    "x": 1230,
+    "y": 470,
+    "w": 800,
+    "size": 66,
+    "at": "check",
+    "items": [
+     {
+      "t": "chambers",
+      "mark": "check",
+      "at": "check+0.4"
+     },
+     {
+      "t": "valves",
+      "mark": "cross",
+      "at": "check+1.0"
+     },
+     {
+      "t": "aorta",
+      "mark": "check",
+      "at": "check+1.6"
+     }
+    ]
+   },
+   {
+    "k": "text",
+    "t": "check what you *missed*",
+    "x": 960,
+    "y": 790,
+    "size": 70,
+    "at": "missed",
+    "color": "red",
+    "w": 1500
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "text",
+    "t": "RETRIEVAL PRACTICE",
+    "x": 960,
+    "y": 260,
+    "size": 130,
+    "at": "start",
+    "w": 1700,
+    "fx": "slam"
+   },
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 520,
+    "y": 560,
+    "size": 260,
+    "at": "practice",
+    "loop": "float"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 880,
+    "y": 560,
+    "size": 220,
+    "at": "practice+0.5"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 1220,
+    "y": 560,
+    "size": 240,
+    "at": "practice+0.8"
+   },
+   {
+    "k": "text",
+    "t": "one of the best-studied effects",
+    "x": 960,
+    "y": 790,
+    "size": 62,
+    "at": "best",
+    "font": "hand",
+    "w": 1500
+   },
+   {
+    "k": "icon",
+    "n": "star",
+    "x": 1620,
+    "y": 330,
+    "size": 130,
+    "at": "best",
+    "loop": "spin"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "a week later",
+    "x": 960,
+    "y": 150,
+    "size": 84,
+    "at": "start",
+    "color": "red"
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 541,
+    "s": 1.08,
+    "pose": "hold",
+    "face": "smile",
+    "at": "students",
+    "anim": "bob",
+    "prop": "book",
+    "label": "REREAD"
+   },
+   {
+    "k": "stick",
+    "x": 1400,
+    "y": 541,
+    "s": 1.08,
+    "pose": "write",
+    "face": "smile",
+    "at": "practiced",
+    "anim": "bob",
+    "prop": "pencil",
+    "label": "RECALL"
+   },
+   {
+    "k": "icon",
+    "n": "trophy",
+    "x": 1400,
+    "y": 250,
+    "size": 150,
+    "at": "more",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "remembered *more*",
+    "x": 1400,
+    "y": 372,
+    "size": 54,
+    "at": "more",
+    "font": "hand",
+    "w": 600
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "stick",
+    "x": 480,
+    "y": 512,
+    "s": 1.2,
+    "pose": "think",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "bubble",
+    "t": "1869? ...no, 1871?",
+    "x": 1000,
+    "y": 240,
+    "at": "guess",
+    "tail": [
+     -220,
+     190
+    ],
+    "w": 520
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1380,
+    "y": 240,
+    "size": 110,
+    "at": "wrong"
+   },
+   {
+    "k": "icon",
+    "n": "bulb",
+    "x": 1480,
+    "y": 560,
+    "size": 260,
+    "at": "sticks",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "a wrong guess *helps*",
+    "x": 1300,
+    "y": 690,
+    "size": 72,
+    "at": "helps",
+    "w": 1100
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "text",
+    "t": "answer *FIRST*",
+    "x": 960,
+    "y": 190,
+    "size": 100,
+    "at": "answer",
+    "w": 1400
+   },
+   {
+    "k": "box",
+    "t": "Q: ???",
+    "x": 600,
+    "y": 480,
+    "w": 420,
+    "h": 280,
+    "at": "flashcards",
+    "font": "marker",
+    "size": 80
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 960,
+    "y": 480,
+    "size": 160,
+    "at": "flip"
+   },
+   {
+    "k": "box",
+    "t": "A: ✓",
+    "x": 1320,
+    "y": 480,
+    "w": 420,
+    "h": 280,
+    "at": "flip",
+    "font": "marker",
+    "size": 80,
+    "fill": "#d6f5dc"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 484,
+    "s": 1.32,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "sweat": true
+   },
+   {
+    "k": "text",
+    "t": "hard = *good*",
+    "x": 1300,
+    "y": 330,
+    "size": 130,
+    "at": "good",
+    "w": 1100,
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "that feeling *is* the learning",
+    "x": 1300,
+    "y": 580,
+    "size": 68,
+    "at": "learning",
+    "w": 1100
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "text",
+    "t": "DESIRABLE DIFFICULTY",
+    "x": 960,
+    "y": 230,
+    "size": 130,
+    "at": "start",
+    "w": 1700,
+    "color": "yellow",
+    "fx": "slam"
+   },
+   {
+    "k": "icon",
+    "n": "exclaim",
+    "x": 540,
+    "y": 560,
+    "size": 230,
+    "at": "warning"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 540,
+    "y": 560,
+    "size": 250,
+    "at": "warning+0.6"
+   },
+   {
+    "k": "text",
+    "t": "not a warning sign",
+    "x": 540,
+    "y": 760,
+    "size": 54,
+    "at": "warning",
+    "font": "hand",
+    "color": "paper"
+   },
+   {
+    "k": "icon",
+    "n": "bulb",
+    "x": 1380,
+    "y": 560,
+    "size": 230,
+    "at": "signal",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "the signal",
+    "x": 1380,
+    "y": 760,
+    "size": 54,
+    "at": "signal",
+    "font": "hand",
+    "color": "paper"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 480,
+    "y": 512,
+    "s": 1.2,
+    "pose": "think",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob",
+    "label": "SAM"
+   },
+   {
+    "k": "text",
+    "t": "4 / 20",
+    "x": 1240,
+    "y": 270,
+    "size": 190,
+    "at": "four",
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "magnifier",
+    "x": 1200,
+    "y": 600,
+    "size": 200,
+    "at": "knows",
+    "loop": "swing"
+   },
+   {
+    "k": "text",
+    "t": "now Sam knows *what to study*",
+    "x": 1360,
+    "y": 700,
+    "size": 58,
+    "at": "exactly",
+    "w": 1100
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "3",
+    "x": 480,
+    "y": 430,
+    "size": 330,
+    "at": "three",
+    "color": "green",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "SPREAD IT OUT",
+    "x": 1280,
+    "y": 330,
+    "size": 120,
+    "at": "spread",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1050,
+    "y": 600,
+    "size": 140,
+    "at": "out",
+    "delay": 0.0
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1220,
+    "y": 600,
+    "size": 140,
+    "at": "out",
+    "delay": 0.12
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1390,
+    "y": 600,
+    "size": 140,
+    "at": "out",
+    "delay": 0.24
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1560,
+    "y": 600,
+    "size": 140,
+    "at": "out",
+    "delay": 0.36
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "stick",
+    "x": 500,
+    "y": 498,
+    "s": 1.26,
+    "pose": "tired",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob",
+    "sweat": true,
+    "shirt": "blue"
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1450,
+    "y": 230,
+    "size": 190,
+    "at": "one",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "5 hours. 1 night.",
+    "x": 1150,
+    "y": 450,
+    "size": 90,
+    "at": "five",
+    "color": "paper",
+    "w": 900
+   },
+   {
+    "k": "icon",
+    "n": "battery",
+    "x": 1000,
+    "y": 650,
+    "size": 220,
+    "at": "short",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "short term memory",
+    "x": 1450,
+    "y": 660,
+    "size": 62,
+    "at": "short",
+    "font": "hand",
+    "color": "yellow",
+    "w": 700
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "text",
+    "t": "TOMORROW",
+    "x": 600,
+    "y": 220,
+    "size": 80,
+    "at": "start",
+    "color": "green"
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 600,
+    "y": 470,
+    "size": 260,
+    "at": "tomorrow's"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 600,
+    "y": 700,
+    "size": 120,
+    "at": "test"
+   },
+   {
+    "k": "text",
+    "t": "NEXT MONTH",
+    "x": 1320,
+    "y": 220,
+    "size": 80,
+    "at": "month",
+    "color": "red"
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1320,
+    "y": 470,
+    "size": 260,
+    "at": "month"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1320,
+    "y": 700,
+    "size": 120,
+    "at": "month+0.5"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "forget",
+    "at": "spaced",
+    "dur": 0.1,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 830,
+    "y": 440,
+    "size": 130,
+    "at": "about",
+    "rot": 90,
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "review *here*!",
+    "x": 830,
+    "y": 300,
+    "size": 74,
+    "at": "review",
+    "color": "green"
+   },
+   {
+    "k": "text",
+    "t": "just as you're about to forget",
+    "x": 1320,
+    "y": 760,
+    "size": 60,
+    "at": "forget",
+    "font": "hand",
+    "w": 900
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "tline",
+    "x": 960,
+    "y": 470,
+    "w": 1300,
+    "at": "review",
+    "labels": [
+     "1 day",
+     "3 days",
+     "1 week",
+     "1 month"
+    ],
+    "ats": [
+     "day",
+     "three",
+     "week",
+     "month"
+    ]
+   },
+   {
+    "k": "text",
+    "t": "spaced repetition",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "example",
+    "color": "purple"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "curve",
+    "kind": "reviews",
+    "at": "each",
+    "dur": 6,
+    "x": 960,
+    "y": 430,
+    "w": 1000,
+    "h": 480,
+    "fx": "fade",
+    "reviews": [
+     0.2,
+     0.42,
+     0.66
+    ]
+   },
+   {
+    "k": "text",
+    "t": "every review = *flatter*",
+    "x": 1500,
+    "y": 90,
+    "size": 60,
+    "at": "flattens",
+    "color": "green",
+    "w": 800
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "dots",
+    "x": 640,
+    "y": 440,
+    "n": 5,
+    "size": 80,
+    "color": "blue",
+    "at": "several",
+    "ats": [
+     "several",
+     "short",
+     "sessions",
+     "usually",
+     "beat"
+    ]
+   },
+   {
+    "k": "box",
+    "t": "",
+    "x": 1380,
+    "y": 440,
+    "w": 560,
+    "h": 110,
+    "at": "one",
+    "fill": "#ffb27a",
+    "round": 40
+   },
+   {
+    "k": "text",
+    "t": "5 short",
+    "x": 640,
+    "y": 600,
+    "size": 70,
+    "at": "sessions",
+    "color": "blue"
+   },
+   {
+    "k": "text",
+    "t": "1 long",
+    "x": 1380,
+    "y": 600,
+    "size": 70,
+    "at": "long",
+    "color": "orange"
+   },
+   {
+    "k": "text",
+    "t": "same total time",
+    "x": 960,
+    "y": 250,
+    "size": 84,
+    "at": "same",
+    "w": 1500,
+    "color": "grey"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 640,
+    "y": 740,
+    "size": 110,
+    "at": "beat"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "too easy",
+    "x": 480,
+    "y": 470,
+    "w": 400,
+    "h": 220,
+    "at": "sweet",
+    "color": "grey",
+    "font": "marker",
+    "size": 54,
+    "op": 0.8
+   },
+   {
+    "k": "box",
+    "t": "JUST RIGHT",
+    "x": 960,
+    "y": 470,
+    "w": 440,
+    "h": 280,
+    "at": "slightly",
+    "color": "green",
+    "fill": "#d6f5dc",
+    "font": "marker",
+    "size": 64
+   },
+   {
+    "k": "box",
+    "t": "impossible",
+    "x": 1440,
+    "y": 470,
+    "w": 400,
+    "h": 220,
+    "at": "impossible",
+    "color": "red",
+    "font": "marker",
+    "size": 54,
+    "op": 0.8
+   },
+   {
+    "k": "text",
+    "t": "slightly hard",
+    "x": 960,
+    "y": 700,
+    "size": 70,
+    "at": "hard",
+    "color": "green"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "text",
+    "t": "longer memory = longer gaps",
+    "x": 960,
+    "y": 200,
+    "size": 90,
+    "at": "rule",
+    "w": 1700,
+    "color": "purple"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 500,
+    "y": 520,
+    "size": 120,
+    "at": "gaps"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 900,
+    "y": 520,
+    "size": 200,
+    "at": "gaps+0.4"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 1450,
+    "y": 520,
+    "size": 320,
+    "at": "gaps+0.8"
+   },
+   {
+    "k": "text",
+    "t": "1 day",
+    "x": 500,
+    "y": 680,
+    "size": 56,
+    "at": "gaps",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "1 week",
+    "x": 900,
+    "y": 680,
+    "size": 56,
+    "at": "gaps+0.4",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "1 month",
+    "x": 1450,
+    "y": 680,
+    "size": 56,
+    "at": "gaps+0.8",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 560,
+    "y": 450,
+    "size": 360,
+    "at": "busy"
+   },
+   {
+    "k": "text",
+    "t": "fits a *busy* week",
+    "x": 560,
+    "y": 700,
+    "size": 62,
+    "at": "easily",
+    "w": 800
+   },
+   {
+    "k": "stick",
+    "x": 1400,
+    "y": 512,
+    "s": 1.2,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1000,
+    "y": 360,
+    "size": 140,
+    "at": "giant"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1000,
+    "y": 360,
+    "size": 160,
+    "at": "giant+0.6"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "phone",
+    "x": 600,
+    "y": 460,
+    "size": 330,
+    "at": "apps"
+   },
+   {
+    "k": "text",
+    "t": "Anki",
+    "x": 600,
+    "y": 720,
+    "size": 80,
+    "at": "anki",
+    "color": "blue"
+   },
+   {
+    "k": "text",
+    "t": "or",
+    "x": 960,
+    "y": 460,
+    "size": 90,
+    "at": "but",
+    "font": "hand"
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1320,
+    "y": 460,
+    "size": 330,
+    "at": "calendar"
+   },
+   {
+    "k": "text",
+    "t": "a simple calendar",
+    "x": 1320,
+    "y": 720,
+    "size": 60,
+    "at": "simple",
+    "font": "hand",
+    "w": 700
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "list",
+    "x": 820,
+    "y": 420,
+    "w": 1200,
+    "size": 76,
+    "mark": "check",
+    "at": "start",
+    "items": [
+     {
+      "t": "Stop rereading",
+      "mark": "check",
+      "at": "rereading"
+     },
+     {
+      "t": "Test yourself",
+      "mark": "check",
+      "at": "test"
+     },
+     {
+      "t": "Spread it out",
+      "mark": "check",
+      "at": "spread"
+     }
+    ]
+   },
+   {
+    "k": "badge",
+    "t": "3",
+    "x": 1560,
+    "y": 300,
+    "size": 190,
+    "at": "three",
+    "color": "orange",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "more to go",
+    "x": 1560,
+    "y": 460,
+    "size": 60,
+    "at": "go",
+    "font": "hand"
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1560,
+    "y": 640,
+    "size": 150,
+    "at": "backwards",
+    "loop": "spin"
+   },
+   {
+    "k": "text",
+    "t": "feels backwards",
+    "x": 1560,
+    "y": 790,
+    "size": 54,
+    "at": "backwards",
+    "font": "hand",
+    "w": 600
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "4",
+    "x": 480,
+    "y": 430,
+    "size": 330,
+    "at": "four",
+    "color": "purple",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "MIX IT UP",
+    "x": 1280,
+    "y": 360,
+    "size": 130,
+    "at": "mix",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1000,
+    "y": 650,
+    "size": 150,
+    "at": "up",
+    "delay": 0.0,
+    "loop": "spin"
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1200,
+    "y": 650,
+    "size": 150,
+    "at": "up",
+    "delay": 0.15,
+    "loop": "spin"
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1400,
+    "y": 650,
+    "size": 150,
+    "at": "up",
+    "delay": 0.3,
+    "loop": "spin"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "A",
+    "x": 410,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.0,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 550,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.1,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 690,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.2,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 830,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.30000000000000004,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 970,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.4,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 1110,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.5,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 1250,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.6000000000000001,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 1390,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.7000000000000001,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 1530,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "one",
+    "delay": 0.8,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "text",
+    "t": "BLOCKED practice",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "blocked",
+    "color": "red"
+   },
+   {
+    "k": "stick",
+    "x": 500,
+    "y": 556,
+    "s": 1.02,
+    "pose": "tired",
+    "face": "flat",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "A",
+    "x": 410,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.0,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 550,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.1,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 690,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.2,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 830,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.30000000000000004,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 970,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.4,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 1110,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.5,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 1250,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.6000000000000001,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 1390,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.7000000000000001,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 1530,
+    "y": 350,
+    "w": 110,
+    "h": 110,
+    "at": "mixing",
+    "delay": 0.8,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "marker",
+    "size": 60,
+    "round": 18
+   },
+   {
+    "k": "text",
+    "t": "INTERLEAVING",
+    "x": 960,
+    "y": 170,
+    "size": 110,
+    "at": "interleaving",
+    "color": "green",
+    "fx": "slam"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 498,
+    "s": 1.26,
+    "pose": "shrug",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob",
+    "sweat": true
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1100,
+    "y": 330,
+    "size": 150,
+    "at": "feels"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1280,
+    "y": 460,
+    "size": 150,
+    "at": "feels+0.4"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1460,
+    "y": 330,
+    "size": 150,
+    "at": "feels+0.8"
+   },
+   {
+    "k": "text",
+    "t": "more mistakes",
+    "x": 1300,
+    "y": 640,
+    "size": 90,
+    "at": "mistakes",
+    "color": "red",
+    "w": 900
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "trophy",
+    "x": 480,
+    "y": 420,
+    "size": 330,
+    "at": "wins",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "mixed practice *wins*",
+    "x": 1250,
+    "y": 300,
+    "size": 96,
+    "at": "wins",
+    "w": 1100
+   },
+   {
+    "k": "box",
+    "t": "choose the right *method*",
+    "x": 1250,
+    "y": 560,
+    "w": 820,
+    "h": 170,
+    "at": "choose",
+    "font": "marker",
+    "size": 56
+   },
+   {
+    "k": "stick",
+    "x": 1810,
+    "y": 570,
+    "s": 0.96,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "text",
+    "t": "PAINTING STYLES",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "start",
+    "color": "purple"
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 480,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.0,
+    "fill": "#ffd23f",
+    "font": "marker",
+    "size": 90,
+    "rot": -4
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 720,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.12,
+    "fill": "#8fb8ff",
+    "font": "marker",
+    "size": 90,
+    "rot": 3
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 960,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.24,
+    "fill": "#9ad49a",
+    "font": "marker",
+    "size": 90,
+    "rot": -2
+   },
+   {
+    "k": "box",
+    "t": "A",
+    "x": 1200,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.36,
+    "fill": "#ffd23f",
+    "font": "marker",
+    "size": 90,
+    "rot": 4
+   },
+   {
+    "k": "box",
+    "t": "B",
+    "x": 1440,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.48,
+    "fill": "#9ad49a",
+    "font": "marker",
+    "size": 90,
+    "rot": -3
+   },
+   {
+    "k": "box",
+    "t": "C",
+    "x": 1680,
+    "y": 470,
+    "w": 200,
+    "h": 260,
+    "at": "mixed",
+    "delay": 0.6,
+    "fill": "#8fb8ff",
+    "font": "marker",
+    "size": 90,
+    "rot": 2
+   },
+   {
+    "k": "text",
+    "t": "artists *mixed* together = better",
+    "x": 960,
+    "y": 790,
+    "size": 66,
+    "at": "better",
+    "w": 1700
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1700,
+    "y": 300,
+    "size": 130,
+    "at": "better"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "text",
+    "t": "MATH",
+    "x": 520,
+    "y": 220,
+    "size": 90,
+    "at": "math",
+    "color": "blue"
+   },
+   {
+    "k": "text",
+    "t": "+  −  ×  ÷",
+    "x": 520,
+    "y": 450,
+    "size": 130,
+    "at": "mix",
+    "font": "marker"
+   },
+   {
+    "k": "text",
+    "t": "LANGUAGE",
+    "x": 1360,
+    "y": 220,
+    "size": 90,
+    "at": "language",
+    "color": "green"
+   },
+   {
+    "k": "icon",
+    "n": "book",
+    "x": 1130,
+    "y": 520,
+    "size": 190,
+    "at": "vocabulary"
+   },
+   {
+    "k": "icon",
+    "n": "speaker",
+    "x": 1360,
+    "y": 520,
+    "size": 190,
+    "at": "listening"
+   },
+   {
+    "k": "bubble",
+    "t": "Hello!",
+    "x": 1600,
+    "y": 440,
+    "at": "speaking",
+    "tail": [
+     -30,
+     110
+    ],
+    "w": 250
+   },
+   {
+    "k": "text",
+    "t": "vocabulary · listening · speaking",
+    "x": 1360,
+    "y": 740,
+    "size": 54,
+    "at": "speaking",
+    "font": "hand",
+    "w": 900
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "text",
+    "t": "PHYSICS",
+    "x": 960,
+    "y": 160,
+    "size": 100,
+    "at": "start",
+    "color": "purple"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 600,
+    "y": 400,
+    "size": 240,
+    "at": "chapter"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 960,
+    "y": 400,
+    "size": 240,
+    "at": "chapter+0.1"
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 1320,
+    "y": 400,
+    "size": 240,
+    "at": "chapter+0.2"
+   },
+   {
+    "k": "text",
+    "t": "Ch.1",
+    "x": 600,
+    "y": 560,
+    "size": 60,
+    "at": "chapter",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "Ch.2",
+    "x": 960,
+    "y": 560,
+    "size": 60,
+    "at": "chapter",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "Ch.3",
+    "x": 1320,
+    "y": 560,
+    "size": 60,
+    "at": "chapter",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "shuffle them *together*",
+    "x": 960,
+    "y": 760,
+    "size": 76,
+    "at": "shuffle",
+    "w": 1500,
+    "color": "green"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "box",
+    "t": "BASKETBALL drills",
+    "x": 560,
+    "y": 380,
+    "w": 700,
+    "h": 170,
+    "at": "start",
+    "font": "marker",
+    "size": 58
+   },
+   {
+    "k": "box",
+    "t": "PIANO scales",
+    "x": 1360,
+    "y": 380,
+    "w": 700,
+    "h": 170,
+    "at": "piano",
+    "font": "marker",
+    "size": 58
+   },
+   {
+    "k": "text",
+    "t": "mixed practice helps here too",
+    "x": 960,
+    "y": 640,
+    "size": 76,
+    "at": "motor",
+    "w": 1500,
+    "color": "green"
+   },
+   {
+    "k": "icon",
+    "n": "sparkle",
+    "x": 960,
+    "y": 780,
+    "size": 120,
+    "at": "motor",
+    "loop": "spin"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "badge",
+    "t": "5",
+    "x": 480,
+    "y": 430,
+    "size": 330,
+    "at": "five",
+    "color": "blue",
+    "fx": "slam"
+   },
+   {
+    "k": "text",
+    "t": "SLEEP",
+    "x": 1280,
+    "y": 330,
+    "size": 150,
+    "at": "sleep",
+    "color": "yellow",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1700,
+    "y": 220,
+    "size": 190,
+    "at": "sleep+0.3",
+    "loop": "float"
+   },
+   {
+    "k": "icon",
+    "n": "zzz",
+    "x": 1500,
+    "y": 560,
+    "size": 190,
+    "at": "studying",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 960,
+    "y": 470,
+    "size": 440,
+    "at": "brain",
+    "loop": "pulse"
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 960,
+    "y": 470,
+    "size": 560,
+    "at": "replays",
+    "op": 0.85,
+    "loop": "spin",
+    "color": "yellow"
+   },
+   {
+    "k": "text",
+    "t": "replay",
+    "x": 440,
+    "y": 330,
+    "size": 80,
+    "at": "replays",
+    "color": "yellow"
+   },
+   {
+    "k": "text",
+    "t": "lock it in",
+    "x": 1480,
+    "y": 330,
+    "size": 80,
+    "at": "stabilizes",
+    "color": "paper"
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 330,
+    "y": 640,
+    "size": 170,
+    "at": "sleep",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "SLEPT",
+    "x": 560,
+    "y": 190,
+    "size": 90,
+    "at": "sleep",
+    "color": "green"
+   },
+   {
+    "k": "stick",
+    "x": 560,
+    "y": 541,
+    "s": 1.08,
+    "pose": "tired",
+    "face": "sleep",
+    "at": "start",
+    "anim": "bob",
+    "shirt": "blue"
+   },
+   {
+    "k": "icon",
+    "n": "star",
+    "x": 560,
+    "y": 340,
+    "size": 150,
+    "at": "more",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "STAYED AWAKE",
+    "x": 1380,
+    "y": 190,
+    "size": 90,
+    "at": "awake",
+    "color": "red"
+   },
+   {
+    "k": "stick",
+    "x": 1380,
+    "y": 541,
+    "s": 1.08,
+    "pose": "tired",
+    "face": "worry",
+    "at": "start",
+    "anim": "bob",
+    "sweat": true,
+    "shirt": "orange"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "coffee",
+    "x": 480,
+    "y": 440,
+    "size": 300,
+    "at": "start"
+   },
+   {
+    "k": "text",
+    "t": "TRAP",
+    "x": 960,
+    "y": 330,
+    "size": 220,
+    "at": "trap",
+    "color": "red",
+    "fx": "slam",
+    "rot": -6
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1000,
+    "y": 650,
+    "size": 180,
+    "at": "give"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1000,
+    "y": 650,
+    "size": 200,
+    "at": "give+0.5"
+   },
+   {
+    "k": "icon",
+    "n": "clock",
+    "x": 1450,
+    "y": 460,
+    "size": 220,
+    "at": "hours",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "tline",
+    "x": 960,
+    "y": 470,
+    "w": 1250,
+    "at": "plan",
+    "labels": [
+     "EVENING: study",
+     "MORNING: review",
+     "ALWAYS: sleep"
+    ],
+    "ats": [
+     "evening",
+     "morning",
+     "protect"
+    ]
+   },
+   {
+    "k": "text",
+    "t": "a better plan",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "plan",
+    "color": "yellow"
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "icon",
+    "n": "bed",
+    "x": 640,
+    "y": 470,
+    "size": 330,
+    "at": "nap"
+   },
+   {
+    "k": "text",
+    "t": "a short nap helps",
+    "x": 640,
+    "y": 700,
+    "size": 62,
+    "at": "short",
+    "color": "paper",
+    "font": "hand",
+    "w": 800
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1330,
+    "y": 440,
+    "size": 300,
+    "at": "nothing",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "nothing replaces a *full night*",
+    "x": 1330,
+    "y": 700,
+    "size": 62,
+    "at": "full",
+    "color": "paper",
+    "w": 800
+   }
+  ]
+ },
+ {
+  "bg": "dark",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 640,
+    "y": 440,
+    "size": 360,
+    "at": "tired",
+    "loop": "float"
+   },
+   {
+    "k": "icon",
+    "n": "battery",
+    "x": 640,
+    "y": 700,
+    "size": 200,
+    "at": "tired+0.4",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "remembers less",
+    "x": 1330,
+    "y": 300,
+    "size": 76,
+    "at": "less",
+    "color": "paper",
+    "w": 800
+   },
+   {
+    "k": "text",
+    "t": "can't take in the *new*",
+    "x": 1280,
+    "y": 520,
+    "size": 70,
+    "at": "new",
+    "color": "paper",
+    "w": 1000
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1780,
+    "y": 520,
+    "size": 110,
+    "at": "anything"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "badge",
+    "t": "6",
+    "x": 400,
+    "y": 330,
+    "size": 270,
+    "at": "six",
+    "color": "red",
+    "fx": "slam"
+   },
+   {
+    "k": "stick",
+    "x": 1050,
+    "y": 498,
+    "s": 1.26,
+    "pose": "talk",
+    "face": "smile",
+    "at": "start",
+    "anim": "talk",
+    "shirt": "green"
+   },
+   {
+    "k": "stick",
+    "x": 1560,
+    "y": 628,
+    "s": 0.72,
+    "pose": "idle",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "shirt": "orange"
+   },
+   {
+    "k": "text",
+    "t": "10",
+    "x": 1560,
+    "y": 440,
+    "size": 70,
+    "at": "ten",
+    "color": "orange",
+    "font": "marker"
+   },
+   {
+    "k": "text",
+    "t": "EXPLAIN IT SIMPLY",
+    "x": 960,
+    "y": 130,
+    "size": 76,
+    "at": "explain",
+    "w": 1500,
+    "color": "blue"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 484,
+    "s": 1.32,
+    "pose": "talk",
+    "face": "smile",
+    "at": "start",
+    "anim": "talk",
+    "shirt": "green"
+   },
+   {
+    "k": "bubble",
+    "t": "In *simple* words...",
+    "x": 1150,
+    "y": 280,
+    "at": "simple",
+    "tail": [
+     -300,
+     210
+    ],
+    "w": 640
+   },
+   {
+    "k": "icon",
+    "n": "note",
+    "x": 1550,
+    "y": 620,
+    "size": 210,
+    "at": "notes"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 1550,
+    "y": 620,
+    "size": 230,
+    "at": "notes+0.4"
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 484,
+    "s": 1.32,
+    "pose": "shrug",
+    "face": "shock",
+    "at": "start",
+    "anim": "bob",
+    "faces": [
+     {
+      "at": "gap",
+      "to": "worry"
+     }
+    ]
+   },
+   {
+    "k": "bubble",
+    "t": "uhh... because... ???",
+    "x": 1130,
+    "y": 270,
+    "at": "stuck",
+    "tail": [
+     -280,
+     220
+    ],
+    "w": 700
+   },
+   {
+    "k": "text",
+    "t": "GAP FOUND",
+    "x": 1300,
+    "y": 650,
+    "size": 120,
+    "at": "gap",
+    "color": "red",
+    "fx": "slam",
+    "rot": -5
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 480,
+    "y": 450,
+    "size": 320,
+    "at": "back",
+    "loop": "spin"
+   },
+   {
+    "k": "list",
+    "x": 1230,
+    "y": 450,
+    "w": 900,
+    "size": 82,
+    "mark": "num",
+    "at": "back",
+    "items": [
+     {
+      "t": "Go back",
+      "at": "back"
+     },
+     {
+      "t": "Fill the gap",
+      "at": "fill"
+     },
+     {
+      "t": "Try again",
+      "at": "try"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "bg": "grid",
+  "objs": [
+   {
+    "k": "text",
+    "t": "THE FEYNMAN TECHNIQUE",
+    "x": 960,
+    "y": 190,
+    "size": 112,
+    "at": "start",
+    "w": 1700,
+    "color": "purple"
+   },
+   {
+    "k": "stick",
+    "x": 560,
+    "y": 512,
+    "s": 1.2,
+    "pose": "point",
+    "face": "smile",
+    "at": "physicist",
+    "anim": "bob",
+    "shirt": "green",
+    "glasses": true,
+    "label": "PHYSICIST"
+   },
+   {
+    "k": "icon",
+    "n": "bulb",
+    "x": 1350,
+    "y": 520,
+    "size": 300,
+    "at": "physicist",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "box",
+    "t": "FRIEND",
+    "x": 520,
+    "y": 430,
+    "w": 400,
+    "h": 170,
+    "at": "start",
+    "font": "marker",
+    "size": 60
+   },
+   {
+    "k": "box",
+    "t": "PET",
+    "x": 960,
+    "y": 430,
+    "w": 400,
+    "h": 170,
+    "at": "pet",
+    "font": "marker",
+    "size": 60
+   },
+   {
+    "k": "box",
+    "t": "EMPTY CHAIR",
+    "x": 1400,
+    "y": 430,
+    "w": 440,
+    "h": 170,
+    "at": "chair",
+    "font": "marker",
+    "size": 54
+   },
+   {
+    "k": "text",
+    "t": "teaching = retrieval with a *purpose*",
+    "x": 960,
+    "y": 700,
+    "size": 66,
+    "at": "teaching",
+    "w": 1700
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 512,
+    "s": 1.2,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "faces": [
+     {
+      "at": "falls",
+      "to": "worry"
+     }
+    ],
+    "poses": [
+     {
+      "at": "falls",
+      "to": "shrug"
+     }
+    ]
+   },
+   {
+    "k": "box",
+    "t": "my explanation",
+    "x": 1280,
+    "y": 300,
+    "w": 640,
+    "h": 190,
+    "at": "confident",
+    "font": "marker",
+    "size": 56,
+    "move": {
+     "at": "falls",
+     "to": [
+      1330,
+      640
+     ],
+     "dur": 0.8
+    },
+    "rot": 0
+   },
+   {
+    "k": "text",
+    "t": "falls apart",
+    "x": 1280,
+    "y": 840,
+    "size": 80,
+    "at": "apart",
+    "color": "red",
+    "w": 900
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "box",
+    "t": "NEW FACT",
+    "x": 540,
+    "y": 400,
+    "w": 480,
+    "h": 200,
+    "at": "start",
+    "font": "marker",
+    "size": 62,
+    "color": "blue"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 960,
+    "y": 400,
+    "size": 190,
+    "at": "already"
+   },
+   {
+    "k": "box",
+    "t": "WHAT I KNOW",
+    "x": 1380,
+    "y": 400,
+    "w": 540,
+    "h": 200,
+    "at": "already",
+    "font": "marker",
+    "size": 60,
+    "color": "green"
+   },
+   {
+    "k": "box",
+    "t": "+ a picture",
+    "x": 640,
+    "y": 680,
+    "w": 420,
+    "h": 130,
+    "at": "picture",
+    "size": 54
+   },
+   {
+    "k": "box",
+    "t": "+ a little story",
+    "x": 1180,
+    "y": 680,
+    "w": 520,
+    "h": 130,
+    "at": "story",
+    "size": 54
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 960,
+    "y": 440,
+    "size": 320,
+    "at": "start",
+    "loop": "pulse"
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 1270.0985648593498,
+    "y": 532.3454386979306,
+    "size": 140,
+    "at": "paths",
+    "delay": 0.0,
+    "rot": 200.0
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 1017.303898630087,
+    "y": 705.8980933132962,
+    "size": 140,
+    "at": "paths",
+    "delay": 0.2,
+    "rot": 260.0
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 707.2053337707373,
+    "y": 613.5526546153657,
+    "size": 140,
+    "at": "paths",
+    "delay": 0.4,
+    "rot": 320.0
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 649.9014351406502,
+    "y": 347.65456130206945,
+    "size": 140,
+    "at": "paths",
+    "delay": 0.6000000000000001,
+    "rot": 380.0
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 902.696101369913,
+    "y": 174.10190668670384,
+    "size": 140,
+    "at": "paths",
+    "delay": 0.8,
+    "rot": 440.0
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 1212.7946662292627,
+    "y": 266.44734538463433,
+    "size": 140,
+    "at": "paths",
+    "delay": 1.0,
+    "rot": 500.0
+   },
+   {
+    "k": "text",
+    "t": "more paths = *easier* to retrieve",
+    "x": 960,
+    "y": 800,
+    "size": 66,
+    "at": "easier",
+    "w": 1700
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "text",
+    "t": "QUIZ TIME",
+    "x": 960,
+    "y": 200,
+    "size": 160,
+    "at": "test",
+    "color": "red",
+    "fx": "slam"
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 498,
+    "s": 1.26,
+    "pose": "think",
+    "face": "think",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "text",
+    "t": "name 3 of the 6 fixes",
+    "x": 1300,
+    "y": 400,
+    "size": 78,
+    "at": "name",
+    "w": 900
+   },
+   {
+    "k": "text",
+    "t": "3",
+    "x": 1300,
+    "y": 600,
+    "size": 190,
+    "at": "wait+0.2",
+    "until": "wait+1.2",
+    "color": "orange"
+   },
+   {
+    "k": "text",
+    "t": "2",
+    "x": 1300,
+    "y": 600,
+    "size": 190,
+    "at": "wait+1.2",
+    "until": "wait+2.2",
+    "color": "orange"
+   },
+   {
+    "k": "text",
+    "t": "1",
+    "x": 1300,
+    "y": 600,
+    "size": 190,
+    "at": "wait+2.2",
+    "until": "wait+3.2",
+    "color": "orange"
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "box",
+    "t": "1 · Stop rereading",
+    "x": 520,
+    "y": 330,
+    "w": 410,
+    "h": 220,
+    "at": "start",
+    "font": "marker",
+    "size": 46,
+    "color": "red"
+   },
+   {
+    "k": "box",
+    "t": "2 · Test yourself",
+    "x": 960,
+    "y": 330,
+    "w": 410,
+    "h": 220,
+    "at": "test",
+    "font": "marker",
+    "size": 46,
+    "color": "orange"
+   },
+   {
+    "k": "box",
+    "t": "3 · Spread it out",
+    "x": 1400,
+    "y": 330,
+    "w": 410,
+    "h": 220,
+    "at": "spread",
+    "font": "marker",
+    "size": 46,
+    "color": "green"
+   },
+   {
+    "k": "box",
+    "t": "4 · Mix it up",
+    "x": 520,
+    "y": 600,
+    "w": 410,
+    "h": 220,
+    "at": "mix",
+    "font": "marker",
+    "size": 46,
+    "color": "blue"
+   },
+   {
+    "k": "box",
+    "t": "5 · Sleep",
+    "x": 960,
+    "y": 600,
+    "w": 410,
+    "h": 220,
+    "at": "sleep",
+    "font": "marker",
+    "size": 46,
+    "color": "purple"
+   },
+   {
+    "k": "box",
+    "t": "6 · Teach it",
+    "x": 1400,
+    "y": 600,
+    "w": 410,
+    "h": 220,
+    "at": "teach",
+    "font": "marker",
+    "size": 46,
+    "color": "ink"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "MON",
+    "x": 400,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54
+   },
+   {
+    "k": "box",
+    "t": "TUE",
+    "x": 680,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "routine",
+    "font": "marker",
+    "size": 54,
+    "delay": 0.1
+   },
+   {
+    "k": "box",
+    "t": "WED",
+    "x": 960,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "routine",
+    "font": "marker",
+    "size": 54,
+    "delay": 0.2
+   },
+   {
+    "k": "box",
+    "t": "THU",
+    "x": 1240,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "routine",
+    "font": "marker",
+    "size": 54,
+    "delay": 0.30000000000000004
+   },
+   {
+    "k": "box",
+    "t": "FRI",
+    "x": 1520,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "routine",
+    "font": "marker",
+    "size": 54,
+    "delay": 0.4
+   },
+   {
+    "k": "box",
+    "t": "study something new",
+    "x": 400,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "monday",
+    "size": 42,
+    "fill": "blue",
+    "tcolor": "paper",
+    "font": "hand"
+   },
+   {
+    "k": "text",
+    "t": "a simple weekly routine",
+    "x": 960,
+    "y": 160,
+    "size": 90,
+    "at": "weekly",
+    "color": "purple",
+    "w": 1700
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "MON",
+    "x": 400,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "TUE",
+    "x": 680,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "WED",
+    "x": 960,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "THU",
+    "x": 1240,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "FRI",
+    "x": 1520,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "study new",
+    "x": 400,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 44,
+    "fill": "blue",
+    "tcolor": "paper",
+    "fx": "none",
+    "font": "hand"
+   },
+   {
+    "k": "box",
+    "t": "close the book, write it down",
+    "x": 680,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "tuesday",
+    "size": 38,
+    "fill": "orange",
+    "tcolor": "paper",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "MON",
+    "x": 400,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "TUE",
+    "x": 680,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "WED",
+    "x": 960,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "THU",
+    "x": 1240,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "FRI",
+    "x": 1520,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "study new",
+    "x": 400,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 44,
+    "fill": "blue",
+    "tcolor": "paper",
+    "fx": "none",
+    "font": "hand"
+   },
+   {
+    "k": "box",
+    "t": "recall on paper",
+    "x": 680,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 44,
+    "fill": "orange",
+    "tcolor": "paper",
+    "fx": "none",
+    "font": "hand"
+   },
+   {
+    "k": "box",
+    "t": "quiz + older topics",
+    "x": 1240,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "thursday",
+    "size": 42,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "hand"
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "box",
+    "t": "MON",
+    "x": 400,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "TUE",
+    "x": 680,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "WED",
+    "x": 960,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "THU",
+    "x": 1240,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "FRI",
+    "x": 1520,
+    "y": 330,
+    "w": 250,
+    "h": 120,
+    "at": "start",
+    "font": "marker",
+    "size": 54,
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "study new",
+    "x": 400,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 44,
+    "fill": "blue",
+    "tcolor": "paper",
+    "fx": "none",
+    "font": "hand"
+   },
+   {
+    "k": "box",
+    "t": "recall on paper",
+    "x": 680,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 44,
+    "fill": "orange",
+    "tcolor": "paper",
+    "fx": "none",
+    "font": "hand"
+   },
+   {
+    "k": "box",
+    "t": "quiz + older topics",
+    "x": 1240,
+    "y": 560,
+    "w": 250,
+    "h": 190,
+    "at": "start",
+    "size": 42,
+    "fill": "green",
+    "tcolor": "paper",
+    "font": "hand",
+    "fx": "none"
+   },
+   {
+    "k": "box",
+    "t": "NEXT WEEK: explain it out loud",
+    "x": 960,
+    "y": 800,
+    "w": 1100,
+    "h": 120,
+    "at": "next",
+    "size": 50,
+    "fill": "#e8dcff",
+    "font": "marker"
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1700,
+    "y": 560,
+    "size": 160,
+    "at": "sleep",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "sleep every night",
+    "x": 1700,
+    "y": 700,
+    "size": 46,
+    "at": "sleep",
+    "font": "hand",
+    "w": 380
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 484,
+    "s": 1.32,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob",
+    "label": "SAM"
+   },
+   {
+    "k": "text",
+    "t": "1 month later",
+    "x": 1280,
+    "y": 170,
+    "size": 74,
+    "at": "month",
+    "color": "purple",
+    "w": 800
+   },
+   {
+    "k": "box",
+    "t": "EXAM  ✓  ✓  ✓",
+    "x": 1280,
+    "y": 470,
+    "w": 640,
+    "h": 240,
+    "at": "exam",
+    "font": "marker",
+    "size": 64,
+    "fill": "#fff"
+   },
+   {
+    "k": "text",
+    "t": "calm",
+    "x": 1280,
+    "y": 700,
+    "size": 100,
+    "at": "calm",
+    "color": "green",
+    "fx": "slam"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 1700,
+    "y": 470,
+    "size": 130,
+    "at": "familiar",
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "blue",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 620,
+    "y": 470,
+    "size": 420,
+    "at": "memory",
+    "loop": "pulse"
+   },
+   {
+    "k": "icon",
+    "n": "check",
+    "x": 620,
+    "y": 470,
+    "size": 160,
+    "at": "broken"
+   },
+   {
+    "k": "text",
+    "t": "not *broken*",
+    "x": 1360,
+    "y": 280,
+    "size": 100,
+    "at": "broken",
+    "w": 1000
+   },
+   {
+    "k": "text",
+    "t": "it forgets whatever seems *unimportant*",
+    "x": 1360,
+    "y": 560,
+    "size": 66,
+    "at": "forget",
+    "w": 900
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "icon",
+    "n": "magnifier",
+    "x": 350,
+    "y": 430,
+    "size": 190,
+    "at": "retrieval"
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 650,
+    "y": 430,
+    "size": 190,
+    "at": "spacing"
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 950,
+    "y": 430,
+    "size": 190,
+    "at": "mixing",
+    "loop": "spin"
+   },
+   {
+    "k": "icon",
+    "n": "moon",
+    "x": 1250,
+    "y": 430,
+    "size": 190,
+    "at": "sleep"
+   },
+   {
+    "k": "icon",
+    "n": "cap",
+    "x": 1550,
+    "y": 430,
+    "size": 190,
+    "at": "teaching"
+   },
+   {
+    "k": "text",
+    "t": "THIS ONE MATTERS",
+    "x": 960,
+    "y": 720,
+    "size": 120,
+    "at": "matters",
+    "color": "red",
+    "fx": "slam",
+    "w": 1700
+   }
+  ]
+ },
+ {
+  "bg": "green",
+  "objs": [
+   {
+    "k": "box",
+    "t": "1",
+    "x": 480,
+    "y": 640,
+    "w": 160,
+    "h": 160,
+    "at": "start",
+    "fill": "orange",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "2",
+    "x": 670,
+    "y": 600,
+    "w": 160,
+    "h": 200,
+    "at": "next",
+    "delay": 0.25,
+    "fill": "#fff",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "3",
+    "x": 860,
+    "y": 560,
+    "w": 160,
+    "h": 240,
+    "at": "next",
+    "delay": 0.5,
+    "fill": "#fff",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "4",
+    "x": 1050,
+    "y": 520,
+    "w": 160,
+    "h": 280,
+    "at": "next",
+    "delay": 0.75,
+    "fill": "#fff",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "5",
+    "x": 1240,
+    "y": 480,
+    "w": 160,
+    "h": 320,
+    "at": "next",
+    "delay": 1.0,
+    "fill": "#fff",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "box",
+    "t": "6",
+    "x": 1430,
+    "y": 440,
+    "w": 160,
+    "h": 360,
+    "at": "next",
+    "delay": 1.25,
+    "fill": "#fff",
+    "font": "marker",
+    "size": 70,
+    "round": 18
+   },
+   {
+    "k": "text",
+    "t": "one at a time",
+    "x": 960,
+    "y": 170,
+    "size": 100,
+    "at": "pick",
+    "w": 1500,
+    "color": "orange"
+   },
+   {
+    "k": "text",
+    "t": "habit for *two weeks*",
+    "x": 960,
+    "y": 330,
+    "size": 66,
+    "at": "weeks",
+    "w": 1500
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 520,
+    "y": 498,
+    "s": 1.26,
+    "pose": "think",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "icon",
+    "n": "calendar",
+    "x": 1050,
+    "y": 400,
+    "size": 280,
+    "at": "three"
+   },
+   {
+    "k": "text",
+    "t": "+3 days",
+    "x": 1050,
+    "y": 620,
+    "size": 80,
+    "at": "days",
+    "color": "red"
+   },
+   {
+    "k": "text",
+    "t": "list all *six* fixes",
+    "x": 1540,
+    "y": 300,
+    "size": 54,
+    "at": "list",
+    "w": 640
+   },
+   {
+    "k": "icon",
+    "n": "loop",
+    "x": 1540,
+    "y": 540,
+    "size": 150,
+    "at": "spaced",
+    "loop": "spin"
+   },
+   {
+    "k": "text",
+    "t": "spaced retrieval",
+    "x": 1540,
+    "y": 700,
+    "size": 52,
+    "at": "action",
+    "font": "hand",
+    "w": 500
+   }
+  ]
+ },
+ {
+  "bg": "paper",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 500,
+    "y": 484,
+    "s": 1.32,
+    "pose": "point",
+    "face": "smile",
+    "at": "start",
+    "anim": "bob"
+   },
+   {
+    "k": "text",
+    "t": "ONE fix this week",
+    "x": 1260,
+    "y": 270,
+    "size": 110,
+    "at": "one",
+    "w": 1200,
+    "color": "orange"
+   },
+   {
+    "k": "box",
+    "t": "tell me in the *comments*",
+    "x": 1260,
+    "y": 530,
+    "w": 840,
+    "h": 190,
+    "at": "comments",
+    "font": "marker",
+    "size": 56
+   },
+   {
+    "k": "icon",
+    "n": "arrowr",
+    "x": 1260,
+    "y": 700,
+    "size": 130,
+    "at": "comments+0.5",
+    "rot": 90,
+    "loop": "float"
+   }
+  ]
+ },
+ {
+  "bg": "yellow",
+  "objs": [
+   {
+    "k": "line",
+    "x": 960,
+    "y": 804,
+    "w": 1700,
+    "at": "start",
+    "fx": "fade",
+    "color": "ink",
+    "op": 0.55
+   },
+   {
+    "k": "stick",
+    "x": 480,
+    "y": 527,
+    "s": 1.14,
+    "pose": "tired",
+    "face": "sad",
+    "at": "start",
+    "anim": "bob",
+    "prop": "clock",
+    "shirt": "orange"
+   },
+   {
+    "k": "icon",
+    "n": "cross",
+    "x": 480,
+    "y": 330,
+    "size": 130,
+    "at": "studies"
+   },
+   {
+    "k": "text",
+    "t": "studies longest",
+    "x": 480,
+    "y": 220,
+    "size": 54,
+    "at": "longest",
+    "font": "hand",
+    "w": 500
+   },
+   {
+    "k": "stick",
+    "x": 1380,
+    "y": 527,
+    "s": 1.14,
+    "pose": "cheer",
+    "face": "smile",
+    "at": "tries",
+    "anim": "bob"
+   },
+   {
+    "k": "icon",
+    "n": "brain",
+    "x": 1380,
+    "y": 330,
+    "size": 150,
+    "at": "tries",
+    "loop": "float"
+   },
+   {
+    "k": "text",
+    "t": "TRIES TO REMEMBER",
+    "x": 960,
+    "y": 110,
+    "size": 90,
+    "at": "tries",
+    "color": "red",
+    "fx": "slam",
+    "w": 1700
+   }
+  ]
+ }
+]

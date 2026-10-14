@@ -1,0 +1,16 @@
+{
+  "id": "remotion",
+  "name": "Remotion (React)",
+  "kind": "react",
+  "license": "Remotion License (free for individuals and small teams; company license for larger companies)",
+  "detect": ["node", "-e", "process.exit(require('fs').existsSync('core/node_modules/remotion') ? 0 : 1)"],
+  "install": "cd core && npm ci",
+  "agentSkills": "npx skills add remotion-dev/skills   (start with /remotion-best-practices)",
+  "scaffold": "use the Vidbucks templates: core/src/templates (copy a config in demos.ts) or write a new composition in core/src",
+  "check": "cd core && npx tsc --noEmit",
+  "stills": "cd core && npx remotion still src/index.ts <CompositionId> out/qa/f.png --frame N --scale 0.35",
+  "render": "cd core && npx remotion render src/index.ts <CompositionId> out/x.mp4 --codec h264 --crf 16 --concurrency=4",
+  "output": "mp4",
+  "vidbucksTemplates": true,
+  "notes": ["Four config-driven templates ship with Vidbucks: IconStory, ObjectStory, KineticType, ParticleBloom.", "Responsive 9:16 and 16:9 from one composition."]
+}

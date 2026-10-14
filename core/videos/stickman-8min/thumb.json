@@ -1,0 +1,12 @@
+{
+  "bg": "yellow",
+  "objs": [
+    { "k": "line", "x": 960, "y": 880, "w": 1900, "color": "ink", "op": 0.6 },
+    { "k": "stick", "x": 430, "y": 556, "s": 1.35, "pose": "hold", "face": "worry", "sweat": true, "prop": "book", "shirt": "blue" },
+    { "k": "text", "t": "YOU", "x": 1280, "y": 230, "size": 250, "color": "ink", "rot": -4, "w": 1000 },
+    { "k": "text", "t": "FORGET", "x": 1300, "y": 470, "size": 250, "color": "red", "rot": -4, "w": 1100 },
+    { "k": "icon", "n": "brain", "x": 1390, "y": 750, "size": 250 },
+    { "k": "icon", "n": "question", "x": 1560, "y": 740, "size": 190, "color": "ink" },
+    { "k": "icon", "n": "question", "x": 1230, "y": 730, "size": 130 }
+  ]
+}
